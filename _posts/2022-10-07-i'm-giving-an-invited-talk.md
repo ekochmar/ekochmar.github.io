@@ -19,5 +19,3 @@ I will describe the AI approaches that we use to provide learners with highly pe
 Finally, I will present and discuss the results of a comparative head-to-head study on learning outcomes for Korbit and a popular MOOC platform that follows a traditional model delivering content using lecture videos and multiple-choice quizzes. 
 Our experiments demonstrate a significant increase in learning outcomes, with students on the Korbit platform showing higher course completion rates and achieving learning gains 2 to 2.5 times higher than students on an online platform who do not receive dialogue-based feedback. 
 These results highlight the tremendous impact that can be achieved with a dialogue-based AI-powered system, making high-quality learning experiences available to millions of learners around the world.
-
-![Korbit](/docs/assets/images/visual.pdf)
