@@ -18,4 +18,5 @@ I am also a co-founder and the chief scientific officer of [Korbit AI](https://w
 I hold a PhD in Natural Language Processing and an MPhil in Advanced Computer Science from the University of Cambridge, an MA degree in Computational Linguistics from the University of Tübingen, and a diploma in Applied Linguistics from St. Petersburg State University. 
 I am also the President of the Special Interest Group on Building Educational Applications ([SIGEDU](https://sig-edu.org)) of the Association for Computational Linguistics (ACL) and the President of the International Alliance to Advance Learning in the Digital Era ([IAALDE](https://alliancelss.com)).
 
-You can find my CV [here](https://www.cl.cam.ac.uk/~ek358/CV.pdf). For more information, see my [old webpage](https://www.cl.cam.ac.uk/~ek358/) here.
+You can find my CV [here](https://drive.google.com/file/d/1vNvZ2S6FNU7M-gsHU1mFHaTjEiinYkST/view?usp=sharing). 
+For more information, see my [old webpage](https://www.cl.cam.ac.uk/~ek358/) here.
