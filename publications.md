@@ -8,7 +8,7 @@ permalink: /publications/
 - On [Google Scholar](https://scholar.google.com/citations?user=e2HTYnkAAAAJ&hl=en)
 
 <a name="2022"></a> 
-#2022
+##2022
 - **Ekaterina Kochmar** (2022). Getting Started with Natural Language Processing. 
 Manning Publications, ISBN 9781617296765. Available on [Manning](https://www.manning.com/books/getting-started-with-natural-language-processing?utm_source=linkedin&utm_medium=author&utm_campaign=book_kochmar_getting_10_1_19) and [Amazon](https://www.amazon.co.uk/Getting-Started-Natural-Language-Processing/dp/1617296767/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)
 - Devang Kulshreshtha, Muhammad Shayan, Robert Belfer, Siva Reddy, Iulian Vlad Serban, and **Ekaterina Kochmar** (2022). 
@@ -19,7 +19,7 @@ Question Personalization in an Intelligent Tutoring System. In Proceedings of th
 Raising Student Completion Rates with Adaptive Curriculum and Contextual Bandits. In Proceedings of the 23rd International Conference on Artificial Intelligence in Education (AIED 2022) [[paper](https://arxiv.org/pdf/2207.14003.pdf)]
 
 <a name="2021"></a>
-#2021
+##2021
 - **Ekaterina Kochmar**, Dung Do Vu, Robert Belfer, Varun Gupta, Iulian Vlad Serban, and Joelle Pineau (2021). 
 Automated Generation of Personalized Pedagogical Interventions in Intelligent Tutoring Systems. In International Journal of Artificial Intelligence in Education (IJAIED). A system based on this research is deployed by [Korbit](https://korbit.ai). [[paper](https://link.springer.com/article/10.1007/s40593-021-00267-x)]
 - Rebecca Watson and **Ekaterina Kochmar** (2021). 
@@ -32,16 +32,21 @@ Word Complexity is in the Eye of the Beholder. In Proceedings of the 2021 Confer
 Deep Discourse Analysis for Generating Personalized Feedback in Intelligent Tutor Systems. In Proceedings of the 11th Symposium on Educational Advances in Artificial Intelligence (EAAI-21) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/17829/17634)]
 
 <a name="2020"></a>
-#2020
+##2020
 - Shiva Taslimipoor, Sara Bahaadini, and **Ekaterina Kochmar** (2020). 
 MTLB-STRUCT @PARSEME 2020: Capturing Unseen Multiword Expressions Using Multi-task Learning and Pre-trained Masked Language Models. 
 In Proceedings of the Joint Workshop on Multiword Expressions and Electronic Lexicons (MWE-LEX 2020, COLING 2020). 
 The system presented in this paper **ranked first** in the open track of the shared task on semi-supervised identification of verbal multiword expressions across 14 languages. [[paper](https://arxiv.org/pdf/2011.02541)]
-- Iulian Vlad Serban, Varun Gupta, Ekaterina Kochmar, Dung D. Vu, Robert Belfer, Joelle Pineau, Aaron Courville, Laurent Charlin, and Yoshua Bengio (2020). A Large-Scale, Open-Domain, Mixed-Interface Dialogue-Based ITS for STEM. In Proceedings of the 21st International Conference on Artificial Intelli- gence in Education (AIED 2020)
-- Ekaterina Kochmar, Dung Do Vu, Robert Belfer, Varun Gupta, Iulian Vlad Serban, and Joelle Pineau (2020). Automated Personalized Feedback Improves Learning Gains in an Intelligent Tutoring System. In Proceedings of the 21st International Conference on Artificial Intelligence in Education (AIED 2020). A system based on this research is deployed by Korbit (https://korbit.ai)
-- Sian Gooding, Shiva Taslimipoor, and Ekaterina Kochmar (2020). Incorporating Multiword Expressions in Phrase Complexity Estimation. In Proceedings of the 1st Workshop on Tools and Resources to Empower People with REAding DIfficulties (READI 2020)
+- Iulian Vlad Serban, Varun Gupta, **Ekaterina Kochmar**, Dung D. Vu, Robert Belfer, Joelle Pineau, Aaron Courville, Laurent Charlin, and Yoshua Bengio (2020). 
+A Large-Scale, Open-Domain, Mixed-Interface Dialogue-Based ITS for STEM. In Proceedings of the 21st International Conference on Artificial Intelligence in Education (AIED 2020) [[paper](https://link.springer.com/chapter/10.1007/978-3-030-52240-7_70)]
+- **Ekaterina Kochmar**, Dung Do Vu, Robert Belfer, Varun Gupta, Iulian Vlad Serban, and Joelle Pineau (2020). 
+Automated Personalized Feedback Improves Learning Gains in an Intelligent Tutoring System. In Proceedings of the 21st International Conference on Artificial Intelligence in Education (AIED 2020). 
+A system based on this research is deployed by [Korbit](https://korbit.ai). [[paper](https://link.springer.com/chapter/10.1007/978-3-030-52240-7_26)]
+- Sian Gooding, Shiva Taslimipoor, and **Ekaterina Kochmar** (2020). Incorporating Multiword Expressions in Phrase Complexity Estimation. In Proceedings of the 1st Workshop on Tools and Resources to Empower People with REAding DIfficulties (READI 2020)
 - Ekaterina Kochmar, Sian Gooding, and Matthew Shardlow (2020). Detecting Multiword Expression Type Helps Lexical Complexity Assessment. In Proceedings of the 12th Conference on Language Resources and Evaluation (LREC 2020)
-David Strohmaier, Sian Gooding, Shiva Taslimipoor, and Ekaterina Kochmar (2020). SeCoDa: Sense Complexity Dataset. In Proceedings of the 12th Conference on Language Resources and Evaluation (LREC 2020)
+- David Strohmaier, Sian Gooding, Shiva Taslimipoor, and Ekaterina Kochmar (2020). SeCoDa: Sense Complexity Dataset. In Proceedings of the 12th Conference on Language Resources and Evaluation (LREC 2020)
+
+
 - Sian Gooding and Ekaterina Kochmar (2019). Recursive Context-Aware Lexical Simplification. In Pro- ceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP 2019)
 - Sian Gooding and Ekaterina Kochmar (2019). Complex Word Identification as a Sequence Labelling Task. In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL 2019)
 - Sian Gooding, Ekaterina Kochmar, Advait Sarkar, and Alan Blackwell (2019). Comparative judgments are more consistent than binary classification for labelling word complexity. In Proceedings of the 13th Linguistic Annotation Workshop (LAW XIII, ACL 2019)
