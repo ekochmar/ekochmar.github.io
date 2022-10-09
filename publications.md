@@ -4,16 +4,20 @@ title: Publications
 permalink: /publications/
 ---
 
-- By year: [2022](#2022)
+- By year: [2022](#2022) [2021](#2021)
 - On [Google Scholar](https://scholar.google.com/citations?user=e2HTYnkAAAAJ&hl=en)
 
-#<a name="2022"></a>2022
+###<a name="2022"></a>2022
 - **Ekaterina Kochmar** (2022). Getting Started with Natural Language Processing. 
 Manning Publications, ISBN 9781617296765. Available on [Manning](https://www.manning.com/books/getting-started-with-natural-language-processing?utm_source=linkedin&utm_medium=author&utm_campaign=book_kochmar_getting_10_1_19) and [Amazon](https://www.amazon.co.uk/Getting-Started-Natural-Language-Processing/dp/1617296767/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)
 - Devang Kulshreshtha, Muhammad Shayan, Robert Belfer, Siva Reddy, Iulian Vlad Serban, and **Ekaterina Kochmar** (2022). 
-Few-shot Question Generation for Personalized Feedback in Intelligent Tutoring Systems. In Proceedings of the 11th International Conference on Prestigious Applications of Intelligent Systems (PAIS 2022) [(paper)](https://arxiv.org/pdf/2206.04187)
-Sabina Elkins, Robert Belfer, Ekaterina Kochmar, Iulian Vlad Serban, and Jackie Cheung (2022). Ques- tion Personalization in an Intelligent Tutoring System. In Proceedings of the 23rd International Conference on Artificial Intelligence in Education (AIED 2022)
-- Robert Belfer, Ekaterina Kochmar, and Iulian Vlad Serban (2022). Raising Student Completion Rates with Adaptive Curriculum and Contextual Bandits. In Proceedings of the 23rd International Conference on Artificial Intelligence in Education (AIED 2022)
+Few-shot Question Generation for Personalized Feedback in Intelligent Tutoring Systems. In Proceedings of the 11th International Conference on Prestigious Applications of Intelligent Systems (PAIS 2022) [[paper](https://arxiv.org/pdf/2206.04187)]
+- Sabina Elkins, Robert Belfer, **Ekaterina Kochmar**, Iulian Vlad Serban, and Jackie Cheung (2022). 
+Question Personalization in an Intelligent Tutoring System. In Proceedings of the 23rd International Conference on Artificial Intelligence in Education (AIED 2022) [[paper](https://arxiv.org/pdf/2206.14145)]
+- Robert Belfer, **Ekaterina Kochmar**, and Iulian Vlad Serban (2022). 
+Raising Student Completion Rates with Adaptive Curriculum and Contextual Bandits. In Proceedings of the 23rd International Conference on Artificial Intelligence in Education (AIED 2022) [[paper](https://arxiv.org/pdf/2207.14003.pdf)]
+
+###<a name="2021"></a>2021
 - Ekaterina Kochmar, Dung Do Vu, Robert Belfer, Varun Gupta, Iulian Vlad Serban, and Joelle Pineau (2021). Automated Generation of Personalized Pedagogical Interventions in Intelligent Tutoring Systems. In International Journal of Artificial Intelligence in Education (IJAIED). A system based on this research is deployed by Korbit (https://korbit.ai)
 - Rebecca Watson and Ekaterina Kochmar (2021). Read & Improve: A Novel Reading Tutoring System. In Proceedings of Educational Data Mining (EDM 2021)
 - Francois St-Hilaire, Nathan Burns, Robert Belfer, Muhammad Shayan, Ariella Smofsky, Dung Do Vu, Antoine Frau, Joseph Potochny, Farid Faraji, Vincent Pavero, Neroli Ko, Ansona Onyi Ching, Sabina Elkins, Anush Stepanyan, Adela Matajova, Laurent Charlin, Yoshua Bengio, Iulian Vlad Serban, and Ekaterina Kochmar. A Comparative Study of Learning Outcomes for Online Learning Platforms. In Proceed- ings of the 22nd International Conference on Artificial Intelligence in Education (AIED 2021)
