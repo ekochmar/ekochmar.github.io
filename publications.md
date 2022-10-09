@@ -4,12 +4,12 @@ title: Publications
 permalink: /publications/
 ---
 
-- By year: [2022](#2022) [2021](#2021) [2020](#2020) [2019](#2019) [2018](#2018) [2017](#2017)
+- By year: [2022](#2022) [2021](#2021) [2020](#2020) [2019](#2019) [2018](#2018) [2017](#2017) [2016](#2016)
 - On [Google Scholar](https://scholar.google.com/citations?user=e2HTYnkAAAAJ&hl=en)
 
 <a name="2022"></a> 
 # 2022
-- **Ekaterina Kochmar** (2022). Getting Started with Natural Language Processing. 
+- **Ekaterina Kochmar** (2022). _Getting Started with Natural Language Processing_. 
 Manning Publications, ISBN 9781617296765. Available on [Manning](https://www.manning.com/books/getting-started-with-natural-language-processing?utm_source=linkedin&utm_medium=author&utm_campaign=book_kochmar_getting_10_1_19) and [Amazon](https://www.amazon.co.uk/Getting-Started-Natural-Language-Processing/dp/1617296767/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)
 - Devang Kulshreshtha, Muhammad Shayan, Robert Belfer, Siva Reddy, Iulian Vlad Serban, and **Ekaterina Kochmar** (2022). 
 Few-shot Question Generation for Personalized Feedback in Intelligent Tutoring Systems. In Proceedings of the 11th International Conference on Prestigious Applications of Intelligent Systems (PAIS 2022) [[paper](https://arxiv.org/pdf/2206.04187)]
@@ -82,9 +82,19 @@ Classification of Twitter Accounts into Automated Agents and Human Users.
 In Proceedings of the 9th IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM 2017). 
 This research was **reviewed in [Scientific American](https://www.scientificamerican.com/podcast/episode/celebrities-tweet-like-bots/)**, International Business Times, among other sources. [[paper](https://www.repository.cam.ac.uk/bitstream/handle/1810/298180/main.pdf?sequence=3)]
 
-- Aurelie Herbelot and Ekaterina Kochmar (2016). ‘Calling on the classical phone’: a distributional model of adjective-noun errors in learners’ English. In Proceedings of the 26th International Conference on Computational Linguistics (COLING 2016)
-- Ekaterina Kochmar and Ekaterina Shutova (2016). Cross-Lingual Lexico-Semantic Transfer in Language Learning. In Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics (ACL 2016)
-- Menglin Xia, Ekaterina Kochmar, and Ted Briscoe (2016). Text Readability Assessment for Second Language Learners. In Proceedings of the 11th Workshop on Innovative Use of NLP for Building Educational Applications (BEA11, NAACL 2016). A system based on this research is deployed in Read & Improve (https://readandimprove.englishlanguageitutoring.com)
+<a name="2017"></a>
+# 2016
+- Aurelie Herbelot and **Ekaterina Kochmar** (2016). 
+‘Calling on the classical phone’: a distributional model of adjective-noun errors in learners’ English. 
+In Proceedings of the 26th International Conference on Computational Linguistics (COLING 2016) [[paper](https://aclanthology.org/C16-1093/)]
+- **Ekaterina Kochmar** and Ekaterina Shutova (2016). 
+Cross-Lingual Lexico-Semantic Transfer in Language Learning. 
+In Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics (ACL 2016) [[paper](https://aclanthology.org/P16-1092.pdf)]
+- Menglin Xia, **Ekaterina Kochmar**, and Ted Briscoe (2016). 
+Text Readability Assessment for Second Language Learners. 
+In Proceedings of the 11th Workshop on Innovative Use of NLP for Building Educational Applications (BEA11, NAACL 2016). 
+A system based on this research is deployed in [Read & Improve](https://readandimprove.englishlanguageitutoring.com) [[paper]()]
+
 - Ekaterina Kochmar (2015). Error Detection in Content Word Combinations. Technical report UCAM-CL- TR-886, Computer Laboratory, University of Cambridge, ISSN 1476-2986
 - Ekaterina Kochmar and Ted Briscoe (2015). Using Learner Data to Improve Error Correction in Adjective– Noun Combinations. In Proceedings of the 10th Workshop on Innovative Use of NLP for Building Educational Applications (BEA10, NAACL 2015)
 - Ekaterina Kochmar and Ted Briscoe (2014). Detecting Learner Errors in the Choice of Content Words Using Compositional Distributional Semantics. In Proceedings of the 25th International Conference on Computational Linguistics: Technical Papers (COLING 2014)
