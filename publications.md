@@ -4,10 +4,10 @@ title: Publications
 permalink: /publications/
 ---
 
-- By year: [2022](#2022) [2021](#2021)
+- By year: [2022](#2022) [2021](#2021) [2020](#2020)
 - On [Google Scholar](https://scholar.google.com/citations?user=e2HTYnkAAAAJ&hl=en)
 
-###<a name="2022"></a>2022
+<a name="2022"></a>#2022
 - **Ekaterina Kochmar** (2022). Getting Started with Natural Language Processing. 
 Manning Publications, ISBN 9781617296765. Available on [Manning](https://www.manning.com/books/getting-started-with-natural-language-processing?utm_source=linkedin&utm_medium=author&utm_campaign=book_kochmar_getting_10_1_19) and [Amazon](https://www.amazon.co.uk/Getting-Started-Natural-Language-Processing/dp/1617296767/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)
 - Devang Kulshreshtha, Muhammad Shayan, Robert Belfer, Siva Reddy, Iulian Vlad Serban, and **Ekaterina Kochmar** (2022). 
@@ -17,12 +17,14 @@ Question Personalization in an Intelligent Tutoring System. In Proceedings of th
 - Robert Belfer, **Ekaterina Kochmar**, and Iulian Vlad Serban (2022). 
 Raising Student Completion Rates with Adaptive Curriculum and Contextual Bandits. In Proceedings of the 23rd International Conference on Artificial Intelligence in Education (AIED 2022) [[paper](https://arxiv.org/pdf/2207.14003.pdf)]
 
-###<a name="2021"></a>2021
-- Ekaterina Kochmar, Dung Do Vu, Robert Belfer, Varun Gupta, Iulian Vlad Serban, and Joelle Pineau (2021). Automated Generation of Personalized Pedagogical Interventions in Intelligent Tutoring Systems. In International Journal of Artificial Intelligence in Education (IJAIED). A system based on this research is deployed by Korbit (https://korbit.ai)
-- Rebecca Watson and Ekaterina Kochmar (2021). Read & Improve: A Novel Reading Tutoring System. In Proceedings of Educational Data Mining (EDM 2021)
-- Francois St-Hilaire, Nathan Burns, Robert Belfer, Muhammad Shayan, Ariella Smofsky, Dung Do Vu, Antoine Frau, Joseph Potochny, Farid Faraji, Vincent Pavero, Neroli Ko, Ansona Onyi Ching, Sabina Elkins, Anush Stepanyan, Adela Matajova, Laurent Charlin, Yoshua Bengio, Iulian Vlad Serban, and Ekaterina Kochmar. A Comparative Study of Learning Outcomes for Online Learning Platforms. In Proceed- ings of the 22nd International Conference on Artificial Intelligence in Education (AIED 2021)
-- Sian Gooding, Ekaterina Kochmar, Seid Muhie Yimam, and Chris Biemann (2021). Word Complexity is in the Eye of the Beholder. In Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics - Human Language Technologies (NAACL-HLT 2021)
-- Matt Grenander, Robert Belfer, Ekaterina Kochmar, Iulian Serban, François St-Hilaire, and Jackie Che- ung (2021). Deep Discourse Analysis for Generating Personalized Feedback in Intelligent Tutor Systems. In Proceedings of the 11th Symposium on Educational Advances in Artificial Intelligence (EAAI-21)
+<a name="2021"></a>#2021
+- **Ekaterina Kochmar**, Dung Do Vu, Robert Belfer, Varun Gupta, Iulian Vlad Serban, and Joelle Pineau (2021). Automated Generation of Personalized Pedagogical Interventions in Intelligent Tutoring Systems. In International Journal of Artificial Intelligence in Education (IJAIED). A system based on this research is deployed by Korbit (https://korbit.ai)
+- Rebecca Watson and **Ekaterina Kochmar** (2021). Read & Improve: A Novel Reading Tutoring System. In Proceedings of Educational Data Mining (EDM 2021)
+- Francois St-Hilaire, Nathan Burns, Robert Belfer, Muhammad Shayan, Ariella Smofsky, Dung Do Vu, Antoine Frau, Joseph Potochny, Farid Faraji, Vincent Pavero, Neroli Ko, Ansona Onyi Ching, Sabina Elkins, Anush Stepanyan, Adela Matajova, Laurent Charlin, Yoshua Bengio, Iulian Vlad Serban, and **Ekaterina Kochmar**. A Comparative Study of Learning Outcomes for Online Learning Platforms. In Proceed- ings of the 22nd International Conference on Artificial Intelligence in Education (AIED 2021)
+- Sian Gooding, **Ekaterina Kochmar**, Seid Muhie Yimam, and Chris Biemann (2021). Word Complexity is in the Eye of the Beholder. In Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics - Human Language Technologies (NAACL-HLT 2021)
+- Matt Grenander, Robert Belfer, **Ekaterina Kochmar**, Iulian Serban, François St-Hilaire, and Jackie Cheung (2021). Deep Discourse Analysis for Generating Personalized Feedback in Intelligent Tutor Systems. In Proceedings of the 11th Symposium on Educational Advances in Artificial Intelligence (EAAI-21)
+
+<a name="2020"></a>#2020
 - Shiva Taslimipoor, Sara Bahaadini, and Ekaterina Kochmar (2020). MTLB-STRUCT @PARSEME 2020: Capturing Unseen Multiword Expressions Using Multi-task Learning and Pre-trained Masked Language Mod- els. In Proceedings of the Joint Workshop on Multiword Expressions and Electronic Lexicons (MWE- LEX 2020, COLING 2020). The system presented in this paper ranked first in the open track of the shared task on semi-supervised identification of verbal multiword expressions across 14 languages.
 - Iulian Vlad Serban, Varun Gupta, Ekaterina Kochmar, Dung D. Vu, Robert Belfer, Joelle Pineau, Aaron Courville, Laurent Charlin, and Yoshua Bengio (2020). A Large-Scale, Open-Domain, Mixed-Interface Dialogue-Based ITS for STEM. In Proceedings of the 21st International Conference on Artificial Intelli- gence in Education (AIED 2020)
 - Ekaterina Kochmar, Dung Do Vu, Robert Belfer, Varun Gupta, Iulian Vlad Serban, and Joelle Pineau (2020). Automated Personalized Feedback Improves Learning Gains in an Intelligent Tutoring System. In Proceedings of the 21st International Conference on Artificial Intelligence in Education (AIED 2020). A system based on this research is deployed by Korbit (https://korbit.ai)
