@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-- By year: [2022](#2022) [2021](#2021) [2020](#2020) [2019](#2019)
+- By year: [2022](#2022) [2021](#2021) [2020](#2020) [2019](#2019) [2018](#2018) [2017](#2017)
 - On [Google Scholar](https://scholar.google.com/citations?user=e2HTYnkAAAAJ&hl=en)
 
 <a name="2022"></a> 
@@ -65,10 +65,23 @@ In Proceedings of the 13th Linguistic Annotation Workshop (LAW XIII, ACL 2019) [
 Automatic learner summary assessment for reading comprehension. 
 In Proceedings of the 17th Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT 2019) [[paper](https://arxiv.org/pdf/1906.07555)]
 
+<a name="2018"></a>
+# 2018
+- Sian Gooding and **Ekaterina Kochmar** (2018). 
+CAMB at CWI Shared Task 2018: Complex Word Identification with Ensemble-Based Voting. 
+In Proceedings of the 13th Workshop on Innovative Use of NLP for Building Educational Applications (BEA13, NAACL HLT 2018). 
+This paper presents the **winning submission** to the shared task on Complex Word Identification. [[paper](https://aclanthology.org/W18-0520.pdf)]
 
-- Sian Gooding and Ekaterina Kochmar (2018). CAMB at CWI Shared Task 2018: Complex Word Identi- fication with Ensemble-Based Voting. In Proceedings of the 13th Workshop on Innovative Use of NLP for Building Educational Applications (BEA13, NAACL HLT 2018). This paper presents the winning submission to the shared task on Complex Word Identification.
-- Ekaterina Kochmar and Ekaterina Shutova (2017). Modelling semantic acquisition in second language learning. In Proceedings of the 12th Workshop on Innovative Use of NLP for Building Educational Applications (BEA12, EMNLP 2017)
-- Zafar Gilani, Ekaterina Kochmar, and Jon Crowcroft (2017). Classification of Twitter Accounts into Au- tomated Agents and Human Users. In Proceedings of the 9th IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM 2017). This research is reviewed in Scientific American and International Business Times.
+<a name="2017"></a>
+# 2017
+- **Ekaterina Kochmar** and Ekaterina Shutova (2017). 
+Modelling semantic acquisition in second language learning. 
+In Proceedings of the 12th Workshop on Innovative Use of NLP for Building Educational Applications (BEA12, EMNLP 2017) [[paper](https://aclanthology.org/W17-5033.pdf)]
+- Zafar Gilani, **Ekaterina Kochmar**, and Jon Crowcroft (2017). 
+Classification of Twitter Accounts into Automated Agents and Human Users. 
+In Proceedings of the 9th IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM 2017). 
+This research was **reviewed in [Scientific American](https://www.scientificamerican.com/podcast/episode/celebrities-tweet-like-bots/)**, International Business Times, among other sources. [[paper](https://www.repository.cam.ac.uk/bitstream/handle/1810/298180/main.pdf?sequence=3)]
+
 - Aurelie Herbelot and Ekaterina Kochmar (2016). ‘Calling on the classical phone’: a distributional model of adjective-noun errors in learners’ English. In Proceedings of the 26th International Conference on Computational Linguistics (COLING 2016)
 - Ekaterina Kochmar and Ekaterina Shutova (2016). Cross-Lingual Lexico-Semantic Transfer in Language Learning. In Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics (ACL 2016)
 - Menglin Xia, Ekaterina Kochmar, and Ted Briscoe (2016). Text Readability Assessment for Second Language Learners. In Proceedings of the 11th Workshop on Innovative Use of NLP for Building Educational Applications (BEA11, NAACL 2016). A system based on this research is deployed in Read & Improve (https://readandimprove.englishlanguageitutoring.com)
