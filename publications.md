@@ -4,7 +4,8 @@ title: Publications
 permalink: /publications/
 ---
 
-- By year: [2022](#2022) [2021](#2021) [2020](#2020) [2019](#2019) [2018](#2018) [2017](#2017) [2016](#2016)
+- By year: [2022](#2022), [2021](#2021), [2020](#2020), [2019](#2019), [2018](#2018), [2017](#2017), 
+[2016](#2016), [2015](#2015), [2014](#2014), [2013](#2013), [2012](#2012), [2011](#2011), [2010](#2010)
 - On [Google Scholar](https://scholar.google.com/citations?user=e2HTYnkAAAAJ&hl=en)
 
 <a name="2022"></a> 
@@ -115,10 +116,10 @@ In Proceedings of the 12th Workshop on Innovative Use of NLP for Building Educat
 - Zafar Gilani, **Ekaterina Kochmar**, and Jon Crowcroft (2017). 
 _Classification of Twitter Accounts into Automated Agents and Human Users_. 
 In Proceedings of the 9th IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM 2017). 
-This research was **featured** in University of Cambridge [research news](https://www.cam.ac.uk/research/news/celebrity-twitter-accounts-display-bot-like-behaviour), [International Business Times](https://www.ibtimes.com/twitter-celebrity-accounts-behave-bots-not-humans-study-finds-2573318) and [Scientific American](https://www.scientificamerican.com/podcast/episode/celebrities-tweet-like-bots/).
+This research was **featured** in [University of Cambridge research news](https://www.cam.ac.uk/research/news/celebrity-twitter-accounts-display-bot-like-behaviour), [International Business Times](https://www.ibtimes.com/twitter-celebrity-accounts-behave-bots-not-humans-study-finds-2573318) and [Scientific American](https://www.scientificamerican.com/podcast/episode/celebrities-tweet-like-bots/).
 [[paper](https://www.repository.cam.ac.uk/bitstream/handle/1810/298180/main.pdf?sequence=3)]
 
-<a name="2017"></a>
+<a name="2016"></a>
 # 2016
 - Aurelie Herbelot and **Ekaterina Kochmar** (2016). 
 _‘Calling on the classical phone’: a distributional model of adjective-noun errors in learners’ English_. 
@@ -134,11 +135,52 @@ In Proceedings of the 11th Workshop on Innovative Use of NLP for Building Educat
 A system based on this research is deployed in [Read & Improve](https://readandimprove.englishlanguageitutoring.com) 
 [[paper](https://aclanthology.org/W16-0502.pdf)] [[data](https://ilexir.co.uk/datasets/index.html)]
 
-- Ekaterina Kochmar (2015). Error Detection in Content Word Combinations. Technical report UCAM-CL- TR-886, Computer Laboratory, University of Cambridge, ISSN 1476-2986
-- Ekaterina Kochmar and Ted Briscoe (2015). Using Learner Data to Improve Error Correction in Adjective– Noun Combinations. In Proceedings of the 10th Workshop on Innovative Use of NLP for Building Educational Applications (BEA10, NAACL 2015)
-- Ekaterina Kochmar and Ted Briscoe (2014). Detecting Learner Errors in the Choice of Content Words Using Compositional Distributional Semantics. In Proceedings of the 25th International Conference on Computational Linguistics: Technical Papers (COLING 2014)
-Mariano Felice, Zheng Yuan, Øistein Andersen, Helen Yannakoudakis, and Ekaterina Kochmar (2014). Grammatical error correction using hybrid systems and type filtering. In Proceedings of the 17th Conference on Computational Natural Language Learning (CoNLL 2014): Shared Task. This paper presents the winning submission to the shared task on Grammatical Error Correction.
-- Ekaterina Kochmar and Ted Briscoe (2013). Capturing Anomalies in the Choice of Content Words in Com- positional Distributional Semantic Space. In Proceedings of the Recent Advances in Natural Language Processing (RANLP 2013)
-- Ekaterina Kochmar, Øistein Andersen, and Ted Briscoe (2012). HOO 2012 Error Recognition and Cor- rection Shared Task: Cambridge University Submission Report. In Proceedings of the 7th Workshop on Innovative Use of NLP for Building Educational Applications (BEA7, NAACL-HLT 2012)
-- Ekaterina Kochmar (2011). Identification of a Writer’s Native Language by Error Analysis. MPhil Disserta- tion, Computer Laboratory, University of Cambridge, UK
-- Ekaterina Kochmar (2010). Ensemble-Based Learning for Morphological Analysis of German. MA Thesis, University of Tuebingen, Germany
+<a name="2015"></a>
+# 2015
+- **Ekaterina Kochmar** (2015). 
+_Error Detection in Content Word Combinations_. 
+Technical report UCAM-CL- TR-886, Computer Laboratory, University of Cambridge, ISSN 1476-2986
+[[report](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-886.pdf)]
+- **Ekaterina Kochmar** and Ted Briscoe (2015). 
+_Using Learner Data to Improve Error Correction in Adjective–Noun Combinations_. 
+In Proceedings of the 10th Workshop on Innovative Use of NLP for Building Educational Applications (BEA10, NAACL 2015)
+[[paper](https://aclanthology.org/W15-0627.pdf)]
+
+<a name="2014"></a>
+# 2014
+- **Ekaterina Kochmar** and Ted Briscoe (2014). 
+_Detecting Learner Errors in the Choice of Content Words Using Compositional Distributional Semantics_. 
+In Proceedings of the 25th International Conference on Computational Linguistics: Technical Papers (COLING 2014)
+[[paper](https://www.repository.cam.ac.uk/bitstream/handle/1810/267159/C14-1164.pdf?sequence=1)] [[data](https://www.cl.cam.ac.uk/~ek358/an-dataset.xml)]
+- Mariano Felice, Zheng Yuan, Øistein Andersen, Helen Yannakoudakis, and **Ekaterina Kochmar** (2014). 
+_Grammatical error correction using hybrid systems and type filtering_. 
+In Proceedings of the 17th Conference on Computational Natural Language Learning (CoNLL 2014): Shared Task. 
+This paper presents the **winning submission** to the [shared task on Grammatical Error Correction](https://www.comp.nus.edu.sg/~nlp/conll14st.html).
+[[paper](https://aclanthology.org/W14-1702.pdf)]
+
+<a name="2013"></a>
+# 2013
+- **Ekaterina Kochmar** and Ted Briscoe (2013). 
+_Capturing Anomalies in the Choice of Content Words in Compositional Distributional Semantic Space_. 
+In Proceedings of the Recent Advances in Natural Language Processing (RANLP 2013)
+[[paper](https://www.repository.cam.ac.uk/bitstream/handle/1810/264266/Kochmar_and_Briscoe-2013-Recent%20Advances%20in%20Natural%20Language%20Processing-VoR.pdf?sequence=3)] [[data](https://ilexir.co.uk/datasets/index.html)]
+
+<a name="2012"></a>
+# 2012
+- **Ekaterina Kochmar**, Øistein Andersen, and Ted Briscoe (2012). 
+_HOO 2012 Error Recognition and Correction Shared Task: Cambridge University Submission Report_. 
+In Proceedings of the 7th Workshop on Innovative Use of NLP for Building Educational Applications (BEA7, NAACL-HLT 2012)
+[[paper](https://www.repository.cam.ac.uk/bitstream/handle/1810/264263/Kochmar_et_al-2012-Proceedings_Seventh_Workshop_on_Innovative_Use_of_NLP-VoR.pdf?sequence=1)]
+
+<a name="2011"></a>
+# 2011
+- **Ekaterina Kochmar** (2011). 
+_Identification of a Writer’s Native Language by Error Analysis_. 
+MPhil Dissertation, Computer Laboratory, University of Cambridge, UK
+[[dissertation](https://www.cl.cam.ac.uk/~ek358/Native_Language_Detection.pdf)]
+
+<a name="2010"></a>
+# 2010
+- **Ekaterina Kochmar** (2010). 
+Ensemble-Based Learning for Morphological Analysis of German. 
+MA Thesis, University of Tuebingen, Germany
