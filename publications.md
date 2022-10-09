@@ -54,10 +54,18 @@ In Proceedings of the 12th Conference on Language Resources and Evaluation (LREC
 
 <a name="2019"></a>
 # 2019
-- Sian Gooding and Ekaterina Kochmar (2019). Recursive Context-Aware Lexical Simplification. In Pro- ceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP 2019)
-- Sian Gooding and Ekaterina Kochmar (2019). Complex Word Identification as a Sequence Labelling Task. In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL 2019)
-- Sian Gooding, Ekaterina Kochmar, Advait Sarkar, and Alan Blackwell (2019). Comparative judgments are more consistent than binary classification for labelling word complexity. In Proceedings of the 13th Linguistic Annotation Workshop (LAW XIII, ACL 2019)
-- Menglin Xia, Ekaterina Kochmar, and Ted Briscoe (2019). Automatic learner summary assessment for reading comprehension. In Proceedings of the 17th Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT 2019)
+- Sian Gooding and **Ekaterina Kochmar** (2019). 
+Recursive Context-Aware Lexical Simplification. In Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP 2019) [[paper](https://aclanthology.org/D19-1491.pdf)]
+- Sian Gooding and **Ekaterina Kochmar** (2019). 
+Complex Word Identification as a Sequence Labelling Task. In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL 2019) [[paper](https://aclanthology.org/P19-1109.pdf)]
+- Sian Gooding, **Ekaterina Kochmar**, Advait Sarkar, and Alan Blackwell (2019). 
+Comparative judgments are more consistent than binary classification for labelling word complexity. 
+In Proceedings of the 13th Linguistic Annotation Workshop (LAW XIII, ACL 2019) [[paper](https://www.repository.cam.ac.uk/bitstream/handle/1810/302768/W19-4024.pdf?sequence=1)]
+- Menglin Xia, **Ekaterina Kochmar**, and Ted Briscoe (2019). 
+Automatic learner summary assessment for reading comprehension. 
+In Proceedings of the 17th Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT 2019) [[paper](https://arxiv.org/pdf/1906.07555)]
+
+
 - Sian Gooding and Ekaterina Kochmar (2018). CAMB at CWI Shared Task 2018: Complex Word Identi- fication with Ensemble-Based Voting. In Proceedings of the 13th Workshop on Innovative Use of NLP for Building Educational Applications (BEA13, NAACL HLT 2018). This paper presents the winning submission to the shared task on Complex Word Identification.
 - Ekaterina Kochmar and Ekaterina Shutova (2017). Modelling semantic acquisition in second language learning. In Proceedings of the 12th Workshop on Innovative Use of NLP for Building Educational Applications (BEA12, EMNLP 2017)
 - Zafar Gilani, Ekaterina Kochmar, and Jon Crowcroft (2017). Classification of Twitter Accounts into Au- tomated Agents and Human Users. In Proceedings of the 9th IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM 2017). This research is reviewed in Scientific American and International Business Times.
