@@ -17,6 +17,7 @@ By the end of this course, you will be able to build your own NLP application in
 - [Overview](#overview)
 - [Learning outcomes](#learning-outcomes)
 - [Reading list](#reading-list)
+- Material: [Week 1](#week1)
 
 
 <a name="overview"></a> 
@@ -40,12 +41,12 @@ Applications and topics covered include, among others:
 <a name="learning-outcomes"></a> 
 # Learning outcomes
 
-- Demonstrate knowledge of the fundamental principles of natural language processing.
-- Demonstrate understanding of key algorithms for natural language processing.
-- Write programs that process language.
-- Design your own end-to-end projects in NLP.
-- Evaluate the performance of programs that process language. 
-- Assess feasibility and appropriateness of novel NLP approaches presented in literature.
+1. Demonstrate knowledge of the fundamental principles of natural language processing.
+2. Demonstrate understanding of key algorithms for natural language processing.
+3. Write programs that process language.
+4. Design your own end-to-end projects in NLP.
+5. Evaluate the performance of programs that process language. 
+6. Assess feasibility and appropriateness of novel NLP approaches presented in literature.
 
 [[To the top](#top)]
 
@@ -63,6 +64,12 @@ URL: [2nd edition](https://github.com/rain1024/slp2-pdf/tree/master/chapter-wise
 - Steven Bird, Ewan Klein, and Edward Loper (2009). _Natural Language Processing with Python_. 
 O'Reilly Media, Inc. ISBN: 978-0-596-51649-9. 
 URL: [NLTK book](http://www.nltk.org/book/)
+
+[[To the top](#top)]
+
+<a name="week1"></a> 
+# Week 1
+
 
 [[To the top](#top)]
 
