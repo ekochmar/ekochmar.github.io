@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "My book, Getting Started with Natural Language Processing, is out"
+title:  "My book on Getting Started with NLP is out"
 date:   2022-10-03 17:56:05 +0100
 categories: jekyll update
 ---
