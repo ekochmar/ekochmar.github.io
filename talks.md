@@ -8,18 +8,17 @@ Some of the talks I gave over the years are available online:
 - "[Introduction to Natural Language Processing](https://www.youtube.com/watch?v=8S3qHHUKqYk&t=1s)" at Cambridge Data Science Bootcamp
 - [Ekaterina Kochmar: Automated Language Teaching & Assessment, NLP, Korbit.ai](https://www.youtube.com/watch?v=2MT7bYZsiV4) episode on the Chai Time Data Science podcast with Sanyam Bhutani
 - [Natural Language Processing with Ekaterina Kochmar](https://www.youtube.com/watch?v=ENvnq83Dlvo) episode on Federica Bressan's podcast:
-parts [1](https://www.youtube.com/watch?v=ENvnq83Dlvo), [2](https://www.youtube.com/watch?v=3UHh1UKLBM8), 
-[3](https://www.youtube.com/watch?v=XxtKoDgWHY0), [4](https://www.youtube.com/watch?v=jNna5kLXtaM), 
-and [5](https://www.youtube.com/watch?v=NR60rJCPDlQ)
+parts [one](https://www.youtube.com/watch?v=ENvnq83Dlvo), [two](https://www.youtube.com/watch?v=3UHh1UKLBM8), 
+[three](https://www.youtube.com/watch?v=XxtKoDgWHY0), [four](https://www.youtube.com/watch?v=jNna5kLXtaM), 
+and [five](https://www.youtube.com/watch?v=NR60rJCPDlQ)
 - [Computer Science in Cambridge](https://www.youtube.com/watch?v=lxgE-o-KYGI) series with Prof. Frank Stajano 
 - "[The Korbit AI-Powered Intelligent Tutoring System](https://kidsloop.net/talks/)",  KidsLoop EdTech series
-- "[Automated Generation of Personalized Pedagogical Interventions in Intelligent Tutoring Systems](https://www.youtube.com/watch?v=faTd5ZKRekY)" at MBZUAI
+- "[Automated Generation of Personalized Pedagogical Interventions in ITS](https://www.youtube.com/watch?v=faTd5ZKRekY)" at MBZUAI
 - "[Towards Automated Generation of Personalized Pedagogical Interventions](https://www.youtube.com/watch?v=7BgXI_15PPQ)" at AAAI2021 SSS
-- 
 
 # All talks:
 
-- Invited talk "Automated Generation of Pedagogical Interventions in Dialogue-based Intelligent Tutoring Sys- tems" at the Deliberation4Good workshop, University of Cambridge, October 2022
+- Invited talk "Automated Generation of Pedagogical Interventions in Dialogue-based Intelligent Tutoring Systems" at the Deliberation4Good workshop, University of Cambridge, October 2022
 - Panelist on Industry Panel @ICAME43, Cambridge, July 2022
 - Invited talk "Multi-word expressions: Challenges in understanding, acquisition, and production" at the University of Sheffield, June 2022
 - Panelist on "Understanding the impact of writing assistants on ownership, authenticity, or originality" (In2Writing Workshop @ACL 2022), Dublin / virtual, May 2022
