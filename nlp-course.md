@@ -86,7 +86,7 @@ which may inform and help you shape your approach to the specific NLP task you a
 - [Handout](https://drive.google.com/file/d/1JZKcb35nCIpWnyrOh0ishHyrbWLU1AdD/view?usp=sharing) for Week 1
 - [Slides](https://drive.google.com/file/d/18ZwmPMy-v-kJ2WYoLVCgyNuuPuWMUlP2/view?usp=sharing) on Introduction to NLP
 - Programming exercises:
-	- [Tokenization.ipynb](https://drive.google.com/file/d/1BbSw9dbrlrluwc2OD_PugT0a0SGPDmAs/view?usp=sharing)
+	- [Tokenization.ipynb](https://colab.research.google.com/drive/1FqqmP1ux40fmuikDGmnriIqwzeGsV7UT?usp=sharing)
 	- [FrequencyAnalysis.ipynb](https://drive.google.com/file/d/1pmZIbc5XS-9Tt_nrdTzqz5sDRGXeSKuO/view?usp=sharing)
 - Sample solutions:
 	- For [Tokenization.ipynb](https://drive.google.com/file/d/1bITxCb5NTmlAOlQbveBkGY7CfXskhIgU/view?usp=sharing)
