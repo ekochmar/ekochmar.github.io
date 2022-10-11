@@ -13,11 +13,10 @@ It covers a wide range of topics in NLP and provides you with fundamental knowle
 By the end of this course, you will be able to build your own NLP application in an end-to-end manner.
 
 <a name="top"></a>
-
-**Contents**:
+# Contents:
 - [Overview](#overview)
-- 
-- 
+- [Learning outcomes](#learning-outcomes)
+- [Reading list](#reading-list)
 
 
 <a name="overview"></a> 
@@ -37,3 +36,29 @@ Applications and topics covered include, among others:
 - Semantic models
 
 [[To the top](<a name="top"></a>)]
+
+<a name="learning-outcomes"></a> 
+# Learning outcomes
+
+- Demonstrate knowledge of the fundamental principles of natural language processing.
+- Demonstrate understanding of key algorithms for natural language processing.
+- Write programs that process language.
+- Design your own end-to-end projects in NLP.
+- Evaluate the performance of programs that process language. 
+- Assess feasibility and appropriateness of novel NLP approaches presented in literature.
+
+[[To the top](<a name="top"></a>)]
+
+<a name="reading-list"></a> 
+# Reading list
+
+- Demonstrate knowledge of the fundamental principles of natural language processing.
+- Demonstrate understanding of key algorithms for natural language processing.
+- Write programs that process language.
+- Design your own end-to-end projects in NLP.
+- Evaluate the performance of programs that process language. 
+- Assess feasibility and appropriateness of novel NLP approaches presented in literature.
+
+[[To the top](<a name="top"></a>)]
+
+
