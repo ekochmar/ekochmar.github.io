@@ -90,7 +90,7 @@ which may inform and help you shape your approach to the specific NLP task you a
 	- [Tokenization.ipynb](https://colab.research.google.com/drive/1FqqmP1ux40fmuikDGmnriIqwzeGsV7UT?usp=sharing)
 	- [FrequencyAnalysis.ipynb](https://colab.research.google.com/drive/1OZf4KGBhZctl_zGLLbZv-u-qqCnDV4gg?usp=sharing)
 - Sample solutions:
-	- For [Tokenization.ipynb](https://colab.research.google.com/drive/1WiOh69XBg_OGoOq_jHrLL9rDVaCqeoa0?usp=sharing)
+	- For [Tokenization.ipynb](https://colab.research.google.com/drive/1KcYLNzrlS98kqwErzZRM7hQKBkAjZzM5?usp=sharing)
 	- For [FrequencyAnalysis.ipynb](https://colab.research.google.com/drive/1K3NN3SXDlBSt3wEfet4Y8DmXek0WT4vm?usp=sharing)
 
 
