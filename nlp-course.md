@@ -52,12 +52,17 @@ Applications and topics covered include, among others:
 <a name="reading-list"></a> 
 # Reading list
 
-- Demonstrate knowledge of the fundamental principles of natural language processing.
-- Demonstrate understanding of key algorithms for natural language processing.
-- Write programs that process language.
-- Design your own end-to-end projects in NLP.
-- Evaluate the performance of programs that process language. 
-- Assess feasibility and appropriateness of novel NLP approaches presented in literature.
+- Ekaterina Kochmar (2022). _Getting Started with Natural Language Processing_. 
+Manning Publications, ISBN: 9781617296765. URL: [Manning](https://www.manning.com/books/getting-started-with-natural-language-processing?utm_source=linkedin&utm_medium=author&utm_campaign=book_kochmar_getting_10_1_19); 
+[Amazon](https://www.amazon.co.uk/Getting-Started-Natural-Language-Processing/dp/1617296767/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=);
+for the students at the University of Bath, the book is available via the university's library service.
+- Dan Jurafsky and James H. Martin (2009). _Speech and Language Processing_ (2nd edition). 
+Prentice-Hall Inc., Upper Saddle River, NJ, USA. ISBN: 0131873210. 
+URL: [2nd edition](https://github.com/rain1024/slp2-pdf/tree/master/chapter-wise-pdf); 
+[3rd edition](https://web.stanford.edu/~jurafsky/slp3/)
+- Steven Bird, Ewan Klein, and Edward Loper (2009). _Natural Language Processing with Python_. 
+O'Reilly Media, Inc. ISBN: 978-0-596-51649-9. 
+URL: [NLTK book](http://www.nltk.org/book/)
 
 [[To the top](<a name="top"></a>)]
 
