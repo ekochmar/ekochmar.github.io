@@ -87,10 +87,10 @@ which may inform and help you shape your approach to the specific NLP task you a
 - [Slides](https://drive.google.com/file/d/18ZwmPMy-v-kJ2WYoLVCgyNuuPuWMUlP2/view?usp=sharing) on Introduction to NLP
 - Programming exercises:
 	- [Tokenization.ipynb](https://colab.research.google.com/drive/1FqqmP1ux40fmuikDGmnriIqwzeGsV7UT?usp=sharing)
-	- [FrequencyAnalysis.ipynb](https://drive.google.com/file/d/1pmZIbc5XS-9Tt_nrdTzqz5sDRGXeSKuO/view?usp=sharing)
+	- [FrequencyAnalysis.ipynb](https://colab.research.google.com/drive/1OZf4KGBhZctl_zGLLbZv-u-qqCnDV4gg?usp=sharing)
 - Sample solutions:
-	- For [Tokenization.ipynb](https://drive.google.com/file/d/1bITxCb5NTmlAOlQbveBkGY7CfXskhIgU/view?usp=sharing)
-	- For [FrequencyAnalysis.ipynb](https://drive.google.com/file/d/1ND4eKSSI9NLXWiKfjz8wmq_5sy-AAkF4/view?usp=sharing)
+	- For [Tokenization.ipynb](https://colab.research.google.com/drive/1WiOh69XBg_OGoOq_jHrLL9rDVaCqeoa0?usp=sharing)
+	- For [FrequencyAnalysis.ipynb](https://colab.research.google.com/drive/1K3NN3SXDlBSt3wEfet4Y8DmXek0WT4vm?usp=sharing)
 
 
 [[To the top](#top)]

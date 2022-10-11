@@ -14,3 +14,5 @@ It contains lots of accessible explanations and hands-on examples through which 
 As you go, each new project builds on what you’ve previously learned, introducing new concepts and skills.
 
 The book is available via [Manning](https://www.manning.com/books/getting-started-with-natural-language-processing?utm_source=linkedin&utm_medium=author&utm_campaign=book_kochmar_getting_10_1_19) and [Amazon](https://www.amazon.co.uk/Getting-Started-Natural-Language-Processing/dp/1617296767/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=).
+
+Book's [GitHub repo](https://github.com/ekochmar/Getting-Started-with-NLP).
