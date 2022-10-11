@@ -35,7 +35,7 @@ Applications and topics covered include, among others:
 - Word embeddings
 - Semantic models
 
-[[To the top](<a name="top"></a>)]
+[[To the top](#top)]
 
 <a name="learning-outcomes"></a> 
 # Learning outcomes
@@ -47,7 +47,7 @@ Applications and topics covered include, among others:
 - Evaluate the performance of programs that process language. 
 - Assess feasibility and appropriateness of novel NLP approaches presented in literature.
 
-[[To the top](<a name="top"></a>)]
+[[To the top](#top)]
 
 <a name="reading-list"></a> 
 # Reading list
@@ -64,6 +64,6 @@ URL: [2nd edition](https://github.com/rain1024/slp2-pdf/tree/master/chapter-wise
 O'Reilly Media, Inc. ISBN: 978-0-596-51649-9. 
 URL: [NLTK book](http://www.nltk.org/book/)
 
-[[To the top](<a name="top"></a>)]
+[[To the top](#top)]
 
 
