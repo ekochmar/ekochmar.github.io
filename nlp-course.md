@@ -27,6 +27,7 @@ This is a semester-long course with one 2-hour long lecture per week.
 In addition to lectures, students are provided with detailed handouts and practical programming exercises.
 
 Each week addresses a different NLP application and discusses it in detail, introducing relevant **NLP concepts and techniques**. 
+
 **Applications and topics** covered include, among others:
 
 - Information retrieval
