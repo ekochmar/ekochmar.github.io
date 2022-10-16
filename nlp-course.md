@@ -17,7 +17,7 @@ By the end of this course, you will be able to build your own NLP application in
 - [Overview](#overview)
 - [Learning outcomes](#learning-outcomes)
 - [Reading list](#reading-list)
-- Material: [Week 1](#week1) [Week 2](#week2)
+- Material: [Week 1](#week1), [Week 2](#week2)
 
 
 <a name="overview"></a> 
