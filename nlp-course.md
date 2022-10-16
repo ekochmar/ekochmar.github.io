@@ -17,7 +17,7 @@ By the end of this course, you will be able to build your own NLP application in
 - [Overview](#overview)
 - [Learning outcomes](#learning-outcomes)
 - [Reading list](#reading-list)
-- Material: [Week 1](#week1)
+- Material: [Week 1](#week1) [Week 2](#week2)
 
 
 <a name="overview"></a> 
@@ -92,6 +92,27 @@ which may inform and help you shape your approach to the specific NLP task you a
 - Sample solutions:
 	- For [Tokenization.ipynb](https://colab.research.google.com/drive/1KcYLNzrlS98kqwErzZRM7hQKBkAjZzM5?usp=sharing)
 	- For [FrequencyAnalysis.ipynb](https://colab.research.google.com/drive/1K3NN3SXDlBSt3wEfet4Y8DmXek0WT4vm?usp=sharing)
+
+
+[[To the top](#top)]
+
+
+<a name="week2"></a> 
+# Week 2: Introduction to Information Retrieval
+
+This week, we will "zoom in" on one of the popular and widely used NLP applications – **Information Search** or **Information Retrieval (IR)**. 
+We will look closely into each step involved in this application, and by the end of this week you will be able to implement an information search algorithm yourself.
+
+Information search is not only a popular application (you may recall that it helps you find relevant information on the Internet as well as in a collection of documents on your computer), but also a suitable one to be working on in Week 2. 
+Besides learning a few practical aspects about the information search algorithms, you will also learn about such fundamental NLP concepts and techniques as **vector-based representations**, **lemmatization** and **stemming**, and **term and document weighting**. 
+These concepts and techniques are used across multiple tasks in NLP, and you will be using them again and again in the next weeks.
+
+- [Handout](https://drive.google.com/file/d/1eJiFnpjtvJZTAhMxqVF0_SSKTNAnk3IR/view?usp=sharing) for Week 2
+- [Slides](https://drive.google.com/file/d/1SiWOGf9911aki29r1KqMbn8aKaTRw1X3/view?usp=sharing) on Introduction to IR
+- Programming exercises:
+	- [Data](https://drive.google.com/file/d/1ru80Kxi8BD2NizRuQQwN0EOLbaQLSol7/view?usp=sharing)
+	- [TermWeighting.ipynb](https://colab.research.google.com/drive/1ZUrQ_Mx-4oAbsPWoqjVYSm3ll7uiLIZr?usp=sharing)
+	- [EndToEnd.ipynb](https://colab.research.google.com/drive/1MlJiUVC_4cN5YZVYP-8mojJdEThquCHk?usp=sharing)
 
 
 [[To the top](#top)]
