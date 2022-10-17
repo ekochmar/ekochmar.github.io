@@ -113,6 +113,9 @@ These concepts and techniques are used across multiple tasks in NLP, and you wil
 	- [Data](https://drive.google.com/file/d/1ru80Kxi8BD2NizRuQQwN0EOLbaQLSol7/view?usp=sharing)
 	- [TermWeighting.ipynb](https://colab.research.google.com/drive/1ZUrQ_Mx-4oAbsPWoqjVYSm3ll7uiLIZr?usp=sharing)
 	- [EndToEnd.ipynb](https://colab.research.google.com/drive/1MlJiUVC_4cN5YZVYP-8mojJdEThquCHk?usp=sharing)
+- Sample solutions:
+	- For [TermWeighting.ipynb](https://colab.research.google.com/drive/1w8Oefxz_1l3J2efR8AF6ULiH62WPGw82?usp=sharing)
+	- For [EndToEnd.ipynb](https://colab.research.google.com/drive/1GkB6uqpgGRDkGKTXx8IwNe7KXtwOW_w-?usp=sharing)
 
 
 [[To the top](#top)]
