@@ -131,8 +131,8 @@ For example, if you Google for "artificial intelligence"", the search engine wil
 However, if you are interested in the definition only, you would ask "**What** is Artificial Intelligence?" and expect to get a specific answer giving such a definition. 
 Information Extraction (IE) is the NLP task that addresses these challenges.
 
-As with IR, there is a reason for why we are talking about IE relatively early in the course on NLP: while working on an IE algorithm, you will also learn about fundamental NLP concepts and techniques, starting this week with _part-of-speech tagging_. 
-This week, we will focus on how this NLP task is solved: specifically, we will discuss _sequence modelling_ approaches used in NLP, look into the theory behind such models, and learn how part-of-speech tagging is solved using a sequence model.
+As with IR, there is a reason for why we are talking about IE relatively early in the course on NLP: while working on an IE algorithm, you will also learn about fundamental NLP concepts and techniques, starting this week with **part-of-speech tagging**. 
+This week, we will focus on how this NLP task is solved: specifically, we will discuss **sequence modelling** approaches used in NLP, look into the theory behind such models, and learn how part-of-speech tagging is solved using a sequence model.
 
 - [Handout](https://drive.google.com/file/d/1gZ4r_awH3nURP9DhXYR7MgjH7cSaCy4b/view?usp=sharing) for Week 3
 - [Slides](https://drive.google.com/file/d/1qqVrAVyZrot0yhCAz6c02-oVHbdR8lqQ/view?usp=sharing) on PoS tagging
