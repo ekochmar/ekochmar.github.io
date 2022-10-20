@@ -129,7 +129,7 @@ This week and next week will follow up with another popular and widely used NLP 
 In addition to searching for a set of documents that answer your information need, which is performed by Information Retrieval algorithms, you may be interested in getting a precise answer to a specific question. 
 For example, if you Google for "artificial intelligence"", the search engine will come back with a long list of pages discussing various aspects of artificial intelligence, from the definition and an overview of the field, to specific techniques and applications. 
 However, if you are interested in the definition only, you would ask "**What** is Artificial Intelligence?" and expect to get a specific answer giving such a definition. 
-Information Extraction (IE) is the NLP task that addresses these challenges.
+Information Extraction (IE) is the NLP task that addresses such challenges.
 
 As with IR, there is a reason for why we are talking about IE relatively early in the course on NLP: while working on an IE algorithm, you will also learn about fundamental NLP concepts and techniques, starting this week with **part-of-speech tagging**. 
 This week, we will focus on how this NLP task is solved: specifically, we will discuss **sequence modelling** approaches used in NLP, look into the theory behind such models, and learn how part-of-speech tagging is solved using a sequence model.
