@@ -17,7 +17,7 @@ By the end of this course, you will be able to build your own NLP application in
 - [Overview](#overview)
 - [Learning outcomes](#learning-outcomes)
 - [Reading list](#reading-list)
-- Material: [Week 1](#week1), [Week 2](#week2)
+- Material: [Week 1](#week1), [Week 2](#week2), [Week 3](#week3)
 
 
 <a name="overview"></a> 
@@ -116,6 +116,33 @@ These concepts and techniques are used across multiple tasks in NLP, and you wil
 - Sample solutions:
 	- For [TermWeighting.ipynb](https://colab.research.google.com/drive/1w8Oefxz_1l3J2efR8AF6ULiH62WPGw82?usp=sharing)
 	- For [EndToEnd.ipynb](https://colab.research.google.com/drive/1GkB6uqpgGRDkGKTXx8IwNe7KXtwOW_w-?usp=sharing)
+
+
+[[To the top](#top)]
+
+
+<a name="week3"></a> 
+# Week 3: Part-of-Speech Tagging
+
+This week and next week will follow up with another popular and widely used NLP application – **Information Extraction**.
+
+In addition to searching for a set of documents that answer your information need, which is performed by Information Retrieval algorithms, you may be interested in getting a precise answer to a specific question. 
+For example, if you Google for "artificial intelligence"", the search engine will come back with a long list of pages discussing various aspects of artificial intelligence, from the definition and an overview of the field, to specific techniques and applications. 
+However, if you are interested in the definition only, you would ask "**What** is Artificial Intelligence?" and expect to get a specific answer giving such a definition. 
+Similarly, if you are interested in specific facts about, e.g., Einstein, it is desirable that an NLP algorithm provides you not with a set of articles about Einstein, in which you have to search for the answers yourself, but with the precise answers to your questions: 
+for instance, if you asked, "**Where** was Einstein born?" or "**When** was Einstein born?", it is desirable that such facts were extracted from the articles and provided to you as the answers. 
+Information Extraction (IE) is the NLP task that addresses these challenges.
+
+As with IR, there is a reason for why we are talking about IE relatively early in the course on NLP: while working on an IE algorithm, you will also learn about fundamental NLP concepts and techniques, starting this week with _part-of-speech tagging_. 
+This week, we will focus on how this NLP task is solved: specifically, we will discuss _sequence modelling_ approaches used in NLP, look into the theory behind such models, and learn how part-of-speech tagging is solved using a sequence model.
+
+- [Handout](https://drive.google.com/file/d/1gZ4r_awH3nURP9DhXYR7MgjH7cSaCy4b/view?usp=sharing) for Week 3
+- [Slides](https://drive.google.com/file/d/1qqVrAVyZrot0yhCAz6c02-oVHbdR8lqQ/view?usp=sharing) on PoS tagging
+- Homework on Viterbi algorithm:
+	- [Task](https://drive.google.com/file/d/1Pm-S7qPEgsoMOaKG7EKQIpw3kAzoiu_Q/view?usp=sharing)
+	- Solution
+- Programming exercises:
+	- [PoS tagging](https://drive.google.com/file/d/1ru80Kxi8BD2NizRuQQwN0EOLbaQLSol7/view?usp=sharing) (open-ended)
 
 
 [[To the top](#top)]
