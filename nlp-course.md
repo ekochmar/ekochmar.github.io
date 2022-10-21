@@ -140,7 +140,7 @@ This week, we will focus on how this NLP task is solved: specifically, we will d
 	- [Task](https://drive.google.com/file/d/1Pm-S7qPEgsoMOaKG7EKQIpw3kAzoiu_Q/view?usp=sharing)
 	- Solution
 - Programming exercises:
-	- PoS tagging
+	- [PoS tagging](https://colab.research.google.com/drive/1Eu0MNeIdjDmJ7VMK-uZLeKk8geYfbOT5?usp=sharing)
 
 [[To the top](#top)]
 
