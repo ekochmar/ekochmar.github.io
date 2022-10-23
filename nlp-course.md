@@ -127,7 +127,7 @@ These concepts and techniques are used across multiple tasks in NLP, and you wil
 This week and next week will follow up with another popular and widely used NLP application – **Information Extraction**.
 
 In addition to searching for a set of documents that answer your information need, which is performed by Information Retrieval algorithms, you may be interested in getting a precise answer to a specific question. 
-For example, if you Google for "artificial intelligence"", the search engine will come back with a long list of pages discussing various aspects of artificial intelligence, from the definition and an overview of the field, to specific techniques and applications. 
+For example, if you Google for "artificial intelligence", the search engine will come back with a long list of pages discussing various aspects of artificial intelligence, from the definition and an overview of the field, to specific techniques and applications. 
 However, if you are interested in the definition only, you would ask "**What** is Artificial Intelligence?" and expect to get a specific answer giving such a definition. 
 Information Extraction (IE) is the NLP task that addresses such challenges.
 
@@ -136,7 +136,7 @@ This week, we will focus on how this NLP task is solved: specifically, we will d
 
 - [Handout](https://drive.google.com/file/d/1gZ4r_awH3nURP9DhXYR7MgjH7cSaCy4b/view?usp=sharing) for Week 3
 - [Slides](https://drive.google.com/file/d/1qqVrAVyZrot0yhCAz6c02-oVHbdR8lqQ/view?usp=sharing) on PoS tagging
-- Homework on Viterbi algorithm:
+- Homework on the Viterbi algorithm:
 	- [Task](https://drive.google.com/file/d/1Pm-S7qPEgsoMOaKG7EKQIpw3kAzoiu_Q/view?usp=sharing)
 	- Solution
 - Programming exercises:
