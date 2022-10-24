@@ -138,7 +138,7 @@ This week, we will focus on how this NLP task is solved: specifically, we will d
 - [Slides](https://drive.google.com/file/d/1qqVrAVyZrot0yhCAz6c02-oVHbdR8lqQ/view?usp=sharing) on PoS tagging
 - Homework on the Viterbi algorithm:
 	- [Task](https://drive.google.com/file/d/1Pm-S7qPEgsoMOaKG7EKQIpw3kAzoiu_Q/view?usp=sharing)
-	- Solution
+	- [Solution](https://drive.google.com/file/d/1IpJudJHOAeBTSWjYI2C7rUXz-tlv7vhE/view?usp=sharing)
 - Programming exercises:
 	- [PoS tagging](https://colab.research.google.com/drive/1Eu0MNeIdjDmJ7VMK-uZLeKk8geYfbOT5?usp=sharing)
 
