@@ -17,7 +17,7 @@ By the end of this course, you will be able to build your own NLP application in
 - [Overview](#overview)
 - [Learning outcomes](#learning-outcomes)
 - [Reading list](#reading-list)
-- Material: [Week 1](#week1), [Week 2](#week2), [Week 3](#week3)
+- Material: [Week 1](#week1), [Week 2](#week2), [Week 3](#week3), [Week 4](#week4)
 
 
 <a name="overview"></a> 
@@ -144,4 +144,22 @@ This week, we will focus on how this NLP task is solved: specifically, we will d
 
 [[To the top](#top)]
 
+<a name="week4"></a> 
+# Week 4: Syntactic Analysis 
+
+Last week we started looking into another popular and widely used NLP application – **Information Extraction (IE)**. 
+A reminder: while Information Retrieval algorithms help you find a set of documents that generally answer your information need, IE algorithms are used to identify precise answers to specific questions. 
+
+Last week, we focused on part-of-speech tagging – the task that helps you identify what category (part of speech) a word belongs to. 
+This week we will continue looking into the challenges that have to be solved in order to implement an IE application. 
+Specifically, we will focus on how to detect the grammatical relations that link words of different parts of speech to each other and identify the roles that different groups of words play in a sentence. 
+We will look into **chunking** and **parsing**. 
+The final section then will bring the concepts and techniques studied over these two weeks together and show you how to implement an IE application in practice.
+
+- [Handout](https://drive.google.com/file/d/1hLg6uHxX9UI3uCInPegILcjV0g8lbQum/view?usp=sharing) for Week 4
+- [Slides](https://drive.google.com/file/d/1bVwzOzU1-1PokphHvUDIv3ozdHvbPURn/view?usp=sharing) on syntactic analysis
+- Programming exercises:
+	- IE algorithm
+
+[[To the top](#top)]
 
