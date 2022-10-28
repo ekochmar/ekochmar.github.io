@@ -157,9 +157,11 @@ We will look into **chunking** and **parsing**.
 The final section then will bring the concepts and techniques studied over these two weeks together and show you how to implement an IE application in practice.
 
 - [Handout](https://drive.google.com/file/d/1hLg6uHxX9UI3uCInPegILcjV0g8lbQum/view?usp=sharing) for Week 4
-- [Slides](https://drive.google.com/file/d/1bVwzOzU1-1PokphHvUDIv3ozdHvbPURn/view?usp=sharing) on syntactic analysis
+- [Slides](https://drive.google.com/file/d/1bVwzOzU1-1PokphHvUDIv3ozdHvbPURn/view?usp=sharing) on Syntactic analysis
 - Programming exercises:
-	- IE algorithm
+	- [InformationExtraction.ipynb](https://colab.research.google.com/drive/1J086XEd3fL6Rgc98NyxYKnzSoJKQeeqD?usp=sharing)
+- Sample solutions:	
+	- For InformationExtraction.ipynb
 
 [[To the top](#top)]
 
