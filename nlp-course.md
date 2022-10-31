@@ -161,7 +161,7 @@ The final section then will bring the concepts and techniques studied over these
 - Programming exercises:
 	- [InformationExtraction.ipynb](https://colab.research.google.com/drive/1J086XEd3fL6Rgc98NyxYKnzSoJKQeeqD?usp=sharing)
 - Sample solutions:	
-	- For InformationExtraction.ipynb
+	- For [InformationExtraction.ipynb](https://colab.research.google.com/drive/1zKU26KAU-SCSjZyIQq_wC3MiIlp7FFvr?usp=sharing)
 
 [[To the top](#top)]
 
