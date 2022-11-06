@@ -173,7 +173,7 @@ You may recall from Week 1 that ML is widely used in many NLP tasks.
 This week, you will start with one of the most popular frameworks – **supervised machine learning**, and specifically **text classification tasks**. 
 Classification is an activity in which we humans engage on a regular basis: it is concerned with identification of groups of objects or phenomena on the basis of their traits, similarities, features or other criteria. 
 Often, the categories are clearly defined, and the features are easy to determine; however, in some cases, classification may be a challenging task even for humans.
-while a computer can perform classification too, within a supervised learning framework, it needs to be "told" what the classes are and which features may distinguish between these classes.
+While a computer can perform classification too, within a supervised learning framework, it needs to be "told" what the classes are and which features may distinguish between these classes.
 
 This week, you will focus on two popular text classification tasks – **sentiment analysis**, concerned with classifying texts into those expressing positive and negative sentiment, and **topic classification**, concerned with classifying texts based on their topic.
 
