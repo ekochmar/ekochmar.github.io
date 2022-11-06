@@ -17,7 +17,7 @@ By the end of this course, you will be able to build your own NLP application in
 - [Overview](#overview)
 - [Learning outcomes](#learning-outcomes)
 - [Reading list](#reading-list)
-- Material: [Week 1](#week1), [Week 2](#week2), [Week 3](#week3), [Week 4](#week4)
+- Material: [Week 1](#week1), [Week 2](#week2), [Week 3](#week3), [Week 4](#week4), [Week 5](#week5)
 
 
 <a name="overview"></a> 
@@ -164,4 +164,30 @@ The final section then will bring the concepts and techniques studied over these
 	- For [InformationExtraction.ipynb](https://colab.research.google.com/drive/1zKU26KAU-SCSjZyIQq_wC3MiIlp7FFvr?usp=sharing)
 
 [[To the top](#top)]
+
+<a name="week5"></a> 
+# Week 5: Text Classification Approaches
+
+Previous weeks introduced you to a number of NLP concepts and techniques, which help build essential components in NLP applications and are particularly useful at the pre-processing steps.
+
+This week you will build upon the knowledge acquired over the previous weeks and will start working on the applications at the intersection of machine learning (ML) and NLP. 
+You may recall from Week 1 that ML is widely used in many NLP tasks. 
+This week, you will start with one of the most popular frameworks – **supervised machine learning**, and specifically **text classification tasks**. 
+Classification is an activity in which we humans engage on a regular basis: it is concerned with identification of groups of objects or phenomena on the basis of their traits, similarities, features or other criteria. 
+Often, the categories are clearly defined, and the features are easy to determine, however, in some cases, classification may be a harder task even for humans: for example, if we try to classify movies into interesting and boring, we might run into disagreements among ourselves on the status of some movies and on the characteristics that make a movie interesting or boring. 
+This highlights the challenges in classification: while a computer can perform classification too, within a supervised learning framework, it needs to be "told" what the classes are and which features may distinguish between these classes.
+
+This week, you will focus on two popular text classification tasks – **sentiment analysis**, concerned with classifying texts into those expressing positive and negative sentiment, and **topic classification**, concerned with classifying texts based on their topic.
+
+- [Handout](https://drive.google.com/file/d/1NPvjy3eEsGNLymXoO7-zn5qGnKwKu-MB/view?usp=sharing) for Week 5
+- [Slides](https://drive.google.com/file/d/1yY6sVmrtgNaGIRHjTVE2T7G36d6KYzeJ/view?usp=sharing) on Text classification approaches
+- Programming exercises:
+	- [AuthorProfiling.ipynb](https://colab.research.google.com/drive/1hYkylMZlUZz5s9c64rSaPqh54fBGKglf?usp=sharing)
+	- [TopicClassification.ipynb](https://colab.research.google.com/drive/1fupzst59thAH2wTFyW0iI3_3zfVTNPte?usp=sharing)
+- Sample solutions:	
+	- For [AuthorProfiling.ipynb](https://colab.research.google.com/drive/1xOIi0sT-Tpielxu5Akmw-NRFAk7mz1PI?usp=sharing)
+	- For [TopicClassification.ipynb](https://colab.research.google.com/drive/1INm3IiA2pbeiz4HLVPQvMd7T_xr2geuy?usp=sharing)
+
+[[To the top](#top)]
+
 
