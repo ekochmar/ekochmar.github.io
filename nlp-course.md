@@ -17,7 +17,7 @@ By the end of this course, you will be able to build your own NLP application in
 - [Overview](#overview)
 - [Learning outcomes](#learning-outcomes)
 - [Reading list](#reading-list)
-- Material: [Week 1](#week1), [Week 2](#week2), [Week 3](#week3), [Week 4](#week4), [Week 5](#week5)
+- Material: [Week 1](#week1), [Week 2](#week2), [Week 3](#week3), [Week 4](#week4), [Week 5](#week5), [Week 6](#week6)
 
 
 <a name="overview"></a> 
@@ -185,6 +185,29 @@ This week, you will focus on two popular text classification tasks – **sentime
 - Sample solutions:	
 	- For [AuthorProfiling.ipynb](https://colab.research.google.com/drive/1xOIi0sT-Tpielxu5Akmw-NRFAk7mz1PI?usp=sharing)
 	- For [TopicClassification.ipynb](https://colab.research.google.com/drive/1INm3IiA2pbeiz4HLVPQvMd7T_xr2geuy?usp=sharing)
+
+[[To the top](#top)]
+
+<a name="week6"></a> 
+# Week 6: Unsupervised approaches in NLP
+
+This week you will continue learning about the application of the machine learning approaches to NLP. 
+One of the key aspects that allow you to frame a task as a supervised machine learning task is the availability of clearly defined classes and, importantly, data that is annotated with such classes, for example, by domain experts. 
+Then a machine learning algorithm can be trained on such labelled data, and it can learn to associate the features with the classes. 
+Despite the fact that the amount of such labelled training data is consistently growing, enabling researchers and practitioners to develop further ML and NLP applications, data annotation is a challenging, time-consuming and often expensive task. 
+An alternative to this framework is **unsupervised machine learning**. 
+Unsupervised approaches are useful not only in cases where labelled data is unavailable or hard to collect, but also for the tasks where classes are not known in advance or can change over time. 
+
+This week, you will learn about the applications of unsupervised machine learning in NLP and, continuing with the theme of topic analysis, you will apply two unsupervised methods in practice – **k-means clustering** for topic analysis and **Latent Dirichlet allocation** (LDA) for **topic modelling**.
+
+- [Handout](https://drive.google.com/file/d/1XgaGg9d6eBklY8ioYAIdh91S0cLr2xdZ/view?usp=sharing) for Week 6
+- [Slides](https://drive.google.com/file/d/1d1fGu60KWS2fbA5P3N4W9d2mAxF4Eid7/view?usp=sharing) on Unsupervised approaches in NLP
+- Programming exercises:
+	- [TopicClustering.ipynb](https://colab.research.google.com/drive/1u9AaE1BHvKnDuqkgNHUDwphaIHcAglPU?usp=sharing)
+	- [TopicModelling.ipynb](https://colab.research.google.com/drive/1ec898KkQNRwURsfhPR6hY0SiLj5zwq5M?usp=sharing)
+- Sample solutions:	
+	- For [TopicClustering.ipynb](https://colab.research.google.com/drive/138R6xRmst3PIzNRIqTYtZSNTcowRAHVH?usp=sharing)
+	- For [TopicModelling.ipynb](https://colab.research.google.com/drive/1BBRx81n41hzVNhMKvIJGR32Vh7BWXSg9?usp=sharing)
 
 [[To the top](#top)]
 
