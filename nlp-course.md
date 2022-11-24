@@ -17,7 +17,7 @@ By the end of this course, you will be able to build your own NLP application in
 - [Overview](#overview)
 - [Learning outcomes](#learning-outcomes)
 - [Reading list](#reading-list)
-- Material: [Week 1](#week1), [Week 2](#week2), [Week 3](#week3), [Week 4](#week4), [Week 5](#week5), [Week 6](#week6)
+- Material: [Week 1](#week1), [Week 2](#week2), [Week 3](#week3), [Week 4](#week4), [Week 5](#week5), [Week 6](#week6), [Week 7](#week7)
 
 
 <a name="overview"></a> 
@@ -202,6 +202,26 @@ This week, you will learn about the applications of unsupervised machine learnin
 
 - [Handout](https://drive.google.com/file/d/1XgaGg9d6eBklY8ioYAIdh91S0cLr2xdZ/view?usp=sharing) for Week 6
 - [Slides](https://drive.google.com/file/d/1d1fGu60KWS2fbA5P3N4W9d2mAxF4Eid7/view?usp=sharing) on Unsupervised approaches in NLP
+- Programming exercises:
+	- [TopicClustering.ipynb](https://colab.research.google.com/drive/1u9AaE1BHvKnDuqkgNHUDwphaIHcAglPU?usp=sharing)
+	- [TopicModelling.ipynb](https://colab.research.google.com/drive/1ec898KkQNRwURsfhPR6hY0SiLj5zwq5M?usp=sharing)
+- Sample solutions:	
+	- For [TopicClustering.ipynb](https://colab.research.google.com/drive/138R6xRmst3PIzNRIqTYtZSNTcowRAHVH?usp=sharing)
+	- For [TopicModelling.ipynb](https://colab.research.google.com/drive/1BBRx81n41hzVNhMKvIJGR32Vh7BWXSg9?usp=sharing)
+
+[[To the top](#top)]
+
+
+<a name="week7"></a> 
+# Week 7: Semantics and meaning representation
+
+All approaches discussed so far essentially used words as symbols devoid of any particular meaning. 
+While it is true that the algorithms you have been looking into did not need to know what a word means to use it as an informative feature in a particular task (e.g., a spam filter does not actually need to understand what the word *lottery* means to associate it with the spam class), it is a simplistic view of language, and word meaning plays a central role in more challenging, natural language understanding and reasoning tasks.
+
+The subfield of linguistics and NLP that studies meaning in language is called **semantics**, and this course would not have been complete without the discussion of the methods of semantic analysis and meaning representation. 
+
+- [Handout](https://drive.google.com/file/d/11y50RTi0NKX81GhLusEGfS1u_R5QspVA/view?usp=sharing) for Week 7
+- [Slides](https://drive.google.com/file/d/1K3WNEU0s36RMzdG29OsUm-PY38AxxofW/view?usp=sharing) on Semantics and meaning representation
 - Programming exercises:
 	- [TopicClustering.ipynb](https://colab.research.google.com/drive/1u9AaE1BHvKnDuqkgNHUDwphaIHcAglPU?usp=sharing)
 	- [TopicModelling.ipynb](https://colab.research.google.com/drive/1ec898KkQNRwURsfhPR6hY0SiLj5zwq5M?usp=sharing)
