@@ -223,11 +223,10 @@ The subfield of linguistics and NLP that studies meaning in language is called *
 - [Handout](https://drive.google.com/file/d/11y50RTi0NKX81GhLusEGfS1u_R5QspVA/view?usp=sharing) for Week 7
 - [Slides](https://drive.google.com/file/d/1K3WNEU0s36RMzdG29OsUm-PY38AxxofW/view?usp=sharing) on Semantics and meaning representation
 - Programming exercises:
-	- [TopicClustering.ipynb](https://colab.research.google.com/drive/1u9AaE1BHvKnDuqkgNHUDwphaIHcAglPU?usp=sharing)
-	- [TopicModelling.ipynb](https://colab.research.google.com/drive/1ec898KkQNRwURsfhPR6hY0SiLj5zwq5M?usp=sharing)
+	- [WordNetPractice.ipynb](https://colab.research.google.com/drive/1jK1TEXi8_s8_Nnb6VKy9mem6iCsJI7Bc?usp=sharing)
+	- [AnalogySolver.ipynb](https://colab.research.google.com/drive/1sLK46LcSDaT7f165Gp4nJZf6GuZ8Z-Ys?usp=sharing)
 - Sample solutions:	
-	- For [TopicClustering.ipynb](https://colab.research.google.com/drive/138R6xRmst3PIzNRIqTYtZSNTcowRAHVH?usp=sharing)
-	- For [TopicModelling.ipynb](https://colab.research.google.com/drive/1BBRx81n41hzVNhMKvIJGR32Vh7BWXSg9?usp=sharing)
+	- For [AnalogySolver.ipynb](https://colab.research.google.com/drive/1s44G4TeUhNJp9p3fLXSJvCLCCxLM6i0J?usp=sharing)
 
 [[To the top](#top)]
 
