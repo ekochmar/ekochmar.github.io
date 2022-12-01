@@ -235,7 +235,7 @@ The subfield of linguistics and NLP that studies meaning in language is called *
 <a name="week8"></a> 
 # Week 8: Sequence modelling and labelling
 
-Most of the tasks that you addressed so far have treated text as a collection of individual words or groups of words. 
+Most of the tasks that you've addressed so far have treated text as a collection of individual words or groups of words. 
 Such approach is called **bag-of-words** (or **bag-of-ngrams**) as it does not take into account the order in which words and groups of words follow each other. 
 In Week 3, we made an observation that text is not a mere collection of disconnected words: behind the way the words are put together in sentences (and sentences are put together in larger units) lies a well-defined structure determined by the laws of language, and we first discussed sequence models then. 
 You explored the syntactic structures and grammatical relations that link words together, however, you have not yet explored the structure that governs word composition in language to the full extent. 
