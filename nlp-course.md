@@ -17,7 +17,8 @@ By the end of this course, you will be able to build your own NLP application in
 - [Overview](#overview)
 - [Learning outcomes](#learning-outcomes)
 - [Reading list](#reading-list)
-- Material: [Week 1](#week1), [Week 2](#week2), [Week 3](#week3), [Week 4](#week4), [Week 5](#week5), [Week 6](#week6), [Week 7](#week7)
+- Material: [Week 1](#week1), [Week 2](#week2), [Week 3](#week3), [Week 4](#week4), 
+[Week 5](#week5), [Week 6](#week6), [Week 7](#week7), [Week 8](#week8)
 
 
 <a name="overview"></a> 
@@ -231,3 +232,24 @@ The subfield of linguistics and NLP that studies meaning in language is called *
 [[To the top](#top)]
 
 
+<a name="week8"></a> 
+# Week 8: Sequence modelling and labelling
+
+Most of the tasks that you addressed so far have treated text as a collection of individual words or groups of words. 
+Such approach is called **bag-of-words** (or **bag-of-ngrams**) as it does not take into account the order in which words and groups of words follow each other. 
+In Week 3, we made an observation that text is not a mere collection of disconnected words: behind the way the words are put together in sentences (and sentences are put together in larger units) lies a well-defined structure determined by the laws of language, and we first discussed sequence models then. 
+You explored the syntactic structures and grammatical relations that link words together, however, you have not yet explored the structure that governs word composition in language to the full extent. 
+
+This week’s topic is **sequence modelling** and **sequence labelling** in NLP. 
+You have already encountered one NLP task that relies on sequential information (*part-of-speech tagging* in Week 3), and this week will explore in more detail further sequence modelling and labelling approaches and their application to such tasks as **named entity recognition** and **language modelling**.
+
+- [Handout](https://drive.google.com/file/d/1oMd5JLixfFRoY40NdaeJe0taaHh7LK5b/view?usp=sharing) for Week 8
+- [Slides](https://drive.google.com/file/d/1dfC9l7Omh5oKihOWMrTStbEqpVyQAgbx/view?usp=sharing) on Sequence modelling and labelling
+- Programming exercises:
+	- [NERPractice.ipynb]()
+	- [SimpleLM.ipynb]()
+	- [RNN-LM.ipynb]()
+- Sample solutions:	
+	- For [SimpleLM.ipynb]()
+
+[[To the top](#top)]
