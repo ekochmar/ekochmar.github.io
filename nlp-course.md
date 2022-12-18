@@ -246,10 +246,10 @@ You have already encountered one NLP task that relies on sequential information 
 - [Handout](https://drive.google.com/file/d/1oMd5JLixfFRoY40NdaeJe0taaHh7LK5b/view?usp=sharing) for Week 8
 - [Slides](https://drive.google.com/file/d/1dfC9l7Omh5oKihOWMrTStbEqpVyQAgbx/view?usp=sharing) on Sequence modelling and labelling
 - Programming exercises:
-	- [NERPractice.ipynb]()
-	- [SimpleLM.ipynb]()
-	- [RNN-LM.ipynb]()
+	- [NERPractice.ipynb](https://colab.research.google.com/drive/1ZMkYP0xA0EGnE3l75k8N5mo8LFClh1Uq?usp=sharing)
+	- [SimpleLM.ipynb](https://colab.research.google.com/drive/1Nv3sYjUHWum6QOq-Hci3AWMPbHviprd4?usp=sharing)
+	- [RNN-LM.ipynb](https://colab.research.google.com/drive/1IFdzhgkU6wTcA68UBBhhU72OMQUsOE7N?usp=sharing)
 - Sample solutions:	
-	- For [SimpleLM.ipynb]()
+	- For [SimpleLM.ipynb](https://colab.research.google.com/drive/1QRzLWuntvAgT_mppD8u0Ck9VsrFanVhF?usp=sharing)
 
 [[To the top](#top)]
