@@ -4,7 +4,7 @@ title: NLP course
 permalink: /nlp-course/
 ---
 
-This is the webpage for the **Introduction to Natural Language Processing** course, which closely follows the material of my new book "**Getting Started with Natural Language Processing**” (available on [Manning](https://www.manning.com/books/getting-started-with-natural-language-processing?utm_source=linkedin&utm_medium=author&utm_campaign=book_kochmar_getting_10_1_19) and [Amazon](https://www.amazon.co.uk/Getting-Started-Natural-Language-Processing/dp/1617296767/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)).
+This is the webpage for the **Introduction to Natural Language Processing** course, which closely follows the material of my new book "**Getting Started with Natural Language Processing**” (available on [Manning](https://www.manning.com/books/getting-started-with-natural-language-processing?utm_source=linkedin&utm_medium=author&utm_campaign=book_kochmar_getting_10_1_19) and [Amazon](https://www.amazon.com/Getting-Started-Natural-Language-Processing/dp/1617296767/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)).
 It covers a wide range of topics in NLP and provides you with fundamental knowledge of NLP concepts as well as practical skills. 
 By the end of this course, you will be able to build your own NLP application in an end-to-end manner.
 
