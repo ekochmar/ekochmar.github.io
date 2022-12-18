@@ -261,7 +261,7 @@ This week concludes the course on Natural Language Processing.
 Previous weeks introduced the fundamental concepts and techniques in NLP and provided you with an in-depth analysis of the main tasks and applications.
 Like any other sub-field of Artificial Intelligence, NLP is a fast-developing field that has seen an increased level of attention in the past years. 
 Firstly, language is our primary means of communication: the ability to use language is one of the core intellectual abilities in humans, which means that NLP is one of the key areas to address in AI. 
-Secondly, language is a highly structured system, which lends itself to application of formalisms and machine learning models, which makes it feasible for computers to process, understand and generate natural language with a relative success. 
+Secondly, language is a highly structured system, which lends itself to the application of formalisms and machine learning models, which makes it feasible for computers to process, understand and generate natural language with a relative success. 
 However, thirdly, despite being a structured system, language is highly creative and full of exceptions, which makes this field interesting and challenging to work in: despite impressive progress on many tasks achieved by NLP researchers in the recent years, we are still far from having systems that actually understand natural language. 
 These factors combined make this field popular and actively researched. 
 
