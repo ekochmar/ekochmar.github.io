@@ -4,13 +4,13 @@ title: NLP course
 permalink: /nlp-course/
 ---
 
-This is the webpage for the [Introduction to Natural Language Processing](https://www.bath.ac.uk/catalogues/2022-2023/cm/CM30320.html) course that I'm teaching at the University of Bath this semester (Fall 2022).
-
-**Prerequisites**: The course assumes programming knowledge of Python and some familiarity with Machine Learning algorithms; it does not require any prior knowledge of linguistics or Natural Language Processing.
-
-The course closely follows the material of my new book, "**Getting Started with Natural Language Processing**” (available on [Manning](https://www.manning.com/books/getting-started-with-natural-language-processing?utm_source=linkedin&utm_medium=author&utm_campaign=book_kochmar_getting_10_1_19) and [Amazon](https://www.amazon.co.uk/Getting-Started-Natural-Language-Processing/dp/1617296767/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)).
+This is the webpage for the **Introduction to Natural Language Processing**, which closely follows the material of my new book, "**Getting Started with Natural Language Processing**” (available on [Manning](https://www.manning.com/books/getting-started-with-natural-language-processing?utm_source=linkedin&utm_medium=author&utm_campaign=book_kochmar_getting_10_1_19) and [Amazon](https://www.amazon.co.uk/Getting-Started-Natural-Language-Processing/dp/1617296767/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)).
 It covers a wide range of topics in NLP and provides you with fundamental knowledge of NLP concepts as well as practical skills. 
 By the end of this course, you will be able to build your own NLP application in an end-to-end manner.
+
+The course was taught in Fall 2022 at the [University of Bath](https://www.bath.ac.uk/catalogues/2022-2023/cm/CM30320.html).
+
+**Prerequisites**: The course assumes programming knowledge of Python and some familiarity with Machine Learning algorithms; it does not require any prior knowledge of linguistics or Natural Language Processing.
 
 <a name="top"></a>
 # Contents:
@@ -18,7 +18,7 @@ By the end of this course, you will be able to build your own NLP application in
 - [Learning outcomes](#learning-outcomes)
 - [Reading list](#reading-list)
 - Material: [Week 1](#week1), [Week 2](#week2), [Week 3](#week3), [Week 4](#week4), 
-[Week 5](#week5), [Week 6](#week6), [Week 7](#week7), [Week 8](#week8)
+[Week 5](#week5), [Week 6](#week6), [Week 7](#week7), [Week 8](#week8), [Week 9](#week9)
 
 
 <a name="overview"></a> 
@@ -251,5 +251,28 @@ You have already encountered one NLP task that relies on sequential information 
 	- [RNN-LM.ipynb](https://colab.research.google.com/drive/1IFdzhgkU6wTcA68UBBhhU72OMQUsOE7N?usp=sharing)
 - Sample solutions:	
 	- For [SimpleLM.ipynb](https://colab.research.google.com/drive/1QRzLWuntvAgT_mppD8u0Ck9VsrFanVhF?usp=sharing)
+
+[[To the top](#top)]
+
+<a name="week9"></a> 
+# Week 9: Current trends and challenges in NLP
+
+This week concludes the course on Natural Language Processing. 
+Previous weeks introduced the fundamental concepts and techniques in NLP and provided you with an in-depth analysis of the main tasks and applications.
+Like any other sub-field of Artificial Intelligence, NLP is a fast-developing field that has seen an increased level of attention in the past years. 
+Firstly, language is our primary means of communication: the ability to use language is one of the core intellectual abilities in humans, which means that NLP is one of the key areas to address in AI. 
+Secondly, language is a highly structured system, which lends itself to application of formalisms and machine learning models, which makes it feasible for computers to process, understand and generate natural language with a relative success. 
+However, thirdly, despite being a structured system, language is highly creative and full of exceptions, which makes this field interesting and challenging to work in: despite impressive progress on many tasks achieved by NLP researchers in the recent years, we are still far from having systems that actually understand natural language. 
+These factors combined make this field popular and actively researched. 
+
+With the amount of research going on in NLP, it would be impossible to cover all current NLP approaches in one course. 
+Therefore, this week describes **current challenges in the field** and points in the direction of the **current trends**.
+
+- [Handout](https://drive.google.com/file/d/1GCK7LWLbimWA18_44-t3tQDftSZi7PGV/view?usp=sharing) for Week 9
+- Exercises:
+	- [Exercise sheet](https://drive.google.com/file/d/14nVIssVSJvdc752hiZ_iZNfIdunV3zWL/view?usp=sharing)
+	- [Revision lecture slides](https://drive.google.com/file/d/1XIxg1s9q3D10ifB_xKXZMFJQz00yo-Pz/view?usp=sharing)
+- Sample solutions:	
+	- For the [exercise sheet](https://drive.google.com/file/d/1jv8yRNE3-3_v7qgfqWkhKVWR8qVbVxyN/view?usp=sharing)
 
 [[To the top](#top)]
