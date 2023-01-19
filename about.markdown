@@ -4,13 +4,15 @@ title: About
 permalink: /about/
 ---
 
-**News**: On February 1, 2023, I will be joining the [Natural Language Processing Department at MBZUAI](https://mbzuai.ac.ae/research/department/natural-language-processing-department/).
+**News**: On February 1, 2023, I am joining the [Natural Language Processing Department at MBZUAI](https://mbzuai.ac.ae/research/department/natural-language-processing-department/).
 Get in touch if you are interested in PhD and postdoc opportunities with me.
 
-I am currently a Lecturer (Assistant Professor) at the Department of Computer Science of the University of Bath, where I am part of the AI research group. 
+I am an Assistant Professor at the [Natural Language Processing Department at MBZUAI](https://mbzuai.ac.ae/research/department/natural-language-processing-department/), where
 I conduct research at the intersection of artificial intelligence, natural language processing and intelligent tutoring systems.
 
-Prior to that, I have been working as a post-doctoral researcher at the ALTA (Automated Language Teaching and Assessment) Institute, [University of Cambridge](https://www.cl.cam.ac.uk/research/nl/people/), focusing on the development of educational applications for second language learners. 
+
+Previously, I was a Lecturer (Assistant Professor) at the Department of Computer Science of the University of Bath, where I was part of the AI research group; and 
+prior to that, I was a post-doctoral researcher at the ALTA (Automated Language Teaching and Assessment) Institute, [University of Cambridge](https://www.cl.cam.ac.uk/research/nl/people/), focusing on the development of educational applications for second language learners. 
 My research contributed to the building of [Read & Improve](https://readandimprove.englishlanguageitutoring.com), a readability tool for non-native readers of English. 
 
 I am also a co-founder and the chief scientific officer of [Korbit AI](https://www.korbit.ai), focusing on building an AI-powered dialogue-based tutoring system capable of providing learners with high-quality, interactive and personalized education in STEM subjects. 
