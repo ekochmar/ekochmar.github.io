@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-**News**: On February 1, 2023, I am joining the [Natural Language Processing Department at MBZUAI](https://mbzuai.ac.ae/research/department/natural-language-processing-department/).
+**News**: On February 1, 2023, I am joining the Natural Language Processing Department at MBZUAI.
 Get in touch if you are interested in PhD and postdoc opportunities with me.
 
 I am an Assistant Professor at the [Natural Language Processing Department at MBZUAI](https://mbzuai.ac.ae/research/department/natural-language-processing-department/), where
 I conduct research at the intersection of artificial intelligence, natural language processing and intelligent tutoring systems.
-
 
 Previously, I was a Lecturer (Assistant Professor) at the Department of Computer Science of the University of Bath, where I was part of the AI research group; and 
 prior to that, I was a post-doctoral researcher at the ALTA (Automated Language Teaching and Assessment) Institute, [University of Cambridge](https://www.cl.cam.ac.uk/research/nl/people/), focusing on the development of educational applications for second language learners. 
