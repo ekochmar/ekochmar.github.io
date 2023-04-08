@@ -4,8 +4,7 @@ title: About
 permalink: /about/
 ---
 
-**News**: On February 1, 2023, I am joining the Natural Language Processing Department at MBZUAI.
-Get in touch if you are interested in PhD and postdoc opportunities with me.
+**News**: Get in touch if you are interested in PhD and postdoc opportunities with me at the Natural Language Processing Department at MBZUAI.
 
 I am an Assistant Professor at the [Natural Language Processing Department at MBZUAI](https://mbzuai.ac.ae/research/department/natural-language-processing-department/), where
 I conduct research at the intersection of artificial intelligence, natural language processing and intelligent tutoring systems.
