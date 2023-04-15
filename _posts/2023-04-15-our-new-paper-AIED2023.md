@@ -19,5 +19,5 @@ We then asked a set of teachers to assess these questions to determine if – fr
 Overwhelmingly, **the answer is yes**! 
 We can generate relevant, grammatically correct, and answerable questions, the quality and usefulness of which speaks volumes about how they can benefit teachers and students alike.
 
-The paper will appear in the proceedings of the **24th International Conference on Artifical Intelligence in Education (AIED 2023)** later this year, but you can already access its preprint version [here](https://arxiv.org/pdf/2304.06638.pdf). 
+The paper will appear in the proceedings of the **24th International Conference on Artificial Intelligence in Education (AIED 2023)** later this year, but you can already access its preprint version [here](https://arxiv.org/pdf/2304.06638.pdf). 
 Moreover, if you'd like to learn more about the study and the annotators and see the examples of the generated questions, take a look at [our github page](https://github.com/sabina-elkins/educational_CQG) for this study.
