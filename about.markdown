@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 ---
 
-**News**: Get in touch if you are interested in PhD opportunities with me at the Natural Language Processing Department at MBZUAI. **Postdoc positions available – apply [here](https://apply.interfolio.com/124150)**. 
+**News**: **Postdoc positions available – apply [here](https://apply.interfolio.com/124150)**.
+Get in touch if you are interested in PhD opportunities with me at the Natural Language Processing Department at MBZUAI. 
 
 I am an Assistant Professor at the [Natural Language Processing Department at MBZUAI](https://mbzuai.ac.ae/research/department/natural-language-processing-department/), where
 I conduct research at the intersection of artificial intelligence, natural language processing and intelligent tutoring systems.

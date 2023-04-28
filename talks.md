@@ -5,6 +5,8 @@ permalink: /talks/
 ---
 
 Some of the talks I gave over the years are available online:
+
+- "[Impact of generative AI on students and educators](https://gulfnews.com/uae/gulf-news-edufair-takes-off-to-a-flying-start-in-dubai-1.94536270)" at Gulf News Edufair
 - "[Introduction to Natural Language Processing](https://www.youtube.com/watch?v=8S3qHHUKqYk&t=1s)" at Cambridge Data Science Bootcamp
 - [Ekaterina Kochmar: Automated Language Teaching & Assessment, NLP, Korbit.ai](https://www.youtube.com/watch?v=2MT7bYZsiV4) episode on the Chai Time Data Science podcast with Sanyam Bhutani
 - [Natural Language Processing with Ekaterina Kochmar](https://www.youtube.com/watch?v=ENvnq83Dlvo) episode on Federica Bressan's podcast:
@@ -18,6 +20,9 @@ and [five](https://www.youtube.com/watch?v=NR60rJCPDlQ)
 
 # All talks:
 
+– Invited talk "How can NLP Help Us Generate Personalized Pedagogical Interventions in Intelligent Tutoring Systems?" at NRC Canada, April 2023
+– Invited talk "Automated Generation of Personalized Pedagogical Interventions in Intelligent Tutoring Systems" at ETH Zurich, March 2023
+– Invited talk "Impact of generative AI on students and educators" at Gulf News Edufair, Dubai, March 2023
 - Invited talk "Automated Generation of Pedagogical Interventions in Dialogue-based Intelligent Tutoring Systems" at the Deliberation4Good workshop, University of Cambridge, October 2022
 - Panelist on Industry Panel @ICAME43, Cambridge, July 2022
 - Invited talk "Multi-word expressions: Challenges in understanding, acquisition, and production" at the University of Sheffield, June 2022
