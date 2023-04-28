@@ -28,7 +28,7 @@ Applicants should have:
 
 Apply via [https://apply.interfolio.com/124150](https://apply.interfolio.com/124150)
 
-The positions are available for 2 years initially starting 1st September 2023 with a possibility of subsequent renewal. 
+The positions are available for 2 years initially starting **1st September 2023** with a possibility of subsequent renewal. 
 The salary is tax-free and competitive (approx. USD 75-100K) depending on experience. 
 The benefits include medical insurance, support with relocation and visa application, 30 calendar days vacation leave per year, and generous support for conference attendance. 
 
