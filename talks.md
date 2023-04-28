@@ -20,9 +20,9 @@ and [five](https://www.youtube.com/watch?v=NR60rJCPDlQ)
 
 # All talks:
 
-– Invited talk "How can NLP Help Us Generate Personalized Pedagogical Interventions in Intelligent Tutoring Systems?" at NRC Canada, April 2023
-– Invited talk "Automated Generation of Personalized Pedagogical Interventions in Intelligent Tutoring Systems" at ETH Zurich, March 2023
-– Invited talk "Impact of generative AI on students and educators" at Gulf News Edufair, Dubai, March 2023
+- Invited talk "How can NLP Help Us Generate Personalized Pedagogical Interventions in Intelligent Tutoring Systems?" at NRC Canada, April 2023
+- Invited talk "Automated Generation of Personalized Pedagogical Interventions in Intelligent Tutoring Systems" at ETH Zurich, March 2023
+- Invited talk "Impact of generative AI on students and educators" at Gulf News Edufair, Dubai, March 2023
 - Invited talk "Automated Generation of Pedagogical Interventions in Dialogue-based Intelligent Tutoring Systems" at the Deliberation4Good workshop, University of Cambridge, October 2022
 - Panelist on Industry Panel @ICAME43, Cambridge, July 2022
 - Invited talk "Multi-word expressions: Challenges in understanding, acquisition, and production" at the University of Sheffield, June 2022
