@@ -3,7 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
-
 I am an Assistant Professor at the [Natural Language Processing Department at MBZUAI](https://mbzuai.ac.ae/research/department/natural-language-processing-department/), where
 I conduct research at the intersection of artificial intelligence, natural language processing and intelligent tutoring systems.
 
