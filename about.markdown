@@ -4,7 +4,6 @@ title: About
 permalink: /about/
 ---
 
-
 I am an Assistant Professor at the [Natural Language Processing Department at MBZUAI](https://mbzuai.ac.ae/research/department/natural-language-processing-department/), where
 I conduct research at the intersection of artificial intelligence, natural language processing and intelligent tutoring systems.
 
@@ -18,4 +17,4 @@ I hold a PhD in Natural Language Processing and an MPhil in Advanced Computer Sc
 I am also the President of the Special Interest Group on Building Educational Applications ([SIGEDU](https://sig-edu.org)) of the Association for Computational Linguistics (ACL) and the President of the International Alliance to Advance Learning in the Digital Era ([IAALDE](https://alliancelss.com)).
 
 You can find my CV [here](https://drive.google.com/file/d/1vNvZ2S6FNU7M-gsHU1mFHaTjEiinYkST/view?usp=sharing). 
-For more information, see my [old webpage](https://www.cl.cam.ac.uk/~ek358/) here.
+For more information, see my [old webpage](https://www.cl.cam.ac.uk/~ek358/).
