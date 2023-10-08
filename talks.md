@@ -20,6 +20,8 @@ and [five](https://www.youtube.com/watch?v=NR60rJCPDlQ)
 
 # All talks:
 
+- Panelist on“AI and the Future of Education and Research" organized by the Women in AI UAE Community @GITEX23, Dubai, October 2023
+- Keynote "AI in Education: A New Era and New Opportunities" at The Future of Education with AI organized by ALECSO and the UAE Ministry of Education, Abu Dhabi, September 2023
 - Invited talk "How can NLP Help Us Generate Personalized Pedagogical Interventions in Intelligent Tutoring Systems?" at NRC Canada, April 2023
 - Invited talk "Automated Generation of Personalized Pedagogical Interventions in Intelligent Tutoring Systems" at ETH Zurich, March 2023
 - Invited talk "Impact of generative AI on students and educators" at Gulf News Edufair, Dubai, March 2023
