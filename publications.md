@@ -12,14 +12,14 @@ permalink: /publications/
 <a name="2023"></a> 
 # 2023
 - Joseph Marvin Imperial and **Ekaterina Kochmar** (2023). 
-_BasahaCorpus: An Expanded Linguistic Resource for Readability Assessment in Central Philippine Languages_ 
+_BasahaCorpus: An Expanded Linguistic Resource for Readability Assessment in Central Philippine Languages_.
 Accepted to EMNLP 2023 (main conference) 
 - Anaïs Tack, **Ekaterina Kochmar**, Zheng Yuan, Serge Bibauw, and Chris Piech (2023). 
-_The BEA 2023 Shared Task on Generating AI Teacher Responses in Educational Dialogues_ 
+_The BEA 2023 Shared Task on Generating AI Teacher Responses in Educational Dialogues_.
 In Proceedings of the 18th Workshop on Innovative Use of NLP for Building Educational Applications (BEA 2023)
 [[paper](https://arxiv.org/pdf/2306.06941.pdf)]
 - Joseph Marvin Imperial and **Ekaterina Kochmar** (2023). 
-_Automatic Readability Assessment for Closely Related Languages_ 
+_Automatic Readability Assessment for Closely Related Languages_.
 In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023) 
 [[paper](https://arxiv.org/pdf/2305.13478.pdf)] [[github](https://github.com/imperialite/ara-close-lang)] 
 - Sabina Elkins, **Ekaterina Kochmar**, Iulian Vlad Serban, and Jackie Cheung (2023). 
