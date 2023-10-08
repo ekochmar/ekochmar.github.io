@@ -11,6 +11,9 @@ permalink: /publications/
 
 <a name="2023"></a> 
 # 2023
+- Joseph Marvin Imperial and **Ekaterina Kochmar** (2023). 
+_BasahaCorpus: An Expanded Linguistic Resource for Readability Assessment in Central Philippine Languages_ 
+Accepted to EMNLP 2023 (main conference) 
 - Anaïs Tack, **Ekaterina Kochmar**, Zheng Yuan, Serge Bibauw, and Chris Piech (2023). 
 _The BEA 2023 Shared Task on Generating AI Teacher Responses in Educational Dialogues_ 
 In Proceedings of the 18th Workshop on Innovative Use of NLP for Building Educational Applications (BEA 2023)
