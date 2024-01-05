@@ -4,13 +4,14 @@ title: Publications
 permalink: /publications/
 ---
 
+<a name="top"></a>
+
 - By year: 
  [2024](#2024) | [2023](#2023) | [2022](#2022) | [2021](#2021) | [2020](#2020) | 
  [2019](#2019) | [2018](#2018) | [2017](#2017) | [2016](#2016) | [2015](#2015) | 
  [2014](#2014) | [2013](#2013) | [2012](#2012) | [2011](#2011) | [2010](#2010)
 
 - On [Google Scholar](https://scholar.google.com/citations?user=e2HTYnkAAAAJ&hl=en)
-<a name="top"></a>
 
 
 <a name="2024"></a> 
@@ -152,8 +153,6 @@ In Proceedings of the 13th Workshop on Innovative Use of NLP for Building Educat
 This paper presents the **winning submission** to the [shared task on Complex Word Identification](https://sites.google.com/view/cwisharedtask2018). 
 [[paper](https://aclanthology.org/W18-0520.pdf)] [[code](https://github.com/siangooding/cwi)]
 
-[[To the top](#top)]
-
 
 <a name="2017"></a>
 # 2017
@@ -200,8 +199,6 @@ _Using Learner Data to Improve Error Correction in Adjective–Noun Combinations
 In Proceedings of the 10th Workshop on Innovative Use of NLP for Building Educational Applications (BEA10, NAACL 2015)
 [[paper](https://aclanthology.org/W15-0627.pdf)]
 
-[[To the top](#top)]
-
 
 <a name="2014"></a>
 # 2014
@@ -225,8 +222,6 @@ _Capturing Anomalies in the Choice of Content Words in Compositional Distributio
 In Proceedings of the Recent Advances in Natural Language Processing (RANLP 2013)
 [[paper](https://www.repository.cam.ac.uk/bitstream/handle/1810/264266/Kochmar_and_Briscoe-2013-Recent%20Advances%20in%20Natural%20Language%20Processing-VoR.pdf?sequence=3)] [[data](https://ilexir.co.uk/datasets/index.html)]
 
-[[To the top](#top)]
-
 
 <a name="2012"></a>
 # 2012
@@ -235,8 +230,6 @@ _HOO 2012 Error Recognition and Correction Shared Task: Cambridge University Sub
 In Proceedings of the 7th Workshop on Innovative Use of NLP for Building Educational Applications (BEA7, NAACL-HLT 2012)
 [[paper](https://www.repository.cam.ac.uk/bitstream/handle/1810/264263/Kochmar_et_al-2012-Proceedings_Seventh_Workshop_on_Innovative_Use_of_NLP-VoR.pdf?sequence=1)]
 
-[[To the top](#top)]
-
 
 <a name="2011"></a>
 # 2011
@@ -244,8 +237,6 @@ In Proceedings of the 7th Workshop on Innovative Use of NLP for Building Educati
 _Identification of a Writer’s Native Language by Error Analysis_. 
 MPhil Dissertation, Computer Laboratory, University of Cambridge, UK
 [[dissertation](https://www.cl.cam.ac.uk/~ek358/Native_Language_Detection.pdf)]
-
-[[To the top](#top)]
 
 
 <a name="2010"></a>
