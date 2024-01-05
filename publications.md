@@ -4,15 +4,15 @@ title: Publications
 permalink: /publications/
 ---
 
-- By year: [2023](#2023), [2022](#2022), [2021](#2021), [2020](#2020), [2019](#2019), [2018](#2018), [2017](#2017), 
+- By year: [2024](#2024), [2023](#2023), [2022](#2022), [2021](#2021), [2020](#2020), [2019](#2019), [2018](#2018), [2017](#2017), 
 [2016](#2016), [2015](#2015), [2014](#2014), [2013](#2013), [2012](#2012), [2011](#2011), [2010](#2010)
 - On [Google Scholar](https://scholar.google.com/citations?user=e2HTYnkAAAAJ&hl=en)
 
 
 <a name="2024"></a> 
 # 2024
-- Sabina Elkins, **Ekaterina Kochmar**, Jackie Chi Kit Cheung, and Iulian Vlad Serban (2024)
-_How Teachers Can Use Large Language Models and Bloom's Taxonomy to Create Educational Quizzes__.
+- Sabina Elkins, **Ekaterina Kochmar**, Jackie Chi Kit Cheung, and Iulian Vlad Serban (2024).
+_How Teachers Can Use Large Language Models and Bloom's Taxonomy to Create Educational Quizzes_.
 Accepted to the 14th Symposium on Educational Advances in Artificial Intelligence (EAAI-24) (main track)
 
 
