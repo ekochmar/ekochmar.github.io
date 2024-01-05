@@ -9,11 +9,19 @@ permalink: /publications/
 - On [Google Scholar](https://scholar.google.com/citations?user=e2HTYnkAAAAJ&hl=en)
 
 
+<a name="2024"></a> 
+# 2024
+- Sabina Elkins, **Ekaterina Kochmar**, Jackie Chi Kit Cheung, and Iulian Vlad Serban (2024)
+_How Teachers Can Use Large Language Models and Bloom's Taxonomy to Create Educational Quizzes__.
+Accepted to the 14th Symposium on Educational Advances in Artificial Intelligence (EAAI-24) (main track)
+
+
 <a name="2023"></a> 
 # 2023
 - Joseph Marvin Imperial and **Ekaterina Kochmar** (2023). 
 _BasahaCorpus: An Expanded Linguistic Resource for Readability Assessment in Central Philippine Languages_.
-Accepted to EMNLP 2023 (main conference) 
+In Proceedings of EMNLP 2023 (main conference) 
+[[paper](https://aclanthology.org/2023.emnlp-main.388.pdf)] [[data](https://github.com/imperialite/BasahaCorpus-HierarchicalCrosslingualARA)]
 - Anaïs Tack, **Ekaterina Kochmar**, Zheng Yuan, Serge Bibauw, and Chris Piech (2023). 
 _The BEA 2023 Shared Task on Generating AI Teacher Responses in Educational Dialogues_.
 In Proceedings of the 18th Workshop on Innovative Use of NLP for Building Educational Applications (BEA 2023)
