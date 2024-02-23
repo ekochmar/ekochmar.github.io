@@ -16,9 +16,11 @@ permalink: /publications/
 
 <a name="2024"></a> 
 # 2024
+- Yichen Huang and **Ekaterina Kochmar** (2024). 
+_REFeREE: A REference-FREE Model-Based Metric for Text Simplification__. Accepted to LREC-COLING 2024
 - Sabina Elkins, **Ekaterina Kochmar**, Jackie Chi Kit Cheung, and Iulian Vlad Serban (2024).
 _How Teachers Can Use Large Language Models and Bloom's Taxonomy to Create Educational Quizzes_.
-Accepted to the 14th Symposium on Educational Advances in Artificial Intelligence (EAAI-24) (main track)
+Accepted to the 14th Symposium on Educational Advances in Artificial Intelligence (EAAI-24, main track)
 [[paper](https://arxiv.org/abs/2401.05914)] [[data](https://anonymous.4open.science/r/EQG_in_practice-2752/README.md)]
 
 <a name="2023"></a> 

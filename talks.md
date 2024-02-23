@@ -20,6 +20,10 @@ and [five](https://www.youtube.com/watch?v=NR60rJCPDlQ)
 
 # All talks:
 
+- Invited talk "AI in Education: A New Era and New Opportunities" at RIT Dubai, February 2024
+- Panelist on "Women in AI: Academia and Research Commercialization Panel Discussion" organized by startAD | NYU Abu Dhabi, Abu Dhabi, November 2023
+- Panelist on "Digital Boundaries: Navigating the Ethical Terrain of Tech in Early Childhood Development Re-
+search" organized by Abu Dhabi Early Childhood Authority, Abu Dhabi, October 2023
 - Panelist on "AI and the Future of Education and Research" organized by the Women in AI UAE Community @GITEX23, Dubai, October 2023
 - Keynote "AI in Education: A New Era and New Opportunities" at The Future of Education with AI organized by ALECSO and the UAE Ministry of Education, Abu Dhabi, September 2023
 - Invited talk "How can NLP Help Us Generate Personalized Pedagogical Interventions in Intelligent Tutoring Systems?" at NRC Canada, April 2023
