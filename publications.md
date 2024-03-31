@@ -16,13 +16,21 @@ permalink: /publications/
 
 <a name="2024"></a> 
 # 2024
+- Kseniia Petukhova, Roman Kazakov, and **Ekaterina Kochmar** (2024).
+_PetKaz at SemEval-2024 Task 8: Can Linguistics Capture the Specifics of LLM-generated Text?_
+Accepted to SemEval 2024
+- Roman Kazakov, Kseniia Petukhova, and **Ekaterina Kochmar** (2024).
+_PetKaz at SemEval-2024 Task 3: Advancing Emotion Classification with an LLM for Emotion-Cause Pair Extraction in Conversations_
+Accepted to SemEval 2024
 - KV Aditya Srivatsa and **Ekaterina Kochmar** (2024). 
-_What Makes Math Word Problems Challenging for LLMs?_ Accepted to NAACL 2024
+_What Makes Math Word Problems Challenging for LLMs?_ 
+Accepted to NAACL 2024
 - Yichen Huang and **Ekaterina Kochmar** (2024). 
-_REFeREE: A REference-FREE Model-Based Metric for Text Simplification_. Accepted to LREC-COLING 2024
+_REFeREE: A REference-FREE Model-Based Metric for Text Simplification_. 
+Accepted to LREC-COLING 2024
 - Sabina Elkins, **Ekaterina Kochmar**, Jackie Chi Kit Cheung, and Iulian Vlad Serban (2024).
 _How Teachers Can Use Large Language Models and Bloom's Taxonomy to Create Educational Quizzes_.
-Accepted to the 14th Symposium on Educational Advances in Artificial Intelligence (EAAI-24, main track)
+In Proceedings of the 14th Symposium on Educational Advances in Artificial Intelligence (EAAI-24)
 [[paper](https://arxiv.org/abs/2401.05914)]
 
 <a name="2023"></a> 
