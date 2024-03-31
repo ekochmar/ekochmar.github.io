@@ -21,7 +21,7 @@ _PetKaz at SemEval-2024 Task 8: Can Linguistics Capture the Specifics of LLM-gen
 Accepted to SemEval 2024
 [[github](https://github.com/sachertort/petkaz-semeval-m4)] 
 - Roman Kazakov, Kseniia Petukhova, and **Ekaterina Kochmar** (2024).
-_PetKaz at SemEval-2024 Task 3: Advancing Emotion Classification with an LLM for Emotion-Cause Pair Extraction in Conversations_
+_PetKaz at SemEval-2024 Task 3: Advancing Emotion Classification with an LLM for Emotion-Cause Pair Extraction in Conversations_.
 Accepted to SemEval 2024
 [[github](https://github.com/sachertort/petkaz-semeval-ecac)] 
 - KV Aditya Srivatsa and **Ekaterina Kochmar** (2024). 
