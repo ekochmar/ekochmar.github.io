@@ -25,6 +25,7 @@ Accepted to SemEval 2024
 - KV Aditya Srivatsa and **Ekaterina Kochmar** (2024). 
 _What Makes Math Word Problems Challenging for LLMs?_ 
 Accepted to NAACL 2024
+[[paper](...)] [[github](...)] 
 - Yichen Huang and **Ekaterina Kochmar** (2024). 
 _REFeREE: A REference-FREE Model-Based Metric for Text Simplification_. 
 Accepted to LREC-COLING 2024
