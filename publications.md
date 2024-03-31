@@ -28,6 +28,7 @@ Accepted to NAACL 2024
 - Yichen Huang and **Ekaterina Kochmar** (2024). 
 _REFeREE: A REference-FREE Model-Based Metric for Text Simplification_. 
 Accepted to LREC-COLING 2024
+[[paper](https://arxiv.org/pdf/2403.17640.pdf)] [[github](https://github.com/i-need-sleep/referee)] 
 - Sabina Elkins, **Ekaterina Kochmar**, Jackie Chi Kit Cheung, and Iulian Vlad Serban (2024).
 _How Teachers Can Use Large Language Models and Bloom's Taxonomy to Create Educational Quizzes_.
 In Proceedings of the 14th Symposium on Educational Advances in Artificial Intelligence (EAAI-24)
