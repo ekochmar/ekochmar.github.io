@@ -19,9 +19,11 @@ permalink: /publications/
 - Kseniia Petukhova, Roman Kazakov, and **Ekaterina Kochmar** (2024).
 _PetKaz at SemEval-2024 Task 8: Can Linguistics Capture the Specifics of LLM-generated Text?_
 Accepted to SemEval 2024
+[[paper](https://arxiv.org/pdf/2404.05483.pdf)] [[github](https://github.com/sachertort/petkaz-semeval-m4)] 
 - Roman Kazakov, Kseniia Petukhova, and **Ekaterina Kochmar** (2024).
 _PetKaz at SemEval-2024 Task 3: Advancing Emotion Classification with an LLM for Emotion-Cause Pair Extraction in Conversations_.
 Accepted to SemEval 2024
+[[paper](https://arxiv.org/pdf/2404.05502.pdf)] [[github](https://github.com/sachertort/petkaz-semeval-ecac)]
 - KV Aditya Srivatsa and **Ekaterina Kochmar** (2024). 
 _What Makes Math Word Problems Challenging for LLMs?_ 
 Accepted to NAACL 2024
