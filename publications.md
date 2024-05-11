@@ -16,6 +16,10 @@ permalink: /publications/
 
 <a name="2024"></a> 
 # 2024
+- KV Aditya Srivatsa, Kaushal Kumar Maurya, and **Ekaterina Kochmar** (2024). 
+_Harnessing the Power of Multiple Minds: Lessons Learned from LLM Routing_. 
+Accepted to the 5th Workshop on Insights from Negative Results in NLP (at NAACL 2024)
+[[paper](https://arxiv.org/pdf/2405.00467)] [[github](https://github.com/kvadityasrivatsa/llm-routing)] 
 - Kseniia Petukhova, Roman Kazakov, and **Ekaterina Kochmar** (2024).
 _PetKaz at SemEval-2024 Task 8: Can Linguistics Capture the Specifics of LLM-generated Text?_
 Accepted to SemEval 2024
