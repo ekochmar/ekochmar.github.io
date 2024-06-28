@@ -15,7 +15,7 @@ permalink: /publications/
 
 
 <a name="2024"></a> 
-# 2024-
+# 2024
 - KV Aditya Srivatsa, Kaushal Kumar Maurya, and **Ekaterina Kochmar** (2024). 
 _Harnessing the Power of Multiple Minds: Lessons Learned from LLM Routing_. 
 Accepted to the 5th Workshop on Insights from Negative Results in NLP (at NAACL 2024)
