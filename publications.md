@@ -16,25 +16,29 @@ permalink: /publications/
 
 <a name="2024"></a> 
 # 2024
+- Bashar Alhafni, Sowmya Vajjala, Stefano Bannò, Kaushal Kumar Maurya, and **Ekaterina Kochmar** (2024). 
+_LLMs in Education: Novel Perspectives, Challenges, and Opportunities_. 
+Tutorial accepted to COLING 2025
+[[tutorial](https://arxiv.org/pdf/2409.11917)] [[webpage](https://coling2025-edu-llms.github.io)]
 - KV Aditya Srivatsa, Kaushal Kumar Maurya, and **Ekaterina Kochmar** (2024). 
 _Harnessing the Power of Multiple Minds: Lessons Learned from LLM Routing_. 
-Accepted to the 5th Workshop on Insights from Negative Results in NLP (at NAACL 2024)
+In Proceedings of the 5th Workshop on Insights from Negative Results in NLP (at NAACL 2024)
 [[paper](https://arxiv.org/pdf/2405.00467)] [[github](https://github.com/kvadityasrivatsa/llm-routing)] 
 - Kseniia Petukhova, Roman Kazakov, and **Ekaterina Kochmar** (2024).
 _PetKaz at SemEval-2024 Task 8: Can Linguistics Capture the Specifics of LLM-generated Text?_
-Accepted to SemEval 2024
+In Proceedings of SemEval 2024
 [[paper](https://arxiv.org/pdf/2404.05483.pdf)] [[github](https://github.com/sachertort/petkaz-semeval-m4)] 
 - Roman Kazakov, Kseniia Petukhova, and **Ekaterina Kochmar** (2024).
 _PetKaz at SemEval-2024 Task 3: Advancing Emotion Classification with an LLM for Emotion-Cause Pair Extraction in Conversations_.
-Accepted to SemEval 2024
+In Proceedings of SemEval 2024
 [[paper](https://arxiv.org/pdf/2404.05502.pdf)] [[github](https://github.com/sachertort/petkaz-semeval-ecac)]
 - KV Aditya Srivatsa and **Ekaterina Kochmar** (2024). 
 _What Makes Math Word Problems Challenging for LLMs?_ 
-Accepted to NAACL 2024
+In Proceedings of NAACL 2024
 [[paper](https://arxiv.org/pdf/2403.11369.pdf)] [[github](https://github.com/kvadityasrivatsa/analyzing-llms-for-mwps)] 
 - Yichen Huang and **Ekaterina Kochmar** (2024). 
 _REFeREE: A REference-FREE Model-Based Metric for Text Simplification_. 
-Accepted to LREC-COLING 2024
+In Proceedings of LREC-COLING 2024
 [[paper](https://arxiv.org/pdf/2403.17640.pdf)] [[github](https://github.com/i-need-sleep/referee)] 
 - Sabina Elkins, **Ekaterina Kochmar**, Jackie Chi Kit Cheung, and Iulian Vlad Serban (2024).
 _How Teachers Can Use Large Language Models and Bloom's Taxonomy to Create Educational Quizzes_.
