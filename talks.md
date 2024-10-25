@@ -20,6 +20,8 @@ and [five](https://www.youtube.com/watch?v=NR60rJCPDlQ)
 
 # All talks:
 
+- "LLMs in Education: Novel Perspectives, Challenges, and Opportunities" tutorial at COLING 2025, Abu Dhabi, January 2025
+- Panelist on "Large Language Models (LLMs) and their Impact on Education" at NAACL, Mexico City, June 2024
 - Invited talk "AI in Education: A New Era and New Opportunities" at RIT Dubai, February 2024
 - Panelist on "Women in AI: Academia and Research Commercialization Panel Discussion" organized by startAD NYU Abu Dhabi, Abu Dhabi, November 2023
 - Panelist on "Digital Boundaries: Navigating the Ethical Terrain of Tech in Early Childhood Development Research" organized by Abu Dhabi Early Childhood Authority, Abu Dhabi, October 2023
