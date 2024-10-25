@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "RA / REng positions available on a Google Research grant"
-date:   2024-10-28 17:56:05 +0100
+date:   2024-10-24 10:00:05 +0100
 categories: jekyll update
 ---
 Recently, I have received a [Google Academic Research Award](https://lnkd.in/d-UeyTR3) jointly with Kaushal Kumar Maurya. Our project, titled "_2σ-ITS: A Pedagogical Intelligent Tutoring System Grounded in Learning Science Principles_", focuses on the development of educational foundation models and building of the new generation of dialogue-based intelligent tutoring systems, powered by generative AI and capable of helping students across a range of subjects including STEM and language learning. We are both absolutely thrilled to have received this prestigious award and extremely grateful to Google Research Awards for supporting our research!
