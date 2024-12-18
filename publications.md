@@ -7,6 +7,7 @@ permalink: /publications/
 <a name="top"></a>
 
 - By year: 
+ [2025](#2025) | 
  [2024](#2024) | [2023](#2023) | [2022](#2022) | [2021](#2021) | [2020](#2020) | 
  [2019](#2019) | [2018](#2018) | [2017](#2017) | [2016](#2016) | [2015](#2015) | 
  [2014](#2014) | [2013](#2013) | [2012](#2012) | [2011](#2011) | [2010](#2010)
@@ -14,12 +15,19 @@ permalink: /publications/
 - On [Google Scholar](https://scholar.google.com/citations?user=e2HTYnkAAAAJ&hl=en)
 
 
-<a name="2024"></a> 
-# 2024
+<a name="2025"></a> 
+# 2025
+- Abdelrahman Sadallah, Daria Kotova, and **Ekaterina Kochmar** (2025). 
+_What Makes Cryptic Crosswords Challenging for LLMs?_ 
+Accepted to COLING 2025
+[[paper](https://arxiv.org/pdf/2412.09012)] [[github](https://github.com/bodasadallah/decrypting-crosswords)] 
 - Bashar Alhafni, Sowmya Vajjala, Stefano Bannò, Kaushal Kumar Maurya, and **Ekaterina Kochmar** (2024). 
 _LLMs in Education: Novel Perspectives, Challenges, and Opportunities_. 
 Tutorial accepted to COLING 2025
 [[tutorial](https://arxiv.org/pdf/2409.11917)] [[webpage](https://coling2025-edu-llms.github.io)]
+
+<a name="2024"></a> 
+# 2024
 - KV Aditya Srivatsa, Kaushal Kumar Maurya, and **Ekaterina Kochmar** (2024). 
 _Harnessing the Power of Multiple Minds: Lessons Learned from LLM Routing_. 
 In Proceedings of the 5th Workshop on Insights from Negative Results in NLP (at NAACL 2024)
