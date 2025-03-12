@@ -18,7 +18,7 @@ permalink: /publications/
 <a name="2025"></a> 
 # 2025
 - Kaushal Kumar Maurya, KV Aditya Srivatsa, Kseniia Petukhova, and **Ekaterina Kochmar** (2025).
-_Unifying AI Tutor Evaluation: An Evaluation Taxonomy for Pedagogical Ability Assessment of LLM-Powered AI Tutors_
+_Unifying AI Tutor Evaluation: An Evaluation Taxonomy for Pedagogical Ability Assessment of LLM-Powered AI Tutors._
 Accepted to NAACL 2025
 [[paper](https://arxiv.org/pdf/2412.09416)] [[github](https://github.com/kaushal0494/UnifyingAITutorEvaluation)] 
 - Abdelrahman Sadallah, Daria Kotova, and **Ekaterina Kochmar** (2025). 
