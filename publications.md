@@ -27,7 +27,7 @@ In Proceedings of COLING 2025
 [[paper](https://arxiv.org/pdf/2412.09012)] [[github](https://github.com/bodasadallah/decrypting-crosswords)] 
 - Bashar Alhafni, Sowmya Vajjala, Stefano Bannò, Kaushal Kumar Maurya, and **Ekaterina Kochmar** (2025). 
 _LLMs in Education: Novel Perspectives, Challenges, and Opportunities_. 
-Tutorial accepted to COLING 2025
+Tutorial at COLING 2025
 [[tutorial](https://arxiv.org/pdf/2409.11917)] [[webpage](https://coling2025-edu-llms.github.io)]
 
 <a name="2024"></a> 
