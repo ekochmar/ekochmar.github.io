@@ -6,6 +6,7 @@ permalink: /talks/
 
 Some of the talks I gave over the years are available online:
 
+- "[LLMs in Education: Novel Perspectives, Challenges, and Opportunities](https://coling2025-edu-llms.github.io)" at COLING 2025
 - "[Impact of generative AI on students and educators](https://gulfnews.com/uae/gulf-news-edufair-takes-off-to-a-flying-start-in-dubai-1.94536270)" at Gulf News Edufair
 - "[Introduction to Natural Language Processing](https://www.youtube.com/watch?v=8S3qHHUKqYk&t=1s)" at Cambridge Data Science Bootcamp
 - [Ekaterina Kochmar: Automated Language Teaching & Assessment, NLP, Korbit.ai](https://www.youtube.com/watch?v=2MT7bYZsiV4) episode on the Chai Time Data Science podcast with Sanyam Bhutani
