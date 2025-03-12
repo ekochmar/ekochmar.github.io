@@ -17,11 +17,15 @@ permalink: /publications/
 
 <a name="2025"></a> 
 # 2025
+- Kaushal Kumar Maurya, KV Aditya Srivatsa, Kseniia Petukhova, and **Ekaterina Kochmar** (2025).
+_Unifying AI Tutor Evaluation: An Evaluation Taxonomy for Pedagogical Ability Assessment of LLM-Powered AI Tutors_
+Accepted to NAACL 2025
+[[paper](https://arxiv.org/pdf/2412.09416)] [[github](https://github.com/kaushal0494/UnifyingAITutorEvaluation)] 
 - Abdelrahman Sadallah, Daria Kotova, and **Ekaterina Kochmar** (2025). 
 _What Makes Cryptic Crosswords Challenging for LLMs?_ 
-Accepted to COLING 2025
+In Proceedings of COLING 2025
 [[paper](https://arxiv.org/pdf/2412.09012)] [[github](https://github.com/bodasadallah/decrypting-crosswords)] 
-- Bashar Alhafni, Sowmya Vajjala, Stefano Bannò, Kaushal Kumar Maurya, and **Ekaterina Kochmar** (2024). 
+- Bashar Alhafni, Sowmya Vajjala, Stefano Bannò, Kaushal Kumar Maurya, and **Ekaterina Kochmar** (2025). 
 _LLMs in Education: Novel Perspectives, Challenges, and Opportunities_. 
 Tutorial accepted to COLING 2025
 [[tutorial](https://arxiv.org/pdf/2409.11917)] [[webpage](https://coling2025-edu-llms.github.io)]
