@@ -1,14 +1,17 @@
 ---
 layout: post
 title:  "BEA 2025 Shared Task: Pedagogical Ability Assessment of AI-powered Tutors"
-date:   2025-03-14 12:30:05 +0100
+date:   2025-03-13 12:30:05 +0100
 categories: jekyll update
 ---
 
 __Motivation__
-Conversational agents offer promising opportunities for education as they can fulfill various roles (e.g., intelligent tutors and service-oriented assistants) and pursue different objectives (e.g., improving student skills and increasing instructional efficiency), among which serving as an AI tutor is one of the most prevalent tasks. Recent advances in the development of Large Language Models (LLMs) provide our field with promising ways of building AI-based conversational tutors, which can generate human-sounding dialogues on the fly. The key question posed in previous research, however, remains: _How can we test whether state-of-the-art generative models are good AI teachers, capable of replying to a student in an educational dialogue?_
+Conversational agents offer promising opportunities for education as they can fulfill various roles (e.g., intelligent tutors and service-oriented assistants) and pursue different objectives (e.g., improving student skills and increasing instructional efficiency), among which serving as an AI tutor is one of the most prevalent tasks. 
+Recent advances in the development of Large Language Models (LLMs) provide our field with promising ways of building AI-based conversational tutors, which can generate human-sounding dialogues on the fly. 
+The key question posed in previous research, however, remains: _How can we test whether state-of-the-art generative models are good AI teachers, capable of replying to a student in an educational dialogue?_
 
-In this shared task, we will focus on educational dialogues between a student and a tutor in the mathematical domain grounded in student mistakes or confusion, where the AI tutor aims to remediate such mistakes or confusions, with the goal of evaluating the quality of tutor responses along the key dimensions of tutor’s ability to (1) identify student’s mistake, (2) point to its location, (3) provide the student with relevant pedagogical guidance, that is also (4) actionable. Dialogues used in this shared task include the dialogue contexts from MathDial (Macina et al., 2023) and Bridge (Wang et al., 2024) datasets, including the last utterance from the student containing a mistake, and a set of responses to the last student’s utterance from a range of LLM-based tutors and, where available, human tutors, aimed at mistake remediation and annotated for their quality.
+In this shared task, we will focus on educational dialogues between a student and a tutor in the mathematical domain grounded in student mistakes or confusion, where the AI tutor aims to remediate such mistakes or confusions, with the goal of evaluating the quality of tutor responses along the key dimensions of tutor’s ability to (1) identify student’s mistake, (2) point to its location, (3) provide the student with relevant pedagogical guidance, that is also (4) actionable. 
+Dialogues used in this shared task include the dialogue contexts from MathDial (Macina et al., 2023) and Bridge (Wang et al., 2024) datasets, including the last utterance from the student containing a mistake, and a set of responses to the last student’s utterance from a range of LLM-based tutors and, where available, human tutors, aimed at mistake remediation and annotated for their quality.
  
 __Tracks__
 This shared task will include five tracks. Participating teams are welcome to take part in any number of tracks.
