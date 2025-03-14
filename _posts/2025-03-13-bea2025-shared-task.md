@@ -13,6 +13,8 @@ The key question posed in previous research, however, remains: _How can we test 
 In this shared task, we will focus on educational dialogues between a student and a tutor in the mathematical domain grounded in student mistakes or confusion, where the AI tutor aims to remediate such mistakes or confusions, with the goal of evaluating the quality of tutor responses along the key dimensions of tutor’s ability to (1) identify student’s mistake, (2) point to its location, (3) provide the student with relevant pedagogical guidance, that is also (4) actionable. 
 Dialogues used in this shared task include the dialogue contexts from MathDial (Macina et al., 2023) and Bridge (Wang et al., 2024) datasets, including the last utterance from the student containing a mistake, and a set of responses to the last student’s utterance from a range of LLM-based tutors and, where available, human tutors, aimed at mistake remediation and annotated for their quality.
  
+
+
 __Tracks__
 This shared task will include five tracks. Participating teams are welcome to take part in any number of tracks.
 
@@ -23,10 +25,14 @@ This shared task will include five tracks. Participating teams are welcome to ta
 - __Track 5__ - Guess the Tutor Identity: Participants are invited to develop systems to identify which tutors the anonymized responses in the test set originated from. 
 
 
+
+
 __Participant registration__
 All participants should register using the [following link](https://forms.gle/fKJcdvL2kCrPcu8X6). 
 
-Important dates
+
+
+__Important dates__
 - March 12, 2025: Development data release
 - April 9, 2025: Test data release
 - April 23, 2025: System submissions from teams due
@@ -36,8 +42,12 @@ Important dates
 - June 9, 2025: Final camera-ready submissions
 - July 31 and August 1, 2025: BEA 2025 workshop at ACL
 
+
+
 __Shared task website__: [https://sig-edu.org/sharedtask/2025](https://sig-edu.org/sharedtask/2025)
  
+
+
 __Organizers__
 - Ekaterina Kochmar (MBZUAI)
 - Kaushal Kumar Maurya (MBZUAI)
@@ -45,5 +55,7 @@ __Organizers__
 - KV Aditya Srivatsa (MBZUAI)
 - Justin Vasselli (Nara Institute of Science and Technology)
 - Anaïs Tack (KU Leuven)
+
+
 
 __Contact__: [bea.sharedtask.2025@gmail.com](https://sig-edu.org/sharedtask/2025) 
