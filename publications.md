@@ -20,7 +20,7 @@ permalink: /publications/
 - Kaushal Kumar Maurya, KV Aditya Srivatsa, Kseniia Petukhova, and **Ekaterina Kochmar** (2025).
 _Unifying AI Tutor Evaluation: An Evaluation Taxonomy for Pedagogical Ability Assessment of LLM-Powered AI Tutors._
 Accepted to NAACL 2025
-[[paper](https://arxiv.org/pdf/2412.09416)] [[github](https://github.com/kaushal0494/UnifyingAITutorEvaluation)] 
+[[paper](https://arxiv.org/pdf/2412.09416)] [[github](https://github.com/kaushal0494/UnifyingAITutorEvaluation)] [[shared task](https://sig-edu.org/sharedtask/2025)]
 - Abdelrahman Sadallah, Daria Kotova, and **Ekaterina Kochmar** (2025). 
 _What Makes Cryptic Crosswords Challenging for LLMs?_ 
 In Proceedings of COLING 2025
