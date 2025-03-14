@@ -5,7 +5,7 @@ date:   2025-03-13 12:30:05 +0100
 categories: jekyll update
 ---
 
-__Motivation__
+__Motivation:__
 Conversational agents offer promising opportunities for education as they can fulfill various roles (e.g., intelligent tutors and service-oriented assistants) and pursue different objectives (e.g., improving student skills and increasing instructional efficiency), among which serving as an AI tutor is one of the most prevalent tasks. 
 Recent advances in the development of Large Language Models (LLMs) provide our field with promising ways of building AI-based conversational tutors, which can generate human-sounding dialogues on the fly. 
 The key question posed in previous research, however, remains: _How can we test whether state-of-the-art generative models are good AI teachers, capable of replying to a student in an educational dialogue?_
@@ -15,7 +15,7 @@ Dialogues used in this shared task include the dialogue contexts from MathDial (
  
 
 
-__Tracks__
+__Tracks:__
 This shared task will include five tracks. Participating teams are welcome to take part in any number of tracks.
 
 - __Track 1__ - Mistake Identification: Participants are invited to develop systems to detect whether tutors' responses recognize mistakes in students' solutions. 
@@ -27,12 +27,12 @@ This shared task will include five tracks. Participating teams are welcome to ta
 
 
 
-__Participant registration__
+__Participant registration:__
 All participants should register using the [following link](https://forms.gle/fKJcdvL2kCrPcu8X6). 
 
 
 
-__Important dates__
+__Important dates:__
 - March 12, 2025: Development data release
 - April 9, 2025: Test data release
 - April 23, 2025: System submissions from teams due
@@ -48,7 +48,7 @@ __Shared task website__: [https://sig-edu.org/sharedtask/2025](https://sig-edu.o
  
 
 
-__Organizers__
+__Organizers:__
 - Ekaterina Kochmar (MBZUAI)
 - Kaushal Kumar Maurya (MBZUAI)
 - Kseniia Petukhova (MBZUAI)
