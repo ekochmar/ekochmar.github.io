@@ -17,9 +17,12 @@ permalink: /publications/
 
 <a name="2025"></a> 
 # 2025
+- Kaushal Kumar Maurya and **Ekaterina Kochmar** (2025). 
+_Pedagogy-driven Evaluation of Generative AI-powered Intelligent Tutoring Systems._ 
+Accepted to the BlueSky track of AIED 2025
 - Kaushal Kumar Maurya, KV Aditya Srivatsa, Kseniia Petukhova, and **Ekaterina Kochmar** (2025).
 _Unifying AI Tutor Evaluation: An Evaluation Taxonomy for Pedagogical Ability Assessment of LLM-Powered AI Tutors._
-Accepted to NAACL 2025
+In Proceedings of NAACL 2025. **The paper received the Resources and Evaluation SAC award**
 [[paper](https://arxiv.org/pdf/2412.09416)] [[github](https://github.com/kaushal0494/UnifyingAITutorEvaluation)] [[shared task](https://sig-edu.org/sharedtask/2025)]
 - Abdelrahman Sadallah, Daria Kotova, and **Ekaterina Kochmar** (2025). 
 _What Makes Cryptic Crosswords Challenging for LLMs?_ 
