@@ -21,7 +21,7 @@ permalink: /publications/
 _Findings of the BEA 2025 Shared Task on Pedagogical Ability Assessment of AI-powered Tutors._
 Accepted to the 20th Workshop on Innovative Use of NLP for Building Educational Applications  (BEA 2025)
 - KV Aditya Srivatsa, Kaushal Kumar Maurya, and **Ekaterina Kochmar** (2025). 
-_Can LLMs Reliably Simulate Real Students’ Abilities in Mathematics and Reading Comprehension?._ 
+_Can LLMs Reliably Simulate Real Students’ Abilities in Mathematics and Reading Comprehension?_ 
 Accepted to the 20th Workshop on Innovative Use of NLP for Building Educational Applications (BEA 2025)
 - Kseniia Petukhova and **Ekaterina Kochmar** (2025). 
 _Intent Matters: Enhancing AI Tutoring with Fine-Grained Pedagogical Intent Annotation._ 
