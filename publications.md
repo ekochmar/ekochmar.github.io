@@ -17,9 +17,15 @@ permalink: /publications/
 
 <a name="2025"></a> 
 # 2025
+- **Ekaterina Kochmar**, Kaushal Kumar Maurya, Kseniia Petukhova, KV Aditya Srivatsa, Anaïs Tack, and Justin Vasselli (2025). 
+_Findings of the BEA 2025 Shared Task on Pedagogical Ability Assessment of AI-powered Tutors._
+Accepted to the 20th Workshop on Innovative Use of NLP for Building Educational Applications  (BEA 2025)
+- KV Aditya Srivatsa, Kaushal Kumar Maurya, and **Ekaterina Kochmar** (2025). 
+_Can LLMs Reliably Simulate Real Students’ Abilities in Mathematics and Reading Comprehension?._ 
+Accepted to the 20th Workshop on Innovative Use of NLP for Building Educational Applications (BEA 2025)
 - Kseniia Petukhova and **Ekaterina Kochmar** (2025). 
 _Intent Matters: Enhancing AI Tutoring with Fine-Grained Pedagogical Intent Annotation._ 
-Accepted to BEA 2025
+Accepted to the 20th Workshop on Innovative Use of NLP for Building Educational Applications (BEA 2025)
 [[github](https://github.com/Kpetyxova/autoTree)] 
 - Kseniia Petukhova and **Ekaterina Kochmar** (2025). 
 _A Fully Automated Pipeline for Conversational Discourse Annotation: Tree Scheme Generation and Labeling with Large Language Models._ 
