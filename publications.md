@@ -18,6 +18,10 @@ permalink: /publications/
 <a name="2025"></a> 
 # 2025
 - Kseniia Petukhova and **Ekaterina Kochmar** (2025). 
+_Intent Matters: Enhancing AI Tutoring with Fine-Grained Pedagogical Intent Annotation._ 
+Accepted to BEA 2025
+[[github](https://github.com/Kpetyxova/autoTree)] 
+- Kseniia Petukhova and **Ekaterina Kochmar** (2025). 
 _A Fully Automated Pipeline for Conversational Discourse Annotation: Tree Scheme Generation and Labeling with Large Language Models._ 
 Accepted to ACL 2025
 [[paper](https://arxiv.org/pdf/2504.08961)] [[github](https://github.com/Kpetyxova/autoTree)] 
