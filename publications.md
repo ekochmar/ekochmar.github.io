@@ -17,6 +17,9 @@ permalink: /publications/
 
 <a name="2025"></a> 
 # 2025
+- Iulian Serban, Ariella Smofsky, Robert Belfer, Mathieu Germain, Antoine Frau, Kavita Ganeshan, **Ekaterina Kochmar**, Soner Yildirim, and Arjun Sudhakar (2025). 
+_Systems and methods for reviewing code._ 
+US Patent N. 12340191
 - **Ekaterina Kochmar**, Kaushal Kumar Maurya, Kseniia Petukhova, KV Aditya Srivatsa, Anaïs Tack, and Justin Vasselli (2025). 
 _Findings of the BEA 2025 Shared Task on Pedagogical Ability Assessment of AI-powered Tutors._
 Accepted to the 20th Workshop on Innovative Use of NLP for Building Educational Applications  (BEA 2025)
