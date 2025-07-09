@@ -33,6 +33,7 @@ Accepted to the Second Conference on Language Modeling (COLM 2025)
 - **Ekaterina Kochmar**, Kaushal Kumar Maurya, Kseniia Petukhova, KV Aditya Srivatsa, Anaïs Tack, and Justin Vasselli (2025). 
 _Findings of the BEA 2025 Shared Task on Pedagogical Ability Assessment of AI-powered Tutors._
 Accepted to the 20th Workshop on Innovative Use of NLP for Building Educational Applications  (BEA 2025)
+[[shared task](https://sig-edu.org/sharedtask/2025)]
 - KV Aditya Srivatsa, Kaushal Kumar Maurya, and **Ekaterina Kochmar** (2025). 
 _Can LLMs Reliably Simulate Real Students’ Abilities in Mathematics and Reading Comprehension?_ 
 Accepted to the 20th Workshop on Innovative Use of NLP for Building Educational Applications (BEA 2025)
