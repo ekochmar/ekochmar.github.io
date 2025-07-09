@@ -20,6 +20,16 @@ permalink: /publications/
 - Iulian Serban, Ariella Smofsky, Robert Belfer, Mathieu Germain, Antoine Frau, Kavita Ganeshan, **Ekaterina Kochmar**, Soner Yildirim, and Arjun Sudhakar (2025). 
 _Systems and methods for reviewing code._ 
 US Patent N. 12340191
+- Mukund Choudhary, KV Aditya Srivatsa, Gaurja Aeron, Antara Raaghavi Bhattacharya, Dang Khoa Dang Dinh, Ikhlasul Akmal Hanif, Daria Kotova, **Ekaterina Kochmar**, and Monojit Choudhury (2025).
+_UNVEILING: What Makes Linguistics Olympiad Puzzles Tricky for LLMs?_ 
+Accepted to the Second Conference on Language Modeling (COLM 2025)
+- Fajri Koto, Rituraj Joshi, Nurdaulet Mukhituly, Yuxia Wang, Zhuohan Xie, Rahul Pal, Daniil Orel, Parvez Mullah, Diana Turmakhan, Maiya Goloburda, Mohammed Kamran, 
+Samujjwal Ghosh, Bokang Jia, Jonibek Mansurov, Mukhammed Togmanov, Debopriyo Banerjee, Nurkhan Laiyk, Akhmed Sakip, Xudong Han, **Ekaterina Kochmar**, Alham Fikri Aji, 
+Aaryamonvikram Singh, Alok Anil Jadhav, Satheesh Katipomu, Samta Kamboj, Monojit Choudhury, Gurpreet Gosal, Gokulakrishnan Ramakrishnan, Biswajit Mishra, Sarath Chandran, 
+Avraham Sheinin, Natalia Vassilieva, Neha Sengupta, and Preslav Nakov (2025). 
+_Sherkala-Chat: Building a State-of-the-Art LLM for Kazakh in a Moderately Resourced Setting._ 
+Accepted to the Second Conference on Language Modeling (COLM 2025)
+[[paper](https://arxiv.org/pdf/2503.01493)] [[model](https://huggingface.co/inceptionai/Llama-3.1-Sherkala-8B-Chat)]
 - **Ekaterina Kochmar**, Kaushal Kumar Maurya, Kseniia Petukhova, KV Aditya Srivatsa, Anaïs Tack, and Justin Vasselli (2025). 
 _Findings of the BEA 2025 Shared Task on Pedagogical Ability Assessment of AI-powered Tutors._
 Accepted to the 20th Workshop on Innovative Use of NLP for Building Educational Applications  (BEA 2025)
@@ -29,7 +39,7 @@ Accepted to the 20th Workshop on Innovative Use of NLP for Building Educational 
 - Kseniia Petukhova and **Ekaterina Kochmar** (2025). 
 _Intent Matters: Enhancing AI Tutoring with Fine-Grained Pedagogical Intent Annotation._ 
 Accepted to the 20th Workshop on Innovative Use of NLP for Building Educational Applications (BEA 2025)
-[[github](https://github.com/Kpetyxova/autoTree)] 
+[[paper](https://arxiv.org/pdf/2506.07626)] [[github](https://github.com/Kpetyxova/autoTree)] 
 - Kseniia Petukhova and **Ekaterina Kochmar** (2025). 
 _A Fully Automated Pipeline for Conversational Discourse Annotation: Tree Scheme Generation and Labeling with Large Language Models._ 
 Accepted to ACL 2025
