@@ -26,7 +26,7 @@ Accepted to EMNLP 2025 (main)
 - Joseph Marvin Imperial, Abdullah Barayan, Regina Stodden, Rodrigo Wilkens, Ricardo Muñoz Sánchez, Gao Lingyun, Melissa Torgbi, Dawn Knight, Gail Forey, 
 Reka R. Jablonkai, **Ekaterina Kochmar**, Robert Joshua Reynolds, Eugénio Ribeiro, Horacio Saggion, Elena Volodina, Sowmya Vajjala, Thomas François,
 Fernando Alva-Manchego, Harish Tayyar Madabushi (2025). 
-_UniversalCEFR: Enabling Open Multilingual Research on Language Proficiency Assessment_ 
+_UniversalCEFR: Enabling Open Multilingual Research on Language Proficiency Assessment._ 
 Accepted to EMNLP 2025 (main)
 [[paper](https://arxiv.org/pdf/2506.01419?)] [[data](https://universalcefr.github.io)]
 - Mukund Choudhary, KV Aditya Srivatsa, Gaurja Aeron, Antara Raaghavi Bhattacharya, Dang Khoa Dang Dinh, Ikhlasul Akmal Hanif, Daria Kotova, **Ekaterina Kochmar**, and Monojit Choudhury (2025).
