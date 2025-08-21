@@ -20,6 +20,15 @@ permalink: /publications/
 - Iulian Serban, Ariella Smofsky, Robert Belfer, Mathieu Germain, Antoine Frau, Kavita Ganeshan, **Ekaterina Kochmar**, Soner Yildirim, and Arjun Sudhakar (2025). 
 _Systems and methods for reviewing code._ 
 US Patent N. 12340191
+- KV Aditya Srivatsa, Kaushal Kumar Maurya, and **Ekaterina Kochmar** (2025).
+_LLMs cannot spot math errors, even when allowed to peek into the solution._ 
+Accepted to EMNLP 2025 (main)
+- Joseph Marvin Imperial, Abdullah Barayan, Regina Stodden, Rodrigo Wilkens, Ricardo Muñoz Sánchez, Gao Lingyun, Melissa Torgbi, Dawn Knight, Gail Forey, 
+Reka R. Jablonkai, **Ekaterina Kochmar**, Robert Joshua Reynolds, Eugénio Ribeiro, Horacio Saggion, Elena Volodina, Sowmya Vajjala, Thomas François,
+Fernando Alva-Manchego, Harish Tayyar Madabushi (2025). 
+_UniversalCEFR: Enabling Open Multilingual Research on Language Proficiency Assessment._ 
+Accepted to EMNLP 2025 (main)
+[[paper](https://arxiv.org/pdf/2506.01419?)] [[data](https://universalcefr.github.io)]
 - Mukund Choudhary, KV Aditya Srivatsa, Gaurja Aeron, Antara Raaghavi Bhattacharya, Dang Khoa Dang Dinh, Ikhlasul Akmal Hanif, Daria Kotova, **Ekaterina Kochmar**, and Monojit Choudhury (2025).
 _UNVEILING: What Makes Linguistics Olympiad Puzzles Tricky for LLMs?_ 
 Accepted to the Second Conference on Language Modeling (COLM 2025)
