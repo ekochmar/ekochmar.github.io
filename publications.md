@@ -32,6 +32,7 @@ Accepted to EMNLP 2025 (main)
 - Mukund Choudhary, KV Aditya Srivatsa, Gaurja Aeron, Antara Raaghavi Bhattacharya, Dang Khoa Dang Dinh, Ikhlasul Akmal Hanif, Daria Kotova, **Ekaterina Kochmar**, and Monojit Choudhury (2025).
 _UNVEILING: What Makes Linguistics Olympiad Puzzles Tricky for LLMs?_ 
 Accepted to the Second Conference on Language Modeling (COLM 2025)
+[[paper](https://arxiv.org/pdf/2508.11260)] [[data](https://github.com/mukundc2k/unveiling)] [[code](https://github.com/mukundc2k/unveiling)]
 - Fajri Koto, Rituraj Joshi, Nurdaulet Mukhituly, Yuxia Wang, Zhuohan Xie, Rahul Pal, Daniil Orel, Parvez Mullah, Diana Turmakhan, Maiya Goloburda, Mohammed Kamran, 
 Samujjwal Ghosh, Bokang Jia, Jonibek Mansurov, Mukhammed Togmanov, Debopriyo Banerjee, Nurkhan Laiyk, Akhmed Sakip, Xudong Han, **Ekaterina Kochmar**, Alham Fikri Aji, 
 Aaryamonvikram Singh, Alok Anil Jadhav, Satheesh Katipomu, Samta Kamboj, Monojit Choudhury, Gurpreet Gosal, Gokulakrishnan Ramakrishnan, Biswajit Mishra, Sarath Chandran, 
