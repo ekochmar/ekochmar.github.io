@@ -4,8 +4,9 @@ title: Talks
 permalink: /talks/
 ---
 
-Some of the talks I gave over the years are available online:
+Some of the talks and interviews I gave over the years are available online:
 
+- "[Can LLMs Reliably Simulate Real Students’ Abilities in Mathematics and Reading Comprehension?](https://arxiv.org/pdf/2507.08232)" featured in [EducationWeek](https://www.edweek.org/technology/how-ai-simulations-match-up-to-real-students-and-why-it-matters/2025/09)
 - "[LLMs in Education: Novel Perspectives, Challenges, and Opportunities](https://coling2025-edu-llms.github.io)" at COLING 2025
 - "[Impact of generative AI on students and educators](https://gulfnews.com/uae/gulf-news-edufair-takes-off-to-a-flying-start-in-dubai-1.94536270)" at Gulf News Edufair
 - "[Introduction to Natural Language Processing](https://www.youtube.com/watch?v=8S3qHHUKqYk&t=1s)" at Cambridge Data Science Bootcamp
