@@ -11,7 +11,7 @@ Previously, I was a Lecturer (Assistant Professor) at the Department of Computer
 prior to that, I was a post-doctoral researcher at the ALTA (Automated Language Teaching and Assessment) Institute, [University of Cambridge](https://www.cl.cam.ac.uk/research/nl/people/), focusing on the development of educational applications for second language learners. 
 My research contributed to the building of [Read & Improve](https://readandimprove.englishlanguageitutoring.com), a readability tool for non-native readers of English. 
 
-I am also a co-founder and the chief scientific officer of [Korbit AI](https://www.korbit.ai), focusing on building an AI-powered dialogue-based tutoring system capable of providing learners with high-quality, interactive and personalized education in STEM subjects. 
+I have also co-founded and served as the chief scientific officer of [Korbit AI](https://www.korbit.ai), focusing on building an AI-powered dialogue-based tutoring system capable of providing learners with high-quality, interactive and personalized education in STEM subjects. 
 
 I hold a PhD in Natural Language Processing and an MPhil in Advanced Computer Science from the University of Cambridge, an MA degree in Computational Linguistics from the University of Tübingen, and a diploma in Applied Linguistics from St. Petersburg State University. 
 I am also the President of the Special Interest Group on Building Educational Applications ([SIGEDU](https://sig-edu.org)) of the Association for Computational Linguistics (ACL), and I was the President of the International Alliance to Advance Learning in the Digital Era ([IAALDE](https://alliancelss.com)) in 2022-2024.
