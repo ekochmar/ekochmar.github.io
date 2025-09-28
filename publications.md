@@ -42,31 +42,31 @@ Accepted to the Second Conference on Language Modeling (COLM 2025)
 [[paper](https://arxiv.org/pdf/2503.01493)] [[model](https://huggingface.co/inceptionai/Llama-3.1-Sherkala-8B-Chat)]
 - **Ekaterina Kochmar**, Kaushal Kumar Maurya, Kseniia Petukhova, KV Aditya Srivatsa, Anaïs Tack, and Justin Vasselli (2025). 
 _Findings of the BEA 2025 Shared Task on Pedagogical Ability Assessment of AI-powered Tutors._
-Accepted to the 20th Workshop on Innovative Use of NLP for Building Educational Applications  (BEA 2025)
+In Proceedings of the 20th Workshop on Innovative Use of NLP for Building Educational Applications  (BEA 2025)
 [[paper](https://arxiv.org/pdf/2507.10579)] [[shared task](https://sig-edu.org/sharedtask/2025)]
 - KV Aditya Srivatsa, Kaushal Kumar Maurya, and **Ekaterina Kochmar** (2025). 
 _Can LLMs Reliably Simulate Real Students’ Abilities in Mathematics and Reading Comprehension?_ 
-Accepted to the 20th Workshop on Innovative Use of NLP for Building Educational Applications (BEA 2025)
-[[paper](https://arxiv.org/pdf/2507.08232)] 
+In Proceedings of the 20th Workshop on Innovative Use of NLP for Building Educational Applications (BEA 2025)
+[[paper](https://arxiv.org/pdf/2507.08232)] [[media coverage](https://www.edweek.org/technology/how-ai-simulations-match-up-to-real-students-and-why-it-matters/2025/09)]
 - Kseniia Petukhova and **Ekaterina Kochmar** (2025). 
 _Intent Matters: Enhancing AI Tutoring with Fine-Grained Pedagogical Intent Annotation._ 
-Accepted to the 20th Workshop on Innovative Use of NLP for Building Educational Applications (BEA 2025)
+In Proceedings of the 20th Workshop on Innovative Use of NLP for Building Educational Applications (BEA 2025)
 [[paper](https://arxiv.org/pdf/2506.07626)] [[github](https://github.com/Kpetyxova/autoTree)] 
 - Kseniia Petukhova and **Ekaterina Kochmar** (2025). 
 _A Fully Automated Pipeline for Conversational Discourse Annotation: Tree Scheme Generation and Labeling with Large Language Models._ 
-Accepted to ACL 2025
+In Proceedings of ACL 2025
 [[paper](https://arxiv.org/pdf/2504.08961)] [[github](https://github.com/Kpetyxova/autoTree)] 
 - Kaushal Kumar Maurya, KV Aditya Srivatsa, and **Ekaterina Kochmar** (2025). 
 _SelectLLM: Query-Aware Efficient Selection Algorithm for Large Language Models._ 
-Accepted to ACL 2025
+In Proceedings of ACL 2025
 [[paper](https://arxiv.org/pdf/2408.08545)] [[github](https://github.com/kaushal0494/SelectLLM)] 
 - Mukhammed Togmanov, Nurdaulet Mukhituly, Diana Turmakhan, Jonibek Mansurov, Maiya Goloburda, Akhmed Sakip, Zhuohan Xie, Yuxia Wang, Bekassyl Syzdykov, Nurkhan Laiyk, Alham Fikri Aji, **Ekaterina Kochmar**, Preslav Nakov, and Fajri Koto (2025). 
 _KazMMLU: Evaluating Language Models on Kazakh, Russian, and Regional Knowledge of Kazakhstan._ 
-Accepted to ACL 2025 (main)
+In Proceedings of ACL 2025 (main)
 [[paper](https://arxiv.org/pdf/2502.12829)] [[data](https://huggingface.co/datasets/MBZUAI/KazMMLU)] 
 - Kaushal Kumar Maurya and **Ekaterina Kochmar** (2025). 
 _Pedagogy-driven Evaluation of Generative AI-powered Intelligent Tutoring Systems._ 
-Accepted to the BlueSky track of AIED 2025
+In Proceedings of the BlueSky track of AIED 2025
 - Kaushal Kumar Maurya, KV Aditya Srivatsa, Kseniia Petukhova, and **Ekaterina Kochmar** (2025).
 _Unifying AI Tutor Evaluation: An Evaluation Taxonomy for Pedagogical Ability Assessment of LLM-Powered AI Tutors._
 In Proceedings of NAACL 2025. **The paper received the Resources and Evaluation SAC award**
