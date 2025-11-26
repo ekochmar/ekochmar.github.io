@@ -22,23 +22,23 @@ _Systems and methods for reviewing code._
 US Patent N. 12340191
 - KV Aditya Srivatsa, Kaushal Kumar Maurya, and **Ekaterina Kochmar** (2025).
 _LLMs cannot spot math errors, even when allowed to peek into the solution._ 
-Accepted to EMNLP 2025 (main)
+In Proceedings of EMNLP 2025 (main)
 - Joseph Marvin Imperial, Abdullah Barayan, Regina Stodden, Rodrigo Wilkens, Ricardo Muñoz Sánchez, Gao Lingyun, Melissa Torgbi, Dawn Knight, Gail Forey, 
 Reka R. Jablonkai, **Ekaterina Kochmar**, Robert Joshua Reynolds, Eugénio Ribeiro, Horacio Saggion, Elena Volodina, Sowmya Vajjala, Thomas François,
 Fernando Alva-Manchego, Harish Tayyar Madabushi (2025). 
 _UniversalCEFR: Enabling Open Multilingual Research on Language Proficiency Assessment._ 
-Accepted to EMNLP 2025 (main)
+In Proceedings of EMNLP 2025 (main)
 [[paper](https://arxiv.org/pdf/2506.01419?)] [[data](https://universalcefr.github.io)]
 - Mukund Choudhary, KV Aditya Srivatsa, Gaurja Aeron, Antara Raaghavi Bhattacharya, Dang Khoa Dang Dinh, Ikhlasul Akmal Hanif, Daria Kotova, **Ekaterina Kochmar**, and Monojit Choudhury (2025).
 _UNVEILING: What Makes Linguistics Olympiad Puzzles Tricky for LLMs?_ 
-Accepted to the Second Conference on Language Modeling (COLM 2025)
+In Proceedings of the Second Conference on Language Modeling (COLM 2025)
 [[paper](https://arxiv.org/pdf/2508.11260)] [[data](https://github.com/mukundc2k/unveiling)] [[code](https://github.com/mukundc2k/unveiling)]
 - Fajri Koto, Rituraj Joshi, Nurdaulet Mukhituly, Yuxia Wang, Zhuohan Xie, Rahul Pal, Daniil Orel, Parvez Mullah, Diana Turmakhan, Maiya Goloburda, Mohammed Kamran, 
 Samujjwal Ghosh, Bokang Jia, Jonibek Mansurov, Mukhammed Togmanov, Debopriyo Banerjee, Nurkhan Laiyk, Akhmed Sakip, Xudong Han, **Ekaterina Kochmar**, Alham Fikri Aji, 
 Aaryamonvikram Singh, Alok Anil Jadhav, Satheesh Katipomu, Samta Kamboj, Monojit Choudhury, Gurpreet Gosal, Gokulakrishnan Ramakrishnan, Biswajit Mishra, Sarath Chandran, 
 Avraham Sheinin, Natalia Vassilieva, Neha Sengupta, and Preslav Nakov (2025). 
 _Sherkala-Chat: Building a State-of-the-Art LLM for Kazakh in a Moderately Resourced Setting._ 
-Accepted to the Second Conference on Language Modeling (COLM 2025)
+In Proceedings of the Second Conference on Language Modeling (COLM 2025)
 [[paper](https://arxiv.org/pdf/2503.01493)] [[model](https://huggingface.co/inceptionai/Llama-3.1-Sherkala-8B-Chat)]
 - **Ekaterina Kochmar**, Kaushal Kumar Maurya, Kseniia Petukhova, KV Aditya Srivatsa, Anaïs Tack, and Justin Vasselli (2025). 
 _Findings of the BEA 2025 Shared Task on Pedagogical Ability Assessment of AI-powered Tutors._
