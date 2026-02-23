@@ -19,8 +19,8 @@ permalink: /publications/
 # 2026
 - Numaan Naeem, Kaushal Kumar Maurya, Kseniia Petukhova, and **Ekaterina Kochmar** (2026).
 _AITutor-EvalKit: Exploring the Capabilities of AI Tutors._ 
-In EACL 2026 Demo (main)
-[[paper][https://arxiv.org/pdf/2512.03688]] [[toolkit][https://demo-ai-tutor.vercel.app]]
+In EACL 2026 Demo Track
+[[paper](https://arxiv.org/pdf/2512.03688)] [[toolkit](https://demo-ai-tutor.vercel.app)]
 
 
 <a name="2025"></a> 
