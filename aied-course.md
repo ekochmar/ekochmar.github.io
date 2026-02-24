@@ -31,13 +31,13 @@ into emerging challenges, focusing on ethical issues, societal impact and real-w
 <a name="course-outline"></a> 
 # Course Outline
 
-- **Week 1**: Introduction, core tasks, fundamental concepts [go to Week1]
-- **Week 2**: AI for writing assistance and language learning [go to Week2]
-- **Week 3**: Intelligent Tutoring Systems [go to Week3]
-- **Week 4**: Learner analytics and personalization [go to Week4]
-- **Week 5**: LLM alignment for educational applications [go to Week5]
-- **Week 6**: Agentic AI for educational applications [go to Week6]
-- **Week 7**: Human-computer interaction and real-life applications [go to Week7]
+- **Week 1**: Introduction, core tasks, fundamental concepts [go to Week1](#week1)
+- **Week 2**: AI for writing assistance and language learning [go to Week2](#week2)
+- **Week 3**: Intelligent Tutoring Systems [go to Week3](#week3)
+- **Week 4**: Learner analytics and personalization [go to Week4](#week4)
+- **Week 5**: LLM alignment for educational applications [go to Week5](#week5)
+- **Week 6**: Agentic AI for educational applications [go to Week6](#week6)
+- **Week 7**: Human-computer interaction and real-life applications [go to Week7](#week7)
 
 
 [[To the top](#top)]
@@ -45,17 +45,36 @@ into emerging challenges, focusing on ethical issues, societal impact and real-w
 <a name="reading-list"></a> 
 # Reading list
 
-- Ekaterina Kochmar (2022). **Getting Started with Natural Language Processing**. 
-Manning Publications, ISBN: 9781617296765. URL: [Manning](https://www.manning.com/books/getting-started-with-natural-language-processing?utm_source=linkedin&utm_medium=author&utm_campaign=book_kochmar_getting_10_1_19); 
-[Amazon](https://www.amazon.co.uk/Getting-Started-Natural-Language-Processing/dp/1617296767/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=);
-for the students at the University of Bath, the book is available via the university's library service.
-- Dan Jurafsky and James H. Martin (2009). **Speech and Language Processing** (2nd edition). 
-Prentice-Hall Inc., Upper Saddle River, NJ, USA. ISBN: 0131873210. 
-URL: [2nd edition](https://github.com/rain1024/slp2-pdf/tree/master/chapter-wise-pdf); 
-[3rd edition](https://web.stanford.edu/~jurafsky/slp3/)
-- Steven Bird, Ewan Klein, and Edward Loper (2009). **Natural Language Processing with Python**. 
-O'Reilly Media, Inc. ISBN: 978-0-596-51649-9. 
-URL: [NLTK book](http://www.nltk.org/book/)
+- [Opportunities for natural language processing research in education](https://link.springer.com/chapter/10.1007/978-3-642-00382-0_2) (Burstein, 2009)
+- [Practical and ethical challenges of large language models in education: A systematic scoping review](https://bera-journals.onlinelibrary.wiley.com/doi/full/10.1111/bjet.13370) (Yan et.al., 2023)
+- COLING tutorial: [https://coling2025-edu-llms.github.io](https://coling2025-edu-llms.github.io)
+- [NeuIPS 2024 Workshop on Large Foundation Models for Educational Assessment](https://neurips2024edu.github.io)
+- [AAAI 2024 Workshop on AI in Education](https://coling2025-edu-llms.github.io)
+- uWaterloo workshop on Generative AI in K-12 Education
+EDM 2024 Workshop: Leveraging Large Language Models for Next Generation Educational Technologies
+KDD 2024 Workshop on AI for Education (AI4EDU): Advancing Personalized Education with LLM and Adaptive Learning
+Grammatical Error Correction: A Survey of the State of the Art (Bryant et al., 2023).
+Exploring Effectiveness of GPT-3 in Grammatical Error Correction: A Study on Performance and Controllability in Prompt-Based Methods (Loem et al., 2023)
+Analyzing the Performance of GPT-3.5 and GPT-4 in Grammatical Error Correction (Coyne et al., 2023)
+GPT-3.5 for Grammatical Error Correction (Katinskaia et al., 2024)
+Prompting open-source and commercial language models for grammatical error correction of English learner text(Davis et al., 2024)
+Pillars of Grammatical Error Correction: Comprehensive Inspection Of Contemporary Approaches In The Era of Large Language Models (Omelianchuk et al., 2024)
+Controlled Generation with Prompt Insertion for Natural Language Explanations in Grammatical Error Correction (Kaneko et al., 2024)
+Large Language Models Are State-of-the-Art Evaluator for Grammatical Error Correction (Kobayashi et al., 2024)
+Unraveling Downstream Gender Bias from Large Language Models: A Study on AI Educational Writing Assistance (Wambsganss et al., 2023)
+SALMONN: Towards generic hearing abilities for large language models (Tang et al., 2024)
+Can GPT-4 do L2 analytic assessment? (Bannò et al., 2024)
+Automatic Pronunciation Assessment using Self-Supervised Speech Representation Learning (Kim et al., 2022)
+A Study on Fine-Tuning wav2vec2.0 Model for the Task of Mispronunciation Detection and Diagnosis (Peng et al., 2021)
+Incorporating uncertainty into deep learning for spoken language assessment (Malinin et al., 2017)
+Automated speaking assessment: Using language technologies to score spontaneous speech (Zechner and Evanini, 2019)
+The ‘communicative’ legacy in language testing (Fulcher, 2000)
+MATHDIAL: A Dialogue Tutoring Dataset with Rich Pedagogical Properties Grounded in Math Reasoning Problems (Macina et al., 2023)
+Is ChatGPT a Good Teacher Coach? Measuring Zero-Shot Performance For Scoring and Providing Actionable Insights on Classroom Instruction (Wang and Demszky, 2023)
+Are We There Yet? - A Systematic Literature Review on Chatbots in Education (Wollny et al., 2021)
+Teaching the science of learning (Weinstein et al., 2018)
+Intelligent tutoring systems with conversational dialogue (Graesser et al., 2001)
+The 2 sigma problem: The search for methods of group instruction as effective as one-to-one tutoring (Bloom, 1984)
 
 [[To the top](#top)]
 
