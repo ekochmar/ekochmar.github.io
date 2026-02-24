@@ -1,7 +1,7 @@
 ---
 layout: page
 title: AIED course
-permalink: /aied-course/
+permalink: /~aied-course/
 ---
 
 This is the webpage for the **Generative AI-powered Educational Applications** course, a PhD-level elective course that I taught at MBZUAI in Spring 2026.
@@ -159,25 +159,20 @@ into emerging challenges, focusing on ethical issues, societal impact and real-w
 <a name="week5"></a> 
 # Week 5: LLM alignment for educational applications
 
-This week you will build upon the knowledge acquired over the previous weeks and will start working on the applications at the intersection of machine learning (ML) and NLP. 
-You may recall from Week 1 that ML is widely used in many NLP tasks. 
-This week, you will start with one of the most popular frameworks – **supervised machine learning**, and specifically **text classification tasks**. 
-Classification is an activity in which we humans engage on a regular basis: it is concerned with identification of groups of objects or phenomena on the basis of their traits, similarities, features or other criteria. 
-Often, the categories are clearly defined, and the features are easy to determine; however, in some cases, classification may be a challenging task even for humans.
-While a computer can perform classification too, within a supervised learning framework, it needs to be "told" what the classes are and which features may distinguish between these classes.
+**Overview**: 
+- Overview of the learning sciences principles
+- Pedagogical alignment of LLMs
+- Techniques applied in the educational contexts
+- Evaluation of pedagogical properties of educationally oriented models
 
-This week, you will focus on two popular text classification tasks – **sentiment analysis**, concerned with classifying texts into those expressing positive and negative sentiment, and **topic classification**, concerned with classifying texts based on their topic.
-
-- [Handout](https://drive.google.com/file/d/1NPvjy3eEsGNLymXoO7-zn5qGnKwKu-MB/view?usp=sharing) for Week 5
-- [Slides](https://drive.google.com/file/d/1yY6sVmrtgNaGIRHjTVE2T7G36d6KYzeJ/view?usp=sharing) on Text classification approaches
-- Programming exercises:
-	- [AuthorProfiling.ipynb](https://colab.research.google.com/drive/1hYkylMZlUZz5s9c64rSaPqh54fBGKglf?usp=sharing)
-	- [TopicClassification.ipynb](https://colab.research.google.com/drive/1fupzst59thAH2wTFyW0iI3_3zfVTNPte?usp=sharing)
-- Sample solutions:	
-	- For [AuthorProfiling.ipynb](https://colab.research.google.com/drive/1xOIi0sT-Tpielxu5Akmw-NRFAk7mz1PI?usp=sharing)
-	- For [TopicClassification.ipynb](https://colab.research.google.com/drive/1INm3IiA2pbeiz4HLVPQvMd7T_xr2geuy?usp=sharing)
+**Learning materials**:
+- [Slides](https://docs.google.com/presentation/d/1LqeOEAPUUeDyqUnWPBsc2Yuko2vTugvQ)
+- Reading list:
+	- [Deep Knowledge Tracing](https://web.stanford.edu/~cpiech/bio/papers/deepKnowledgeTracing.pdf). Chris Piech, Jonathan Bassen, Jonathan Huang, Surya Ganguli, Mehran Sahami, Leonidas Guibas, Jascha Sohl-Dickstein. NeurIPS 2015
+	- [Can LLMs Reliably Simulate Real Students' Abilities in Mathematics and Reading Comprehension?](https://aclanthology.org/2025.bea-1.75.pdf) KV Srivatsa, Kaushal Kumar Maurya, Ekaterina Kochmar. BEA 2025
 
 [[To the top](#top)]
+
 
 <a name="week6"></a> 
 # Week 6: Agentic AI for educational applications
