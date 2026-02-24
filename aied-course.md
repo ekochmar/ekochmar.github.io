@@ -31,13 +31,13 @@ into emerging challenges, focusing on ethical issues, societal impact and real-w
 <a name="course-outline"></a> 
 # Course Outline
 
-- **Week 1**: Introduction, core tasks, fundamental concepts [go to Week1](#week1)
-- **Week 2**: AI for writing assistance and language learning [go to Week2](#week2)
-- **Week 3**: Intelligent Tutoring Systems [go to Week3](#week3)
-- **Week 4**: Learner analytics and personalization [go to Week4](#week4)
-- **Week 5**: LLM alignment for educational applications [go to Week5](#week5)
-- **Week 6**: Agentic AI for educational applications [go to Week6](#week6)
-- **Week 7**: Human-computer interaction and real-life applications [go to Week7](#week7)
+- **Week 1**: Introduction, core tasks, fundamental concepts [[go to Week1](#week1)]
+- **Week 2**: AI for writing assistance and language learning [[go to Week2](#week2)]
+- **Week 3**: Intelligent Tutoring Systems [[go to Week3](#week3)]
+- **Week 4**: Learner analytics and personalization [[go to Week4](#week4)]
+- **Week 5**: LLM alignment for educational applications [[go to Week5](#week5)]
+- **Week 6**: Agentic AI for educational applications [[go to Week6](#week6)]
+- **Week 7**: Human-computer interaction and real-life applications [[go to Week7](#week7)]
 
 
 [[To the top](#top)]
