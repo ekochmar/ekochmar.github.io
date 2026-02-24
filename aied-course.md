@@ -148,7 +148,7 @@ into emerging challenges, focusing on ethical issues, societal impact and real-w
 - Testing learning material appropriateness via Item Response Theory (IRT)
 
 **Learning materials**:
-- [Slides](https://docs.google.com/presentation/d/1LqeOEAPUUeDyqUnWPBsc2Yuko2vTugvQ)
+- [Slides](https://drive.google.com/file/d/1tedi-uUkABpgrmvjUAiprHJuccoY3zW4/view?usp=sharing)
 - Reading list:
 	- [Deep Knowledge Tracing](https://web.stanford.edu/~cpiech/bio/papers/deepKnowledgeTracing.pdf). Chris Piech, Jonathan Bassen, Jonathan Huang, Surya Ganguli, Mehran Sahami, Leonidas Guibas, Jascha Sohl-Dickstein. NeurIPS 2015
 	- [Can LLMs Reliably Simulate Real Students' Abilities in Mathematics and Reading Comprehension?](https://aclanthology.org/2025.bea-1.75.pdf) KV Srivatsa, Kaushal Kumar Maurya, Ekaterina Kochmar. BEA 2025
