@@ -1,20 +1,15 @@
 ---
 layout: page
-title: EduNLP course
-permalink: /edunlp-course/
+title: Generative AI-powered Educational Applications
+permalink: /aied-course/
 ---
 
 This is the webpage for the **Generative AI-powered Educational Applications** course, a PhD-level elective course that I taught at MBZUAI in Spring 2026.
-It covers a wide range of topics in NLP and provides you with fundamental knowledge of NLP concepts as well as practical skills. 
-By the end of this course, you will be able to build your own NLP application in an end-to-end manner.
-
-**Prerequisites**: The course assumes programming knowledge of Python and some familiarity with Machine Learning algorithms; it does not require any prior knowledge of linguistics or Natural Language Processing.
-
 
 <a name="top"></a>
 # Contents:
 - [Overview](#overview)
-- [Learning outcomes](#learning-outcomes)
+- [Course outline](#course-outline)
 - [Reading list](#reading-list)
 - Material: [Week 1](#week1), [Week 2](#week2), [Week 3](#week3), [Week 4](#week4), 
 [Week 5](#week5), [Week 6](#week6), [Week 7](#week7)
@@ -23,31 +18,27 @@ By the end of this course, you will be able to build your own NLP application in
 <a name="overview"></a> 
 # Overview
 
-This is a semester-long course with one 2-hour long lecture per week. 
-In addition to lectures, students are provided with detailed handouts and practical programming exercises.
-
-Each week addresses a different NLP application and discusses it in detail, introducing relevant **NLP concepts and techniques**. 
-
-**Applications and topics** covered include, among others:
-
-- Information retrieval
-- Information extraction
-- Text classification
-- Topic modelling
-- Word embeddings
-- Semantic models
+This course covers a range of applications empowered by AI – from writing assistants to dialogue-based intelligent tutoring systems – 
+across a range of subject domains, including but not limited to language learning and STEM subjects. 
+We will cover topics surrounding content and feedback generation using generative AI, adaptation and personalization of AI-driven 
+educational systems, multi-modal interactive approaches (including not only text-based but also speech and visual systems), 
+agentic AI approaches to educational applications, generative AI model alignment with educational, age- and subject-specific aspects, 
+and novel human-computer interaction opportunities in this domain. In addition to such novel opportunities, the course will delve 
+into emerging challenges, focusing on ethical issues, societal impact and real-world integration of this technology, and evaluation.
 
 [[To the top](#top)]
 
-<a name="learning-outcomes"></a> 
-# Learning outcomes
+<a name="course-outline"></a> 
+# Course Outline
 
-1. Demonstrate knowledge of the **fundamental principles** of natural language processing.
-2. Demonstrate understanding of **key algorithms** for natural language processing.
-3. Write **programs** that process language.
-4. Design your own **end-to-end projects** in NLP.
-5. Evaluate the **performance** of programs that process language. 
-6. Assess feasibility and appropriateness of **novel NLP approaches** presented in literature.
+- **Week 1**: Introduction, core tasks, fundamental concepts [go to Week1]
+- **Week 2**: AI for writing assistance and language learning [go to Week2]
+- **Week 3**: Intelligent Tutoring Systems [go to Week3]
+- **Week 4**: Learner analytics and personalization [go to Week4]
+- **Week 5**: LLM alignment for educational applications [go to Week5]
+- **Week 6**: Agentic AI for educational applications [go to Week6]
+- **Week 7**: Human-computer interaction and real-life applications [go to Week7]
+
 
 [[To the top](#top)]
 
