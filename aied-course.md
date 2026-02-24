@@ -166,10 +166,12 @@ into emerging challenges, focusing on ethical issues, societal impact and real-w
 - Evaluation of pedagogical properties of educationally oriented models
 
 **Learning materials**:
-- [Slides](https://docs.google.com/presentation/d/1LqeOEAPUUeDyqUnWPBsc2Yuko2vTugvQ)
+- [Slides](https://drive.google.com/file/d/1QCFRK_LZdg9VE8gYdBzoWC7dUo_30x-r/view?usp=sharing)
 - Reading list:
-	- [Deep Knowledge Tracing](https://web.stanford.edu/~cpiech/bio/papers/deepKnowledgeTracing.pdf). Chris Piech, Jonathan Bassen, Jonathan Huang, Surya Ganguli, Mehran Sahami, Leonidas Guibas, Jascha Sohl-Dickstein. NeurIPS 2015
-	- [Can LLMs Reliably Simulate Real Students' Abilities in Mathematics and Reading Comprehension?](https://aclanthology.org/2025.bea-1.75.pdf) KV Srivatsa, Kaushal Kumar Maurya, Ekaterina Kochmar. BEA 2025
+	- [Unifying AI Tutor Evaluation: An Evaluation Taxonomy for Pedagogical Ability Assessment of LLM-Powered AI Tutors](https://aclanthology.org/2025.naacl-long.57/). Kaushal Kumar Maurya, KV Aditya Srivatsa, Kseniia Petukhova, Ekaterina Kochmar. NAACL 2025
+	- [KidLM: Advancing Language Models for Children – Early Insights and Future Directions](https://aclanthology.org/2024.emnlp-main.277.pdf). Mir Tafseer Nayeem and Davood Rafiei. EMNLP 2024
+	- [CLASS: A Design Framework for Building Intelligent Tutoring Systems Based on Learning Science principles](https://aclanthology.org/2023.findings-emnlp.130.pdf). Shashank Sonkar, Naiming Liu, Debshila Mallick, Richard Baraniuk. EMNLP 2023
+	- [Efficient RL for optimizing conversation level outcomes with an LLM-based tutor](https://arxiv.org/pdf/2507.16252). Hyunji Nam, Omer Gottesman, Amy Zhang, Dean Foster, Emma Brunskill, Lyle Ungar. arXiv preprint arXiv:2507.16252, 2025
 
 [[To the top](#top)]
 
