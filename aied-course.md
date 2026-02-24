@@ -1,7 +1,7 @@
 ---
 layout: page
 title: AIED course
-permalink: /~aied-course/
+permalink: /aied-course/
 ---
 
 This is the webpage for the **Generative AI-powered Educational Applications** course, a PhD-level elective course that I taught at MBZUAI in Spring 2026.
@@ -91,7 +91,7 @@ into emerging challenges, focusing on ethical issues, societal impact and real-w
 - AI in education in academic and industrial contexts (including OpenAI’s educational models, Google’s LearnLM, Khan Academy’s Khanmigo, etc.)
 
 **Learning materials**:
-- [Slides](https://docs.google.com/presentation/d/1S8PAya0zWwhuqWYiNqrPUY9BS2ojD3cL)
+- [Slides](https://drive.google.com/drive/u/0/folders/16tToRMhAUbGIVlZE_fMZnAeayX5gX0vp)
 - Reading list:
 	- LLMs in education: Novel perspectives, challenges, and opportunities. Bashar Alhafni, Sowmya Vajjala, Stefano Bannò, Kaushal Kumar Maurya, Ekaterina Kochmar. [COLING 2025 tutorial](https://coling2025-edu-llms.github.io)
 	- [Opportunities and Challenges of LLMs in Education: An NLP Perspective](https://arxiv.org/abs/2507.22753). Sowmya Vajjala, Bashar Alhafni, Stefano Bannò, Kaushal Kumar Maurya, Ekaterina Kochmar, 2025
