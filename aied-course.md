@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Generative AI-powered Educational Applications
+title: AIED course
 permalink: /aied-course/
 ---
 
