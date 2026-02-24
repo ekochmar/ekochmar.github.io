@@ -130,7 +130,7 @@ into emerging challenges, focusing on ethical issues, societal impact and real-w
 - Evaluation of ITS – from purely intrinsic metrics to extrinsic (i.e., learner-based) evaluation
 
 **Learning materials**:
-- [Slides](https://docs.google.com/presentation/d/17GBwzeH983IVSF5zLuCR7pjSBo-d8c7M)
+- [Slides](https://drive.google.com/file/d/1XAz1bdj-6e0DAAHWOuOjA6hZb7LZixAC/view?usp=sharing)
 - Reading list:
 	- [AutoTutor and Family: A Review of 17 Years of Natural Language Tutoring](https://link.springer.com/article/10.1007/s40593-014-0029-5). Benjamin D Nye, Arthur C Graesser and Xiangen Hu. International Journal of Artificial Intelligence in Education, 24(4):427–469. 2014
 	- [AutoTutor meets Large Language Models: A Language Model Tutor with Rich Pedagogy and Guardrails](https://arxiv.org/abs/2402.09216). Sankalan Pal Chowdhury, Vilém Zouhar, Mrinmaya Sachan. Learning@Scale, 2024
