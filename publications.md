@@ -19,8 +19,11 @@ permalink: /publications/
 # 2026
 - Numaan Naeem, Kaushal Kumar Maurya, Kseniia Petukhova, and **Ekaterina Kochmar** (2026).
 _AITutor-EvalKit: Exploring the Capabilities of AI Tutors._ 
-In EACL 2026 Demo Track
-[[paper](https://arxiv.org/pdf/2512.03688)] [[toolkit](https://demo-ai-tutor.vercel.app)]
+Accepted to EACL 2026 Demo Track
+[[paper](https://arxiv.org/pdf/2512.03688)] [[toolkit](https://demo-ai-tutor.vercel.app)] [[code](https://github.com/kaushal0494/AITutor-EvalKit)]
+- Kseniia Petukhova and **Ekaterina Kochmar** (2026). 
+_Towards Reward Modeling for AI Tutors in MathMistake Remediation._ 
+Accepter to LREC 2026
 
 
 <a name="2025"></a> 
@@ -28,9 +31,11 @@ In EACL 2026 Demo Track
 - Iulian Serban, Ariella Smofsky, Robert Belfer, Mathieu Germain, Antoine Frau, Kavita Ganeshan, **Ekaterina Kochmar**, Soner Yildirim, and Arjun Sudhakar (2025). 
 _Systems and methods for reviewing code._ 
 US Patent N. 12340191
+[[patent](https://patents.google.com/patent/US12340191B1/en)]
 - KV Aditya Srivatsa, Kaushal Kumar Maurya, and **Ekaterina Kochmar** (2025).
 _LLMs cannot spot math errors, even when allowed to peek into the solution._ 
 In Proceedings of EMNLP 2025 (main)
+[[paper](https://aclanthology.org/2025.emnlp-main.553.pdf)]
 - Joseph Marvin Imperial, Abdullah Barayan, Regina Stodden, Rodrigo Wilkens, Ricardo Muñoz Sánchez, Gao Lingyun, Melissa Torgbi, Dawn Knight, Gail Forey, 
 Reka R. Jablonkai, **Ekaterina Kochmar**, Robert Joshua Reynolds, Eugénio Ribeiro, Horacio Saggion, Elena Volodina, Sowmya Vajjala, Thomas François,
 Fernando Alva-Manchego, Harish Tayyar Madabushi (2025). 

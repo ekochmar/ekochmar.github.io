@@ -22,6 +22,7 @@ and [five](https://www.youtube.com/watch?v=NR60rJCPDlQ)
 
 # All talks:
 
+- Panelist on "Reimagining Education" at the GITEX AI Native Societies session organized by G42, Dubai; October 2025
 - "Brave New World: AI, Higher Education, and the Future of Work", at the AI and Future of Work Forum, Ras Al Khaimah; October 2025
 - "LLMs in Education: Novel Perspectives, Challenges, and Opportunities" tutorial at COLING 2025, Abu Dhabi; January 2025
 - Panelist on "Large Language Models (LLMs) and their Impact on Education" at NAACL, Mexico City; June 2024
