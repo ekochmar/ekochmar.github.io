@@ -115,7 +115,7 @@ into emerging challenges, focusing on ethical issues, societal impact and real-w
 	- [Grammatical Error Correction: A Survey of the State of the Art](https://direct.mit.edu/coli/article/49/3/643/115846/Grammatical-Error-Correction-A-Survey-of-the-State) (Bryant et al., 2023).
 	- [Is ChatGPT a Highly Fluent Grammatical Error Correction System? A Comprehensive Evaluation](https://arxiv.org/pdf/2304.01746). Tao Fang, Shu Yang, Kaixin Lan, Derek F. Wong, Jinpeng Hu, Lidia S. Chao, Yue Zhang. ArXiv preprint, 2023
 	- [GEE! Grammar Error Explanation with Large Language Models](https://aclanthology.org/2024.findings-naacl.49.pdf). Yixiao Song, Kalpesh Krishna, Rajesh Bhatt, Kevin Gimpel, Mohit Iyyer. Findings of NAACL 2024
-	- [Towards End-to-End Spoken Grammatical Error Correction](https://arxiv.org/pdf/2311.05550). Stefano Banno, Rao Ma, Mengjie Qian, Kate M. Knill, Mark J.F. Gales. In ICASSP 2024
+	- [Towards End-to-End Spoken Grammatical Error Correction](https://arxiv.org/pdf/2311.05550). Stefano Banno, Rao Ma, Mengjie Qian, Kate M. Knill, Mark J.F. Gales. ICASSP 2024
 
 [[To the top](#top)]
 
@@ -123,46 +123,38 @@ into emerging challenges, focusing on ethical issues, societal impact and real-w
 <a name="week3"></a> 
 # Week 3: Intelligent Tutoring Systems
 
-This week and next week will follow up with another popular and widely used NLP application – **Information Extraction**.
+**Overview**: 
+- Introduction into the theory and practice of building Intelligent Tutoring Systems (ITSs)
+- From traditional ITSs to modern, AI-powered systems – what generative AI can do for us?
+- ITSs across domains and subject areas
+- Evaluation of ITS – from purely intrinsic metrics to extrinsic (i.e., learner-based) evaluation
 
-In addition to searching for a set of documents that answer your information need, which is performed by Information Retrieval algorithms, you may be interested in getting a precise answer to a specific question. 
-For example, if you Google for "artificial intelligence", the search engine will come back with a long list of pages discussing various aspects of artificial intelligence, from the definition and an overview of the field, to specific techniques and applications. 
-However, if you are interested in the definition only, you would ask "**What** is Artificial Intelligence?" and expect to get a specific answer giving such a definition. 
-Information Extraction (IE) is the NLP task that addresses such challenges.
-
-As with IR, there is a reason for why we are talking about IE relatively early in the course on NLP: while working on an IE algorithm, you will also learn about fundamental NLP concepts and techniques, starting this week with **part-of-speech tagging**. 
-This week, we will focus on how this NLP task is solved: specifically, we will discuss **sequence modelling** approaches used in NLP, look into the theory behind such models, and learn how part-of-speech tagging is solved using a sequence model.
-
-- [Handout](https://drive.google.com/file/d/1gZ4r_awH3nURP9DhXYR7MgjH7cSaCy4b/view?usp=sharing) for Week 3
-- [Slides](https://drive.google.com/file/d/1qqVrAVyZrot0yhCAz6c02-oVHbdR8lqQ/view?usp=sharing) on PoS tagging
-- Homework on the Viterbi algorithm:
-	- [Task](https://drive.google.com/file/d/1Pm-S7qPEgsoMOaKG7EKQIpw3kAzoiu_Q/view?usp=sharing)
-	- [Solution](https://drive.google.com/file/d/1IpJudJHOAeBTSWjYI2C7rUXz-tlv7vhE/view?usp=sharing)
-- Programming exercises:
-	- [PoS tagging](https://colab.research.google.com/drive/1Eu0MNeIdjDmJ7VMK-uZLeKk8geYfbOT5?usp=sharing)
+**Learning materials**:
+- [Slides](https://docs.google.com/presentation/d/17GBwzeH983IVSF5zLuCR7pjSBo-d8c7M)
+- Reading list:
+	- [AutoTutor and Family: A Review of 17 Years of Natural Language Tutoring](https://link.springer.com/article/10.1007/s40593-014-0029-5). Benjamin D Nye, Arthur C Graesser and Xiangen Hu. International Journal of Artificial Intelligence in Education, 24(4):427–469. 2014
+	- [AutoTutor meets Large Language Models: A Language Model Tutor with Rich Pedagogy and Guardrails](https://arxiv.org/abs/2402.09216). Sankalan Pal Chowdhury, Vilém Zouhar, Mrinmaya Sachan. Learning@Scale, 2024
+	- [Improving the Validity of Automatically Generated Feedback via Reinforcement Learning](https://arxiv.org/pdf/2403.01304). Alexander Scarlatos, Digory Smith, Simon Woodhead, and Andrew Lan. AIED 2024
+	- [From Text to Visuals: Using LLMs to Generate Math Diagrams with Vector Graphics](https://arxiv.org/pdf/2503.07429). Jaewook Lee, Jeongah Lee, Wanyong Feng, Andrew Lan. AIED 2025
 
 [[To the top](#top)]
+
 
 <a name="week4"></a> 
 # Week 4: Learner analytics and personalization 
 
-Last week we started looking into another popular and widely used NLP application – **Information Extraction (IE)**. 
-A reminder: while Information Retrieval algorithms help you find a set of documents that generally answer your information need, IE algorithms are used to identify precise answers to specific questions. 
+**Overview**: 
+- Tracking learner knowledge via Bayesian Knowledge Tracing (BKT) and its variants (e.g., Deep Knowledge Tracing)
+- Testing learning material appropriateness via Item Response Theory (IRT)
 
-Last week, we focused on part-of-speech tagging – the task that helps you identify what category (part of speech) a word belongs to. 
-This week we will continue looking into the challenges that have to be solved in order to implement an IE application. 
-Specifically, we will focus on how to detect the grammatical relations that link words of different parts of speech to each other and identify the roles that different groups of words play in a sentence. 
-We will look into **chunking** and **parsing**. 
-The final section then will bring the concepts and techniques studied over these two weeks together and show you how to implement an IE application in practice.
-
-- [Handout](https://drive.google.com/file/d/1hLg6uHxX9UI3uCInPegILcjV0g8lbQum/view?usp=sharing) for Week 4
-- [Slides](https://drive.google.com/file/d/1bVwzOzU1-1PokphHvUDIv3ozdHvbPURn/view?usp=sharing) on Syntactic analysis
-- Programming exercises:
-	- [InformationExtraction.ipynb](https://colab.research.google.com/drive/1J086XEd3fL6Rgc98NyxYKnzSoJKQeeqD?usp=sharing)
-- Sample solutions:	
-	- For [InformationExtraction.ipynb](https://colab.research.google.com/drive/1zKU26KAU-SCSjZyIQq_wC3MiIlp7FFvr?usp=sharing)
+**Learning materials**:
+- [Slides](https://docs.google.com/presentation/d/1LqeOEAPUUeDyqUnWPBsc2Yuko2vTugvQ)
+- Reading list:
+	- [Deep Knowledge Tracing](https://web.stanford.edu/~cpiech/bio/papers/deepKnowledgeTracing.pdf). Chris Piech, Jonathan Bassen, Jonathan Huang, Surya Ganguli, Mehran Sahami, Leonidas Guibas, Jascha Sohl-Dickstein. NeurIPS 2015
+	- [Can LLMs Reliably Simulate Real Students' Abilities in Mathematics and Reading Comprehension?](https://aclanthology.org/2025.bea-1.75.pdf) KV Srivatsa, Kaushal Kumar Maurya, Ekaterina Kochmar. BEA 2025
 
 [[To the top](#top)]
+
 
 <a name="week5"></a> 
 # Week 5: LLM alignment for educational applications
