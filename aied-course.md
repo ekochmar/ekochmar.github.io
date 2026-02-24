@@ -198,17 +198,15 @@ into emerging challenges, focusing on ethical issues, societal impact and real-w
 <a name="week7"></a> 
 # Week 7: Human-computer interaction and real-life applications
 
-All approaches discussed so far essentially used words as symbols devoid of any particular meaning. 
-While it is true that the algorithms you have been looking into did not need to know what a word means to use it as an informative feature in a particular task (e.g., a spam filter does not actually need to understand what the word *lottery* means to associate it with the spam class), it is a simplistic view of language, and word meaning plays a central role in more challenging, natural language understanding and reasoning tasks.
+**Overview**: 
+- Human-computer interaction (HCI) aspects in AI-for-education
+- Real-life integration
+- Ethical considerations
 
-The subfield of linguistics and NLP that studies meaning in language is called **semantics**, and this course would not have been complete without the discussion of the methods of semantic analysis and meaning representation. 
-
-- [Handout](https://drive.google.com/file/d/11y50RTi0NKX81GhLusEGfS1u_R5QspVA/view?usp=sharing) for Week 7
-- [Slides](https://drive.google.com/file/d/1K3WNEU0s36RMzdG29OsUm-PY38AxxofW/view?usp=sharing) on Semantics and meaning representation
-- Programming exercises:
-	- [WordNetPractice.ipynb](https://colab.research.google.com/drive/1jK1TEXi8_s8_Nnb6VKy9mem6iCsJI7Bc?usp=sharing)
-	- [AnalogySolver.ipynb](https://colab.research.google.com/drive/1sLK46LcSDaT7f165Gp4nJZf6GuZ8Z-Ys?usp=sharing)
-- Sample solutions:	
-	- For [AnalogySolver.ipynb](https://colab.research.google.com/drive/1s44G4TeUhNJp9p3fLXSJvCLCCxLM6i0J?usp=sharing)
+**Learning materials**:
+- [Slides](https://drive.google.com/file/d/1dPMsb1QG8te_Y1ZQKEoKAe5HbDVgbkRU/view?usp=sharing)
+- Reading list:
+	- [GPTeach: Interactive TA Training with GPT Based Students](https://stanford.edu/~cpiech/bio/papers/GPTeach.pdf). Julia Markel, Steven Opferman, James Landay, and Chris Piech. Learning@Scale 2023
+	- [Bridging the novice-expert gap via models of decision-making: A case study on remediating math mistakes](https://aclanthology.org/2024.naacl-long.120.pdf). Rose Wang, Qingyang Zhang, Carly Robinson, Susanna Loeb, Dorottya Demszky. NAACL 2024
 
 [[To the top](#top)]
