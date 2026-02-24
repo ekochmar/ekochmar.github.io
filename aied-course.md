@@ -47,14 +47,15 @@ into emerging challenges, focusing on ethical issues, societal impact and real-w
 
 - [Opportunities for natural language processing research in education](https://link.springer.com/chapter/10.1007/978-3-642-00382-0_2) (Burstein, 2009)
 - [Practical and ethical challenges of large language models in education: A systematic scoping review](https://bera-journals.onlinelibrary.wiley.com/doi/full/10.1111/bjet.13370) (Yan et.al., 2023)
-- COLING tutorial: [https://coling2025-edu-llms.github.io](https://coling2025-edu-llms.github.io)
+- [COLING tutorial](https://coling2025-edu-llms.github.io)
+- [BEA 2025 tutorial on LLMs for Education: Understanding the Needs of Stakeholders, Current Capabilities and the Path Forward](https://docs.google.com/presentation/d/1dPdHNRpQnNg0j1KGtbcfdZT9NiDhxdRCFxbsARiAU4I/edit?usp=sharing)
 - [NeuIPS 2024 Workshop on Large Foundation Models for Educational Assessment](https://neurips2024edu.github.io)
 - [AAAI 2024 Workshop on AI in Education](https://coling2025-edu-llms.github.io)
-- uWaterloo workshop on Generative AI in K-12 Education
-EDM 2024 Workshop: Leveraging Large Language Models for Next Generation Educational Technologies
-KDD 2024 Workshop on AI for Education (AI4EDU): Advancing Personalized Education with LLM and Adaptive Learning
-Grammatical Error Correction: A Survey of the State of the Art (Bryant et al., 2023).
-Exploring Effectiveness of GPT-3 in Grammatical Error Correction: A Study on Performance and Controllability in Prompt-Based Methods (Loem et al., 2023)
+- [uWaterloo workshop on Generative AI in K-12 Education](https://uwaterloo.ca/artificial-intelligence-institute/events/workshop-generative-ai-k-12-education)
+- [EDM 2024 Workshop: Leveraging Large Language Models for Next Generation Educational Technologies](https://sites.google.com/view/llmworkshopedm/home)
+- [KDD 2024 Workshop on AI for Education (AI4EDU): Advancing Personalized Education with LLM and Adaptive Learning](https://ai-for-edu.github.io/workshop_kdd2024.html)
+- [Grammatical Error Correction: A Survey of the State of the Art](https://direct.mit.edu/coli/article/49/3/643/115846/Grammatical-Error-Correction-A-Survey-of-the-State) (Bryant et al., 2023).
+- [Exploring Effectiveness of GPT-3 in Grammatical Error Correction: A Study on Performance and Controllability in Prompt-Based Methods](https://aclanthology.org/2023.bea-1.18/) (Loem et al., 2023)
 Analyzing the Performance of GPT-3.5 and GPT-4 in Grammatical Error Correction (Coyne et al., 2023)
 GPT-3.5 for Grammatical Error Correction (Katinskaia et al., 2024)
 Prompting open-source and commercial language models for grammatical error correction of English learner text(Davis et al., 2024)
