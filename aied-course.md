@@ -91,7 +91,7 @@ into emerging challenges, focusing on ethical issues, societal impact and real-w
 - AI in education in academic and industrial contexts (including OpenAI’s educational models, Google’s LearnLM, Khan Academy’s Khanmigo, etc.)
 
 **Learning materials**:
-- [Slides](https://drive.google.com/drive/u/0/folders/16tToRMhAUbGIVlZE_fMZnAeayX5gX0vp)
+- [Slides](https://drive.google.com/file/d/1w6PQKFOtPl4jPYyyUhO6VSrleYdJVeoJ/view?usp=sharing)
 - Reading list:
 	- LLMs in education: Novel perspectives, challenges, and opportunities. Bashar Alhafni, Sowmya Vajjala, Stefano Bannò, Kaushal Kumar Maurya, Ekaterina Kochmar. [COLING 2025 tutorial](https://coling2025-edu-llms.github.io)
 	- [Opportunities and Challenges of LLMs in Education: An NLP Perspective](https://arxiv.org/abs/2507.22753). Sowmya Vajjala, Bashar Alhafni, Stefano Bannò, Kaushal Kumar Maurya, Ekaterina Kochmar, 2025
@@ -110,7 +110,7 @@ into emerging challenges, focusing on ethical issues, societal impact and real-w
 - Language learning across modalities (from text to speech) and languages
 
 **Learning materials**:
-- [Slides](https://docs.google.com/presentation/d/19_C5_Ob9KkAE-an29VsNV5pWFRg50cY1)
+- [Slides](https://drive.google.com/file/d/10uplkGlIHxPBTD9W5u0RyeRLv_9E8yA1/view?usp=sharing)
 - Reading list:
 	- [Grammatical Error Correction: A Survey of the State of the Art](https://direct.mit.edu/coli/article/49/3/643/115846/Grammatical-Error-Correction-A-Survey-of-the-State) (Bryant et al., 2023).
 	- [Is ChatGPT a Highly Fluent Grammatical Error Correction System? A Comprehensive Evaluation](https://arxiv.org/pdf/2304.01746). Tao Fang, Shu Yang, Kaixin Lan, Derek F. Wong, Jinpeng Hu, Lidia S. Chao, Yue Zhang. ArXiv preprint, 2023
