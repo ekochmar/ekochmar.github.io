@@ -23,7 +23,7 @@ Accepted to EACL 2026 Demo Track
 [[paper](https://arxiv.org/pdf/2512.03688)] [[toolkit](https://demo-ai-tutor.vercel.app)] [[code](https://github.com/kaushal0494/AITutor-EvalKit)]
 - Kseniia Petukhova and **Ekaterina Kochmar** (2026). 
 _Towards Reward Modeling for AI Tutors in MathMistake Remediation._ 
-Accepter to LREC 2026
+Accepted to LREC 2026
 
 
 <a name="2025"></a> 
