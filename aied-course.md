@@ -29,7 +29,7 @@ into emerging challenges, focusing on ethical issues, societal impact and real-w
 [[To the top](#top)]
 
 <a name="course-outline"></a> 
-# Course Outline
+# Course outline
 
 - **Week 1**: Introduction, core tasks, fundamental concepts [[go to Week1](#week1)]
 - **Week 2**: AI for writing assistance and language learning [[go to Week2](#week2)]
@@ -47,7 +47,7 @@ into emerging challenges, focusing on ethical issues, societal impact and real-w
 
 - [Opportunities for natural language processing research in education](https://link.springer.com/chapter/10.1007/978-3-642-00382-0_2) (Burstein, 2009)
 - [Practical and ethical challenges of large language models in education: A systematic scoping review](https://bera-journals.onlinelibrary.wiley.com/doi/full/10.1111/bjet.13370) (Yan et.al., 2023)
-- [COLING tutorial](https://coling2025-edu-llms.github.io)
+- [COLING 2025 tutorial](https://coling2025-edu-llms.github.io)
 - [BEA 2025 tutorial on LLMs for Education: Understanding the Needs of Stakeholders, Current Capabilities and the Path Forward](https://docs.google.com/presentation/d/1dPdHNRpQnNg0j1KGtbcfdZT9NiDhxdRCFxbsARiAU4I/edit?usp=sharing)
 - [NeuIPS 2024 Workshop on Large Foundation Models for Educational Assessment](https://neurips2024edu.github.io)
 - [AAAI 2024 Workshop on AI in Education](https://coling2025-edu-llms.github.io)
@@ -79,30 +79,23 @@ into emerging challenges, focusing on ethical issues, societal impact and real-w
 
 [[To the top](#top)]
 
+
 <a name="week1"></a> 
-# Week 1: Introduction to Natural Language Processing
+# Week 1: Introduction, core tasks, fundamental concepts
 
-This week's material will **introduce** you to the field of Natural Language Processing, 
-first via overviewing its history and the way the field and its algorithms developed over decades, 
-then by presenting and discussing the **most popular NLP applications and techniques** used to tackle NLP tasks, 
-and finally by linking the NLP techniques and concepts to other fields and approaches.
+Overview: 
+- Introduction and overview of the field and the core tasks
+- Introduction to fundamental concepts (including Bloom's taxonomy, scaffolding, etc.), techniques and theories (including knowledge tracing and item response theory, among others) from the learning sciences
+- Overview of the key AI techniques used in education
+- Overview of the core tasks
+- AI in education in academic and industrial contexts (including OpenAI’s educational models, Google’s LearnLM, Khan Academy’s Khanmigo, etc.)
 
-In addition, in the course of this week you will make your first practical steps in implementation of an NLP algorithm. 
-You will learn how to structure an NLP project from the beginning to end and you will focus on the first crucial step in an NLP application – **tokenization**. 
-You will learn why this is challenging and how a tokenizer can be implemented in practice. 
-Finally, we will conclude with the remarks on language use and word distribution, 
-and observations on the implications this has for NLP algorithms. 
-You will also run some **frequency analysis** yourself – such analysis is often an important step in the preliminary data investigation, 
-which may inform and help you shape your approach to the specific NLP task you are working on.
-
-- [Handout](https://drive.google.com/file/d/1JZKcb35nCIpWnyrOh0ishHyrbWLU1AdD/view?usp=sharing) for Week 1
-- [Slides](https://drive.google.com/file/d/18ZwmPMy-v-kJ2WYoLVCgyNuuPuWMUlP2/view?usp=sharing) on Introduction to NLP
-- Programming exercises:
-	- [Tokenization.ipynb](https://colab.research.google.com/drive/1FqqmP1ux40fmuikDGmnriIqwzeGsV7UT?usp=sharing)
-	- [FrequencyAnalysis.ipynb](https://colab.research.google.com/drive/1OZf4KGBhZctl_zGLLbZv-u-qqCnDV4gg?usp=sharing)
-- Sample solutions:
-	- For [Tokenization.ipynb](https://colab.research.google.com/drive/1KcYLNzrlS98kqwErzZRM7hQKBkAjZzM5?usp=sharing)
-	- For [FrequencyAnalysis.ipynb](https://colab.research.google.com/drive/1K3NN3SXDlBSt3wEfet4Y8DmXek0WT4vm?usp=sharing)
+Learning materials:
+- [Slides](https://docs.google.com/presentation/d/1S8PAya0zWwhuqWYiNqrPUY9BS2ojD3cL/edit?slide=id.p6#slide=id.p6)
+- Reading list:
+	- LLMs in education: Novel perspectives, challenges, and opportunities. Bashar Alhafni, Sowmya Vajjala, Stefano Bannò, Kaushal Kumar Maurya, Ekaterina Kochmar. [COLING 2025 tutorial](https://coling2025-edu-llms.github.io)
+	- [Opportunities and Challenges of LLMs in Education: An NLP Perspective](https://arxiv.org/abs/2507.22753). Sowmya Vajjala, Bashar Alhafni, Stefano Bannò, Kaushal Kumar Maurya, Ekaterina Kochmar, 2025
+	- [Large language models for education: A survey and outlook](https://arxiv.org/pdf/2403.18105). Wang, Shen, Tianlong Xu, Hang Li, Chaoli Zhang, Joleen Liang, Jiliang Tang, Philip S. Yu, and Qingsong Wen, 2024
 
 
 [[To the top](#top)]
