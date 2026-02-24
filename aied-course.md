@@ -83,50 +83,45 @@ into emerging challenges, focusing on ethical issues, societal impact and real-w
 <a name="week1"></a> 
 # Week 1: Introduction, core tasks, fundamental concepts
 
-Overview: 
+**Overview**: 
 - Introduction and overview of the field and the core tasks
 - Introduction to fundamental concepts (including Bloom's taxonomy, scaffolding, etc.), techniques and theories (including knowledge tracing and item response theory, among others) from the learning sciences
 - Overview of the key AI techniques used in education
 - Overview of the core tasks
 - AI in education in academic and industrial contexts (including OpenAI’s educational models, Google’s LearnLM, Khan Academy’s Khanmigo, etc.)
 
-Learning materials:
-- [Slides](https://docs.google.com/presentation/d/1S8PAya0zWwhuqWYiNqrPUY9BS2ojD3cL/edit?slide=id.p6#slide=id.p6)
+**Learning materials**:
+- [Slides](https://docs.google.com/presentation/d/1S8PAya0zWwhuqWYiNqrPUY9BS2ojD3cL)
 - Reading list:
 	- LLMs in education: Novel perspectives, challenges, and opportunities. Bashar Alhafni, Sowmya Vajjala, Stefano Bannò, Kaushal Kumar Maurya, Ekaterina Kochmar. [COLING 2025 tutorial](https://coling2025-edu-llms.github.io)
 	- [Opportunities and Challenges of LLMs in Education: An NLP Perspective](https://arxiv.org/abs/2507.22753). Sowmya Vajjala, Bashar Alhafni, Stefano Bannò, Kaushal Kumar Maurya, Ekaterina Kochmar, 2025
 	- [Large language models for education: A survey and outlook](https://arxiv.org/pdf/2403.18105). Wang, Shen, Tianlong Xu, Hang Li, Chaoli Zhang, Joleen Liang, Jiliang Tang, Philip S. Yu, and Qingsong Wen, 2024
 
-
 [[To the top](#top)]
 
 
 <a name="week2"></a> 
-# Week 2: Introduction to Information Retrieval
+# Week 2: AI for writing assistance and language learning
 
-This week, we will "zoom in" on one of the popular and widely used NLP applications – **Information Search** or **Information Retrieval (IR)**. 
-We will look closely into each step involved in this application, and by the end of this week you will be able to implement an information search algorithm yourself.
+**Overview**: 
+- Overview of the core tasks: writing assistants, grammatical error detection (GED) and correction (GEC)
+- LLM-empowered writing assistance and assessment
+- State-of-the-art AI-based approaches to GEC, GED, and grammatical error explanation (GEE)
+- Language learning across modalities (from text to speech) and languages
 
-Information search is not only a popular application (you may recall that it helps you find relevant information on the Internet as well as in a collection of documents on your computer), but also a suitable one to be working on in Week 2. 
-Besides learning a few practical aspects about the information search algorithms, you will also learn about such fundamental NLP concepts and techniques as **vector-based representations**, **lemmatization** and **stemming**, and **term and document weighting**. 
-These concepts and techniques are used across multiple tasks in NLP, and you will be using them again and again in the next weeks.
-
-- [Handout](https://drive.google.com/file/d/1eJiFnpjtvJZTAhMxqVF0_SSKTNAnk3IR/view?usp=sharing) for Week 2
-- [Slides](https://drive.google.com/file/d/1SiWOGf9911aki29r1KqMbn8aKaTRw1X3/view?usp=sharing) on Introduction to IR
-- Programming exercises:
-	- [Data](https://drive.google.com/file/d/1ru80Kxi8BD2NizRuQQwN0EOLbaQLSol7/view?usp=sharing)
-	- [TermWeighting.ipynb](https://colab.research.google.com/drive/1ZUrQ_Mx-4oAbsPWoqjVYSm3ll7uiLIZr?usp=sharing)
-	- [EndToEnd.ipynb](https://colab.research.google.com/drive/1MlJiUVC_4cN5YZVYP-8mojJdEThquCHk?usp=sharing)
-- Sample solutions:
-	- For [TermWeighting.ipynb](https://colab.research.google.com/drive/1w8Oefxz_1l3J2efR8AF6ULiH62WPGw82?usp=sharing)
-	- For [EndToEnd.ipynb](https://colab.research.google.com/drive/1GkB6uqpgGRDkGKTXx8IwNe7KXtwOW_w-?usp=sharing)
-
+**Learning materials**:
+- [Slides](https://docs.google.com/presentation/d/19_C5_Ob9KkAE-an29VsNV5pWFRg50cY1)
+- Reading list:
+	- [Grammatical Error Correction: A Survey of the State of the Art](https://direct.mit.edu/coli/article/49/3/643/115846/Grammatical-Error-Correction-A-Survey-of-the-State) (Bryant et al., 2023).
+	- [Is ChatGPT a Highly Fluent Grammatical Error Correction System? A Comprehensive Evaluation](https://arxiv.org/pdf/2304.01746). Tao Fang, Shu Yang, Kaixin Lan, Derek F. Wong, Jinpeng Hu, Lidia S. Chao, Yue Zhang. ArXiv preprint, 2023
+	- [GEE! Grammar Error Explanation with Large Language Models](https://aclanthology.org/2024.findings-naacl.49.pdf). Yixiao Song, Kalpesh Krishna, Rajesh Bhatt, Kevin Gimpel, Mohit Iyyer. Findings of NAACL 2024
+	- [Towards End-to-End Spoken Grammatical Error Correction](https://arxiv.org/pdf/2311.05550). Stefano Banno, Rao Ma, Mengjie Qian, Kate M. Knill, Mark J.F. Gales. In ICASSP 2024
 
 [[To the top](#top)]
 
 
 <a name="week3"></a> 
-# Week 3: Part-of-Speech Tagging
+# Week 3: Intelligent Tutoring Systems
 
 This week and next week will follow up with another popular and widely used NLP application – **Information Extraction**.
 
@@ -149,7 +144,7 @@ This week, we will focus on how this NLP task is solved: specifically, we will d
 [[To the top](#top)]
 
 <a name="week4"></a> 
-# Week 4: Syntactic Analysis 
+# Week 4: Learner analytics and personalization 
 
 Last week we started looking into another popular and widely used NLP application – **Information Extraction (IE)**. 
 A reminder: while Information Retrieval algorithms help you find a set of documents that generally answer your information need, IE algorithms are used to identify precise answers to specific questions. 
@@ -170,7 +165,7 @@ The final section then will bring the concepts and techniques studied over these
 [[To the top](#top)]
 
 <a name="week5"></a> 
-# Week 5: Text Classification Approaches
+# Week 5: LLM alignment for educational applications
 
 This week you will build upon the knowledge acquired over the previous weeks and will start working on the applications at the intersection of machine learning (ML) and NLP. 
 You may recall from Week 1 that ML is widely used in many NLP tasks. 
@@ -193,7 +188,7 @@ This week, you will focus on two popular text classification tasks – **sentime
 [[To the top](#top)]
 
 <a name="week6"></a> 
-# Week 6: Unsupervised approaches in NLP
+# Week 6: Agentic AI for educational applications
 
 This week you will continue learning about the application of the machine learning approaches to NLP. 
 One of the key aspects that allow you to frame a task as a supervised machine learning task is the availability of clearly defined classes and, importantly, data that is annotated with such classes, for example, by domain experts. 
@@ -217,7 +212,7 @@ This week, you will learn about the applications of unsupervised machine learnin
 
 
 <a name="week7"></a> 
-# Week 7: Semantics and meaning representation
+# Week 7: Human-computer interaction and real-life applications
 
 All approaches discussed so far essentially used words as symbols devoid of any particular meaning. 
 While it is true that the algorithms you have been looking into did not need to know what a word means to use it as an informative feature in a particular task (e.g., a spam filter does not actually need to understand what the word *lottery* means to associate it with the spam class), it is a simplistic view of language, and word meaning plays a central role in more challenging, natural language understanding and reasoning tasks.
