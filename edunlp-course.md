@@ -1,7 +1,7 @@
 ---
 layout: page
 title: EduNLP course
-permalink: /nlp-course/
+permalink: /edunlp-course/
 ---
 
 This is the webpage for the **Generative AI-powered Educational Applications** course, a PhD-level elective course that I taught at MBZUAI in Spring 2026.
@@ -17,7 +17,7 @@ By the end of this course, you will be able to build your own NLP application in
 - [Learning outcomes](#learning-outcomes)
 - [Reading list](#reading-list)
 - Material: [Week 1](#week1), [Week 2](#week2), [Week 3](#week3), [Week 4](#week4), 
-[Week 5](#week5), [Week 6](#week6), [Week 7](#week7), [Week 8](#week8), [Week 9](#week9)
+[Week 5](#week5), [Week 6](#week6), [Week 7](#week7)
 
 
 <a name="overview"></a> 
@@ -227,51 +227,5 @@ The subfield of linguistics and NLP that studies meaning in language is called *
 	- [AnalogySolver.ipynb](https://colab.research.google.com/drive/1sLK46LcSDaT7f165Gp4nJZf6GuZ8Z-Ys?usp=sharing)
 - Sample solutions:	
 	- For [AnalogySolver.ipynb](https://colab.research.google.com/drive/1s44G4TeUhNJp9p3fLXSJvCLCCxLM6i0J?usp=sharing)
-
-[[To the top](#top)]
-
-
-<a name="week8"></a> 
-# Week 8: Sequence modelling and labelling
-
-Most of the tasks that you've addressed so far have treated text as a collection of individual words or groups of words. 
-Such approach is called **bag-of-words** (or **bag-of-ngrams**) as it does not take into account the order in which words and groups of words follow each other. 
-In Week 3, we made an observation that text is not a mere collection of disconnected words: behind the way the words are put together in sentences (and sentences are put together in larger units) lies a well-defined structure determined by the laws of language, and we first discussed sequence models then. 
-You explored the syntactic structures and grammatical relations that link words together, however, you have not yet explored the structure that governs word composition in language to the full extent. 
-
-This week’s topic is **sequence modelling** and **sequence labelling** in NLP. 
-You have already encountered one NLP task that relies on sequential information (*part-of-speech tagging* in Week 3), and this week will explore in more detail further sequence modelling and labelling approaches and their application to such tasks as **named entity recognition** and **language modelling**.
-
-- [Handout](https://drive.google.com/file/d/1oMd5JLixfFRoY40NdaeJe0taaHh7LK5b/view?usp=sharing) for Week 8
-- [Slides](https://drive.google.com/file/d/1dfC9l7Omh5oKihOWMrTStbEqpVyQAgbx/view?usp=sharing) on Sequence modelling and labelling
-- Programming exercises:
-	- [NERPractice.ipynb](https://colab.research.google.com/drive/1ZMkYP0xA0EGnE3l75k8N5mo8LFClh1Uq?usp=sharing)
-	- [SimpleLM.ipynb](https://colab.research.google.com/drive/1Nv3sYjUHWum6QOq-Hci3AWMPbHviprd4?usp=sharing)
-	- [RNN-LM.ipynb](https://colab.research.google.com/drive/1IFdzhgkU6wTcA68UBBhhU72OMQUsOE7N?usp=sharing)
-- Sample solutions:	
-	- For [SimpleLM.ipynb](https://colab.research.google.com/drive/1QRzLWuntvAgT_mppD8u0Ck9VsrFanVhF?usp=sharing)
-
-[[To the top](#top)]
-
-<a name="week9"></a> 
-# Week 9: Current trends and challenges in NLP
-
-This week concludes the course on Natural Language Processing. 
-Previous weeks introduced the fundamental concepts and techniques in NLP and provided you with an in-depth analysis of the main tasks and applications.
-Like any other sub-field of Artificial Intelligence, NLP is a fast-developing field that has seen an increased level of attention in the past years. 
-Firstly, language is our primary means of communication: the ability to use language is one of the core intellectual abilities in humans, which means that NLP is one of the key areas to address in AI. 
-Secondly, language is a highly structured system, which lends itself to the application of formalisms and machine learning models, which makes it feasible for computers to process, understand and generate natural language with a relative success. 
-However, thirdly, despite being a structured system, language is highly creative and full of exceptions, which makes this field interesting and challenging to work in: despite impressive progress on many tasks achieved by NLP researchers in the recent years, we are still far from having systems that actually understand natural language. 
-These factors combined make this field popular and actively researched. 
-
-With the amount of research going on in NLP, it would be impossible to cover all current NLP approaches in one course. 
-Therefore, this week describes **current challenges in the field** and points in the direction of the **current trends**.
-
-- [Handout](https://drive.google.com/file/d/1GCK7LWLbimWA18_44-t3tQDftSZi7PGV/view?usp=sharing) for Week 9
-- Exercises:
-	- [Exercise sheet](https://drive.google.com/file/d/14nVIssVSJvdc752hiZ_iZNfIdunV3zWL/view?usp=sharing)
-	- [Revision lecture slides](https://drive.google.com/file/d/1XIxg1s9q3D10ifB_xKXZMFJQz00yo-Pz/view?usp=sharing)
-- Sample solutions:	
-	- For the [exercise sheet](https://drive.google.com/file/d/1jv8yRNE3-3_v7qgfqWkhKVWR8qVbVxyN/view?usp=sharing)
 
 [[To the top](#top)]
