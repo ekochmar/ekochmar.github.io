@@ -179,23 +179,18 @@ into emerging challenges, focusing on ethical issues, societal impact and real-w
 <a name="week6"></a> 
 # Week 6: Agentic AI for educational applications
 
-This week you will continue learning about the application of the machine learning approaches to NLP. 
-One of the key aspects that allow you to frame a task as a supervised machine learning task is the availability of clearly defined classes and, importantly, data that is annotated with such classes, for example, by domain experts. 
-Then a machine learning algorithm can be trained on such labelled data, and it can learn to associate the features with the classes. 
-Despite the fact that the amount of such labelled training data is consistently growing, enabling researchers and practitioners to develop further ML and NLP applications, data annotation is a challenging, time-consuming and often expensive task. 
-An alternative to this framework is **unsupervised machine learning**. 
-Unsupervised approaches are useful not only in cases where labelled data is unavailable or hard to collect, but also for the tasks where classes are not known in advance or can change over time. 
+**Overview**: 
+- Applications of agentic AI to education
+- Mechanisms of multi-agent collaboration in educational contexts
 
-This week, you will learn about the applications of unsupervised machine learning in NLP and, continuing with the theme of topic analysis, you will apply two unsupervised methods in practice – **k-means clustering** for topic analysis and **Latent Dirichlet allocation** (LDA) for **topic modelling**.
-
-- [Handout](https://drive.google.com/file/d/1XgaGg9d6eBklY8ioYAIdh91S0cLr2xdZ/view?usp=sharing) for Week 6
-- [Slides](https://drive.google.com/file/d/1d1fGu60KWS2fbA5P3N4W9d2mAxF4Eid7/view?usp=sharing) on Unsupervised approaches in NLP
-- Programming exercises:
-	- [TopicClustering.ipynb](https://colab.research.google.com/drive/1u9AaE1BHvKnDuqkgNHUDwphaIHcAglPU?usp=sharing)
-	- [TopicModelling.ipynb](https://colab.research.google.com/drive/1ec898KkQNRwURsfhPR6hY0SiLj5zwq5M?usp=sharing)
-- Sample solutions:	
-	- For [TopicClustering.ipynb](https://colab.research.google.com/drive/138R6xRmst3PIzNRIqTYtZSNTcowRAHVH?usp=sharing)
-	- For [TopicModelling.ipynb](https://colab.research.google.com/drive/1BBRx81n41hzVNhMKvIJGR32Vh7BWXSg9?usp=sharing)
+**Learning materials**:
+- [Slides](https://drive.google.com/file/d/1LjhYMkaJqxEbggaHeJ3ryhjW1CE4QXyq/view?usp=sharing)
+- Reading list:
+	- [Architecture for building conversational agents that support collaborative learning](https://ieeexplore.ieee.org/document/5669250). Rohit Kumar and Carolyn P. Rose. IEEE Transactions on Learning Technologies, 4(1), 21–34. 2010
+	- [AI agents and education: Simulated practice at scale](https://arxiv.org/pdf/2407.12796). Ethan Mollick, Lilach Mollick, Natalie Bach, LJ Ciccarelli, Ben Przystanski, Daniel Ravipinto. arXiv preprint arXiv:2407.12796, 2024
+	- [Content Knowledge Identification with Multi-Agent Large Language Models (LLMs)](https://arxiv.org/pdf/2404.07960). Kaiqi Yang, Yucheng Chu, Taylor Darwin, Ahreum Han, Hang Li, Hongzhi Wen, Yasemin Copur-Gencturk, Jiliang Tang, and Hui Liu. In International Conference on Artificial Intelligence in Education (pp. 284-292), 2024
+	- [MEDCO: Medical Education Copilots Based on A Multi-Agent Framework](https://arxiv.org/pdf/2407.12796). Hao Wei, Jianing Qiu, Haibao Yu, and Wu Yuan. ECCV, 2024
+	- [KELE: A Multi-Agent Framework for Structured Socratic Teaching with Large Language Models](https://aclanthology.org/2025.findings-emnlp.888.pdf). Xian Peng, Pan Yuan, Dong Li, Junlong Cheng, Qin Fang, Zhi Liu. EMNLP 2025
 
 [[To the top](#top)]
 
