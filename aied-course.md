@@ -189,7 +189,7 @@ into emerging challenges, focusing on ethical issues, societal impact and real-w
 	- [Architecture for building conversational agents that support collaborative learning](https://ieeexplore.ieee.org/document/5669250). Rohit Kumar and Carolyn P. Rose. IEEE Transactions on Learning Technologies, 4(1), 21–34. 2010
 	- [AI agents and education: Simulated practice at scale](https://arxiv.org/pdf/2407.12796). Ethan Mollick, Lilach Mollick, Natalie Bach, LJ Ciccarelli, Ben Przystanski, Daniel Ravipinto. arXiv preprint arXiv:2407.12796, 2024
 	- [Content Knowledge Identification with Multi-Agent Large Language Models (LLMs)](https://arxiv.org/pdf/2404.07960). Kaiqi Yang, Yucheng Chu, Taylor Darwin, Ahreum Han, Hang Li, Hongzhi Wen, Yasemin Copur-Gencturk, Jiliang Tang, and Hui Liu. In International Conference on Artificial Intelligence in Education (pp. 284-292), 2024
-	- [MEDCO: Medical Education Copilots Based on A Multi-Agent Framework](https://arxiv.org/pdf/2407.12796). Hao Wei, Jianing Qiu, Haibao Yu, and Wu Yuan. ECCV, 2024
+	- [MEDCO: Medical Education Copilots Based on A Multi-Agent Framework](https://arxiv.org/pdf/2408.12496). Hao Wei, Jianing Qiu, Haibao Yu, and Wu Yuan. ECCV, 2024
 	- [KELE: A Multi-Agent Framework for Structured Socratic Teaching with Large Language Models](https://aclanthology.org/2025.findings-emnlp.888.pdf). Xian Peng, Pan Yuan, Dong Li, Junlong Cheng, Qin Fang, Zhi Liu. EMNLP 2025
 
 [[To the top](#top)]
