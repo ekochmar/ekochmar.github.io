@@ -124,7 +124,7 @@ into emerging challenges, focusing on ethical issues, societal impact and real-w
 # Week 3: Intelligent Tutoring Systems
 
 **Overview**: 
-- Introduction into the theory and practice of building Intelligent Tutoring Systems (ITSs)
+- Introduction to the theory and practice of building Intelligent Tutoring Systems (ITSs)
 - From traditional ITSs to modern, AI-powered systems – what generative AI can do for us?
 - ITSs across domains and subject areas
 - Evaluation of ITS – from purely intrinsic metrics to extrinsic (i.e., learner-based) evaluation
