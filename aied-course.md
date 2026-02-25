@@ -127,7 +127,7 @@ into emerging challenges, focusing on ethical issues, societal impact and real-w
 - Introduction to the theory and practice of building Intelligent Tutoring Systems (ITSs)
 - From traditional ITSs to modern, AI-powered systems – what generative AI can do for us?
 - ITSs across domains and subject areas
-- Evaluation of ITS – from purely intrinsic metrics to extrinsic (i.e., learner-based) evaluation
+- Evaluation of ITSs – from purely intrinsic metrics to extrinsic (i.e., learner-based) evaluation
 
 **Learning materials**:
 - [Slides](https://drive.google.com/file/d/1XAz1bdj-6e0DAAHWOuOjA6hZb7LZixAC/view?usp=sharing)
