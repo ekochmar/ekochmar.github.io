@@ -17,13 +17,26 @@ permalink: /publications/
 
 <a name="2026"></a> 
 # 2026
+- Kseniia Petukhova, Tien Dat Nguyen, and **Ekaterina Kochmar** (2026).
+_Towards Pedagogically Aligned LLM Tutors for Math Mistake Remediation._ 
+Accepted to BEA 2026
+[[data](https://github.com/Kpetyxova/towards-aligned-math-tutor)] [[code](https://github.com/Kpetyxova/towards-aligned-math-tutor)]
+- Mariam Barakat and **Ekaterina Kochmar** (2026).
+_Teaching Through Analogies: A Modular Pipeline for Educational Analogy Generation._ 
+Accepted to BEA 2026
+[[data](https://github.com/Myriam2002/Toward-Usable-Scientific-Analogies)] [[code](https://github.com/Myriam2002/Toward-Usable-Scientific-Analogies)]
+- Sowmya Vajjala, Bashar Alhafni, Stefano Bannò, Kaushal Kumar Maurya, and **Ekaterina Kochmar** (2026).
+_Opportunities and Challenges of LLMs in Education: An NLP Perspective._ 
+Accepted to BEA 2026
+[[paper](https://arxiv.org/pdf/2507.22753?)]
 - Numaan Naeem, Kaushal Kumar Maurya, Kseniia Petukhova, and **Ekaterina Kochmar** (2026).
 _AITutor-EvalKit: Exploring the Capabilities of AI Tutors._ 
-Accepted to EACL 2026 Demo Track
+In Proceedings of EACL 2026 Demo Track
 [[paper](https://arxiv.org/pdf/2512.03688)] [[toolkit](https://demo-ai-tutor.vercel.app)] [[code](https://github.com/kaushal0494/AITutor-EvalKit)]
 - Kseniia Petukhova and **Ekaterina Kochmar** (2026). 
 _Towards Reward Modeling for AI Tutors in MathMistake Remediation._ 
-Accepted to LREC 2026
+In Proceedings of LREC 2026
+[[paper](https://arxiv.org/pdf/2603.24375)] [[data](https://github.com/Kpetyxova/Towards_Reward_Modeling_for_Tutors)] [[code](https://github.com/Kpetyxova/Towards_Reward_Modeling_for_Tutors)]
 
 
 <a name="2025"></a> 
