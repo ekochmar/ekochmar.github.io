@@ -4,17 +4,22 @@ title: About
 permalink: /about/
 ---
 
-I am an Assistant Professor at the [Natural Language Processing Department at MBZUAI](https://mbzuai.ac.ae/research/department/natural-language-processing-department/), where
-I conduct research at the intersection of artificial intelligence, natural language processing and intelligent tutoring systems.
+From July 2026, I am an Associate Professor at the [Department of Computer Science](https://www.uvic.ca/ecs/index.php) of the University of Victoria, where I conduct 
+research at the intersection of artificial intelligence, natural language processing and intelligent tutoring systems.
 
-Previously, I was a Lecturer (Assistant Professor) at the Department of Computer Science of the University of Bath, where I was part of the AI research group; and 
-prior to that, I was a post-doctoral researcher at the ALTA (Automated Language Teaching and Assessment) Institute, [University of Cambridge](https://www.cl.cam.ac.uk/research/nl/people/), focusing on the development of educational applications for second language learners. 
+Previously, I was an Assistant Professor at the Natural Language Processing Department at MBZUAI, and prior to that – a Lecturer (Assistant Professor) at the Department of 
+Computer Science of the University of Bath, where I was part of the AI research group. Before becoming a faculty member, I was a post-doctoral researcher at the ALTA 
+(Automated Language Teaching and Assessment) Institute, [University of Cambridge](https://www.cl.cam.ac.uk/research/nl/people/), focusing on the development of educational 
+applications for second language learners. 
 My research contributed to the building of [Read & Improve](https://readandimprove.englishlanguageitutoring.com), a readability tool for non-native readers of English. 
 
-I have also co-founded and served as the chief scientific officer of [Korbit AI](https://www.korbit.ai), focusing on building an AI-powered dialogue-based tutoring system capable of providing learners with high-quality, interactive and personalized education in STEM subjects. 
+I have also co-founded and served as the chief scientific officer of [Korbit AI](https://www.korbit.ai), focusing on building an AI-powered dialogue-based tutoring system 
+capable of providing learners with high-quality, interactive and personalized education in STEM subjects. 
 
-I hold a PhD in Natural Language Processing and an MPhil in Advanced Computer Science from the University of Cambridge, an MA degree in Computational Linguistics from the University of Tübingen, and a diploma in Applied Linguistics from St. Petersburg State University. 
-I am also the President of the Special Interest Group on Building Educational Applications ([SIGEDU](https://sig-edu.org)) of the Association for Computational Linguistics (ACL), and I was the President of the International Alliance to Advance Learning in the Digital Era ([IAALDE](https://alliancelss.com)) in 2022-2024.
+I hold a PhD in Natural Language Processing and an MPhil in Advanced Computer Science from the University of Cambridge, an MA degree in Computational Linguistics 
+from the University of Tübingen, and a diploma in Applied Linguistics from St. Petersburg State University. 
+I am also the President of the Special Interest Group on Building Educational Applications ([SIGEDU](https://sig-edu.org)) of the Association for Computational 
+Linguistics (ACL), and I was the President of the International Alliance to Advance Learning in the Digital Era ([IAALDE](https://alliancelss.com)) in 2022-2024.
 
 You can find my CV [here](https://drive.google.com/file/d/1vNvZ2S6FNU7M-gsHU1mFHaTjEiinYkST/view?usp=sharing). 
 For more information, see my [old webpage](https://www.cl.cam.ac.uk/~ek358/).
