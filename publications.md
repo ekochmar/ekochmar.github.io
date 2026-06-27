@@ -20,11 +20,11 @@ permalink: /publications/
 - Kseniia Petukhova, Tien Dat Nguyen, and **Ekaterina Kochmar** (2026).
 _Towards Pedagogically Aligned LLM Tutors for Math Mistake Remediation._ 
 Accepted to BEA 2026
-[[data](https://github.com/Kpetyxova/towards-aligned-math-tutor)] [[code](https://github.com/Kpetyxova/towards-aligned-math-tutor)]
+[[paper](https://arxiv.org/pdf/2606.21502)] [[data](https://github.com/Kpetyxova/towards-aligned-math-tutor)] [[code](https://github.com/Kpetyxova/towards-aligned-math-tutor)]
 - Mariam Barakat and **Ekaterina Kochmar** (2026).
 _Teaching Through Analogies: A Modular Pipeline for Educational Analogy Generation._ 
 Accepted to BEA 2026
-[[data](https://github.com/Myriam2002/Toward-Usable-Scientific-Analogies)] [[code](https://github.com/Myriam2002/Toward-Usable-Scientific-Analogies)]
+[[paper](https://arxiv.org/pdf/2605.24211)] [[data](https://github.com/Myriam2002/Toward-Usable-Scientific-Analogies)] [[code](https://github.com/Myriam2002/Toward-Usable-Scientific-Analogies)]
 - Sowmya Vajjala, Bashar Alhafni, Stefano Bannò, Kaushal Kumar Maurya, and **Ekaterina Kochmar** (2026).
 _Opportunities and Challenges of LLMs in Education: An NLP Perspective._ 
 Accepted to BEA 2026
