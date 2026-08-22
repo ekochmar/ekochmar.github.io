@@ -17,17 +17,20 @@ permalink: /publications/
 
 <a name="2026"></a> 
 # 2026
+- Joseph Marvin Imperial, Junhong Liang, Belal Shoer, Abdullah Barayan, Rodrigo Wilkens, Omar Mussa, Dawn Knight, Eugénio Ribeiro, **Ekaterina Kochmar**, Sowmya Vajjala, Fernando Alva-Manchego, Harish Tayyar Madabushi (2026).
+_ComplexityMT: Benchmarking the Interaction Between Text Complexity and Machine Translation._ 
+Accepted to EMNLP 2026
 - Kseniia Petukhova, Tien Dat Nguyen, and **Ekaterina Kochmar** (2026).
 _Towards Pedagogically Aligned LLM Tutors for Math Mistake Remediation._ 
-Accepted to BEA 2026
+In Proceedings of BEA 2026
 [[paper](https://arxiv.org/pdf/2606.21502)] [[data](https://github.com/Kpetyxova/towards-aligned-math-tutor)] [[code](https://github.com/Kpetyxova/towards-aligned-math-tutor)]
 - Mariam Barakat and **Ekaterina Kochmar** (2026).
 _Teaching Through Analogies: A Modular Pipeline for Educational Analogy Generation._ 
-Accepted to BEA 2026
+In Proceedings of BEA 2026
 [[paper](https://arxiv.org/pdf/2605.24211)] [[data](https://github.com/Myriam2002/Toward-Usable-Scientific-Analogies)] [[code](https://github.com/Myriam2002/Toward-Usable-Scientific-Analogies)]
 - Sowmya Vajjala, Bashar Alhafni, Stefano Bannò, Kaushal Kumar Maurya, and **Ekaterina Kochmar** (2026).
 _Opportunities and Challenges of LLMs in Education: An NLP Perspective._ 
-Accepted to BEA 2026
+In Proceedings of BEA 2026
 [[paper](https://arxiv.org/pdf/2507.22753?)]
 - Numaan Naeem, Kaushal Kumar Maurya, Kseniia Petukhova, and **Ekaterina Kochmar** (2026).
 _AITutor-EvalKit: Exploring the Capabilities of AI Tutors._ 
