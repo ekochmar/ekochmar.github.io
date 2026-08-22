@@ -20,6 +20,7 @@ permalink: /publications/
 - Joseph Marvin Imperial, Junhong Liang, Belal Shoer, Abdullah Barayan, Rodrigo Wilkens, Omar Mussa, Dawn Knight, Eugénio Ribeiro, **Ekaterina Kochmar**, Sowmya Vajjala, Fernando Alva-Manchego, Harish Tayyar Madabushi (2026).
 _ComplexityMT: Benchmarking the Interaction Between Text Complexity and Machine Translation._ 
 Accepted to EMNLP 2026
+[[paper](https://arxiv.org/pdf/2606.05421)] [[data](https://huggingface.co/datasets/UniversalCEFR/ComplexityMT)] [[code](https://github.com/UniversalCEFR/ComplexityMT)]
 - Kseniia Petukhova, Tien Dat Nguyen, and **Ekaterina Kochmar** (2026).
 _Towards Pedagogically Aligned LLM Tutors for Math Mistake Remediation._ 
 In Proceedings of BEA 2026
