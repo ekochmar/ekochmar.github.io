@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-From July 2026, I am an Associate Professor at the [Department of Computer Science](https://www.uvic.ca/ecs/index.php) of the University of Victoria, where I conduct 
+I am an Associate Professor at the [Department of Computer Science](https://www.uvic.ca/ecs/index.php) of the University of Victoria, where I conduct 
 research at the intersection of artificial intelligence, natural language processing and intelligent tutoring systems.
 
 Previously, I was an Assistant Professor at the Natural Language Processing Department at MBZUAI, and prior to that – a Lecturer (Assistant Professor) at the Department of 
