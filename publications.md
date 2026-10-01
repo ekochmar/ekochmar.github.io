@@ -17,7 +17,11 @@ permalink: /publications/
 
 <a name="2026"></a> 
 # 2026
-- Joseph Marvin Imperial, Junhong Liang, Belal Shoer, Abdullah Barayan, Rodrigo Wilkens, Omar Mussa, Dawn Knight, Eugénio Ribeiro, **Ekaterina Kochmar**, Sowmya Vajjala, Fernando Alva-Manchego, Harish Tayyar Madabushi (2026).
+- Junior Cedric Tonga, KV Srivatsa, Kaushal Kumar Maurya, Fajri Koto, and **Ekaterina Kochmar** (2026).
+_Simulating LLM-to-LLM tutoring for multilingual math feedback._ 
+Accepted to the 4th Workshop on Mathematical Natural Language Processing (MathNLP 2026)
+[[paper](https://arxiv.org/pdf/2506.04920?)]
+- Joseph Marvin Imperial, Junhong Liang, Belal Shoer, Abdullah Barayan, Rodrigo Wilkens, Omar Mussa, Dawn Knight, Eugénio Ribeiro, **Ekaterina Kochmar**, Sowmya Vajjala, Fernando Alva-Manchego, and Harish Tayyar Madabushi (2026).
 _ComplexityMT: Benchmarking the Interaction Between Text Complexity and Machine Translation._ 
 Accepted to EMNLP 2026
 [[paper](https://arxiv.org/pdf/2606.05421)] [[data](https://huggingface.co/datasets/UniversalCEFR/ComplexityMT)] [[code](https://github.com/UniversalCEFR/ComplexityMT)]
