@@ -42,7 +42,7 @@ _AITutor-EvalKit: Exploring the Capabilities of AI Tutors._
 In Proceedings of EACL 2026 Demo Track
 [[paper](https://arxiv.org/pdf/2512.03688)] [[toolkit](https://demo-ai-tutor.vercel.app)] [[code](https://github.com/kaushal0494/AITutor-EvalKit)]
 - Kseniia Petukhova and **Ekaterina Kochmar** (2026). 
-_Towards Reward Modeling for AI Tutors in MathMistake Remediation._ 
+_Towards Reward Modeling for AI Tutors in Math Mistake Remediation._ 
 In Proceedings of LREC 2026
 [[paper](https://arxiv.org/pdf/2603.24375)] [[data](https://github.com/Kpetyxova/Towards_Reward_Modeling_for_Tutors)] [[code](https://github.com/Kpetyxova/Towards_Reward_Modeling_for_Tutors)]
 
